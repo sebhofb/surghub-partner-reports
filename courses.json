@@ -1,0 +1,3986 @@
+{
+  "as_of": "2026-10-23",
+  "updated_at": "2026-10-23T09:12:48.996Z",
+  "source": "SURGhub, via SURGdash (Global Surgery Foundation)",
+  "popular_cutoff_90d": 223,
+  "top_rated_cutoff": 4.71,
+  "spotlight": "c-arm-intraoperative-imaging-ankle-fractures",
+  "lists": {
+    "Featured": [
+      "c-arm-intraoperative-imaging-ankle-fractures"
+    ],
+    "Free": [
+      "canecsa-research-methodology-course",
+      "essential-emergency-and-critical-care",
+      "surgical-foundations",
+      "essential-burn-care",
+      "tecsalud-suture-technique",
+      "complex-lower-extremity-trauma-pelvic-fractures",
+      "infection-control-prevention-2023",
+      "ppe",
+      "burn-sepsis",
+      "trauma-disaster-team-response-mcgill",
+      "learning-and-teaching-ultrasound-guided-regional-anesthesia-safely",
+      "surgical-instrument-testing-and-inspection",
+      "heat-stable-carbetocin-for-prevention-of-pph-at-c-section",
+      "spinal-anaesthesia-theory-and-practice",
+      "facial-trauma",
+      "triage-resuscitation",
+      "tecsalud-basic-principles-wound-management",
+      "patient-centred-care",
+      "pen-programme",
+      "acute-appendicitis",
+      "tecnica-suturas-puntos",
+      "exploring-perioperative-nursing",
+      "anaesthesia-caesarean-delivery",
+      "certificate-community-engagement-involvement-surgical-research",
+      "laparoscopic-cholecystectomy",
+      "basic-caesarean-section",
+      "managing-a-high-voltage-burn-in-a-low-resource-setting",
+      "anesthesie-locoregionale-echoguidee",
+      "fundamentals-war-surgery",
+      "manejo-basico-heridas",
+      "aseptic-technique",
+      "breast-cancer-surgery-course",
+      "hand-trauma-reconstruction",
+      "btk-1-handed-knot-tying",
+      "tecsalud-hand-washing-asepsis-desinfection-sterilization",
+      "wound-care",
+      "navigating-global-surgery-ecosystem",
+      "anaesthesia-in-war",
+      "complex-lower-extremity-trauma-femoral-neck-fractures",
+      "rapid-sequence-induction",
+      "nursing-care-in-war",
+      "handover",
+      "microsurgery-workhorse-flaps",
+      "btk-cardiac-trauma",
+      "acute-burn-care",
+      "tecsalud-basic-burn-management",
+      "medication-error-prevention-fundamentals-patient-safety",
+      "difficult-caesarean-section",
+      "local-anaesthetic-systemic-toxicity",
+      "difficult-airway-algorithm-2023",
+      "informed-consent-team-communication-cesarean-section",
+      "postoperative-assessment-and-monitoring",
+      "z-plasty",
+      "btk-2-handed-knot-tying",
+      "resurge-cleft-lip-palate",
+      "introduction-intraoperative-imaging",
+      "managing-pediatric-arm-contractures-in-a-low-resource-setting",
+      "perioperative-medicine",
+      "musculoskeletal-tumour-surgery",
+      "obstetric-trauma",
+      "acide-tranexamique",
+      "intervention-traumatologie-catastrophe",
+      "complex-lower-extremity-trauma-acetabular-fractures",
+      "trocar-placement",
+      "gtc-burns",
+      "manejo-basico-quemaduras",
+      "crash-savers-trauma",
+      "understanding-capnography",
+      "drug-errors-anesthesia-2023",
+      "epidemiology-fundamentals-patient-safety",
+      "head-neck-reconstruction",
+      "adjuvant-medications-peripheral-nerve-blocks",
+      "anesthesia-for-craniotomy",
+      "central-venous-access-devices",
+      "lavado-manos-asepsia-desinfeccion-esterilizacion",
+      "preoperative-assessment",
+      "safety-culture-fundamentals-patient-safety",
+      "interprofessional-communication-fundamentals-patient-safety",
+      "tranexamic-acid",
+      "btk-esophageal-perforation",
+      "arterial-blood-pressure-measurement",
+      "btk-acute-mesenteric-ischemia",
+      "colon-cancer-surgery",
+      "soins-fondamentaux-brulologie",
+      "video-consultations",
+      "cvad-complications-prevention-management",
+      "btk-suturing-vertical-mattress",
+      "speaking-up-operating-room",
+      "burn-reconstruction",
+      "communicating-effectively-fundamentals-patient-safety",
+      "emergency-checklists-anesthesia-practice",
+      "penetrating-thoracoabdominal-trauma",
+      "blast-injuries",
+      "ectopic-pregnancy",
+      "breast-reconstruction",
+      "oral-health-professionals",
+      "btk-suturing-horizontal-mattress",
+      "c-arm-intraoperative-imaging-for-adult-elbow-fractures",
+      "pressure-sore-reconstruction",
+      "rural-urology-practice",
+      "anestesia-craneotomia-reseccion-tumor-cerebral",
+      "common-intraoperative-problems",
+      "scalp-reconstruction",
+      "telephone-consultation",
+      "c-arm-intraoperative-imaging-ankle-fractures",
+      "error-analysis-prevention-fundamentals-patient-safety",
+      "facial-paralysis",
+      "pancreatic-cancer-surgery",
+      "btk-ed-thoracotomy",
+      "brain-death-behind-the-knife-big-t-trauma-series",
+      "nasal-reconstruction",
+      "self-learn-pulse-ox",
+      "ear-reconstruction",
+      "overview-of-skin-cancer",
+      "laparoscopic-handling-of-small-bowel",
+      "regional-anaesthesia-children",
+      "implementing-reliable-systems-fundamentals-patient-safety",
+      "vascular-malformations",
+      "anaesthetic-considerations-vaginal-birth-after-caesarean-delivery",
+      "rectal-cancer-surgery",
+      "anaesthesia-tissue-free-flap-surgery",
+      "conversion-analgesia-epidural-anestesia-operacion-cesarea",
+      "btk-femoral-vessels",
+      "lip-cheek-reconstruction",
+      "pen-program-spanish",
+      "liste-controle-oms-chirurgie-sure",
+      "anaesthesia-posterior-cranial-fossa-surgery",
+      "chemical-radiation-injuries",
+      "chest-wall-reconstruction",
+      "labour-epidural-analgesia-to-anaesthesia-caesarean-delivery",
+      "perioperative-management-spinal-cord-injuries",
+      "obstetrics-remote-retrieval-medicine",
+      "ultrasound-guided-femoral-nerve-block",
+      "fascia-iliaca-compartment-block",
+      "access-epidural-space",
+      "perioperative-blood-management-pediatric-patient",
+      "blood-sparing-paediatric-anaesthesia",
+      "labour-epidural-troubleshooting",
+      "transversus-abdominis-plane-block",
+      "nerve-stimulation",
+      "consideraciones-anestesicas-parto-vaginal-luego-cesarea",
+      "fascia-iliaca-update",
+      "lumbar-plexus-block",
+      "pulseoxcovidselflearning",
+      "epidural-trabajo-parto-problemas",
+      "learning-and-teaching-ultrasound-guided-regional-anesthesia-safely-arabic"
+    ],
+    "Popular": [
+      "canecsa-research-methodology-course",
+      "essential-emergency-and-critical-care",
+      "surgical-foundations",
+      "essential-burn-care",
+      "tecsalud-suture-technique",
+      "complex-lower-extremity-trauma-pelvic-fractures",
+      "infection-control-prevention-2023",
+      "ppe",
+      "burn-sepsis",
+      "trauma-disaster-team-response-mcgill",
+      "learning-and-teaching-ultrasound-guided-regional-anesthesia-safely",
+      "surgical-instrument-testing-and-inspection",
+      "heat-stable-carbetocin-for-prevention-of-pph-at-c-section",
+      "spinal-anaesthesia-theory-and-practice",
+      "facial-trauma",
+      "triage-resuscitation",
+      "tecsalud-basic-principles-wound-management",
+      "patient-centred-care",
+      "pen-programme",
+      "acute-appendicitis",
+      "tecnica-suturas-puntos",
+      "exploring-perioperative-nursing"
+    ],
+    "Trending": [
+      "cvad-complications-prevention-management",
+      "video-consultations",
+      "navigating-global-surgery-ecosystem",
+      "manejo-basico-heridas",
+      "anaesthesia-caesarean-delivery",
+      "facial-trauma",
+      "tecnica-suturas-puntos",
+      "fundamentals-war-surgery"
+    ],
+    "Top rated": [
+      "facial-paralysis",
+      "burn-reconstruction",
+      "labour-epidural-analgesia-to-anaesthesia-caesarean-delivery",
+      "video-consultations",
+      "anaesthesia-posterior-cranial-fossa-surgery",
+      "gtc-burns",
+      "resurge-cleft-lip-palate",
+      "hand-trauma-reconstruction",
+      "transversus-abdominis-plane-block",
+      "acute-burn-care",
+      "exploring-perioperative-nursing",
+      "implementing-reliable-systems-fundamentals-patient-safety",
+      "manejo-basico-quemaduras",
+      "nasal-reconstruction",
+      "heat-stable-carbetocin-for-prevention-of-pph-at-c-section"
+    ],
+    "CME/CPD": [
+      "infection-control-prevention-2023",
+      "anaesthesia-caesarean-delivery",
+      "anaesthesia-in-war",
+      "medication-error-prevention-fundamentals-patient-safety",
+      "local-anaesthetic-systemic-toxicity",
+      "difficult-airway-algorithm-2023",
+      "perioperative-medicine",
+      "acide-tranexamique",
+      "understanding-capnography",
+      "drug-errors-anesthesia-2023",
+      "epidemiology-fundamentals-patient-safety",
+      "adjuvant-medications-peripheral-nerve-blocks",
+      "anesthesia-for-craniotomy",
+      "safety-culture-fundamentals-patient-safety",
+      "interprofessional-communication-fundamentals-patient-safety",
+      "tranexamic-acid",
+      "arterial-blood-pressure-measurement",
+      "speaking-up-operating-room",
+      "communicating-effectively-fundamentals-patient-safety",
+      "emergency-checklists-anesthesia-practice",
+      "anestesia-craneotomia-reseccion-tumor-cerebral",
+      "error-analysis-prevention-fundamentals-patient-safety",
+      "regional-anaesthesia-children",
+      "implementing-reliable-systems-fundamentals-patient-safety",
+      "anaesthetic-considerations-vaginal-birth-after-caesarean-delivery",
+      "conversion-analgesia-epidural-anestesia-operacion-cesarea",
+      "anaesthesia-posterior-cranial-fossa-surgery",
+      "labour-epidural-analgesia-to-anaesthesia-caesarean-delivery",
+      "perioperative-management-spinal-cord-injuries",
+      "obstetrics-remote-retrieval-medicine",
+      "access-epidural-space",
+      "perioperative-blood-management-pediatric-patient",
+      "consideraciones-anestesicas-parto-vaginal-luego-cesarea",
+      "fascia-iliaca-update"
+    ],
+    "New": [
+      "spinal-anaesthesia-theory-and-practice",
+      "c-arm-intraoperative-imaging-for-adult-elbow-fractures",
+      "heat-stable-carbetocin-for-prevention-of-pph-at-c-section",
+      "managing-a-high-voltage-burn-in-a-low-resource-setting",
+      "managing-pediatric-arm-contractures-in-a-low-resource-setting"
+    ]
+  },
+  "courses": [
+    {
+      "slug": "btk-1-handed-knot-tying",
+      "id": "btk-1-handed-knot-tying",
+      "url": "https://www.surghub.org/course/btk-1-handed-knot-tying",
+      "title": "1-Handed Knot-Tying",
+      "provider": "Behind the Knife",
+      "published_on": "2024-11-11",
+      "learners": 811,
+      "learners_90d": 130,
+      "learners_30d": 33,
+      "certificates": 249,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-1-handed-knot-tying-l9qdwr.webp",
+      "rating_responses": 266,
+      "average_rating": 4.59,
+      "ratings": {
+        "satisfaction": 4.57,
+        "objectives": 4.61,
+        "relevance": 4.56,
+        "platform": 4.63
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/e54f0c01c45c89ec22bec1acf11f6821.png"
+    },
+    {
+      "slug": "btk-2-handed-knot-tying",
+      "id": "btk-2-handed-knot-tying",
+      "url": "https://www.surghub.org/course/btk-2-handed-knot-tying",
+      "title": "2-Handed Knot-Tying",
+      "provider": "Behind the Knife",
+      "published_on": "2024-11-19",
+      "learners": 532,
+      "learners_90d": 83,
+      "learners_30d": 26,
+      "certificates": 158,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-2-handed-knot-tying-1xzjn2t.webp",
+      "rating_responses": 177,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.62,
+        "objectives": 4.61,
+        "relevance": 4.54,
+        "platform": 4.68
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/151b5c2d697b937c801a4ac9ecdac18c.png"
+    },
+    {
+      "slug": "facial-trauma",
+      "id": "facial-trauma",
+      "url": "https://www.surghub.org/course/facial-trauma",
+      "title": "A Crash Course in Facial Fractures",
+      "provider": "ReSurge International",
+      "published_on": "2023-07-01",
+      "learners": 1897,
+      "learners_90d": 284,
+      "learners_30d": 124,
+      "certificates": 380,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/facial-trauma-1t6wnfz.webp",
+      "rating_responses": 461,
+      "average_rating": 4.69,
+      "ratings": {
+        "satisfaction": 4.72,
+        "objectives": 4.67,
+        "relevance": 4.69,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free",
+        "Popular",
+        "Trending"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/6fa4b52894218243309e3a5a49bd29b8.png"
+    },
+    {
+      "slug": "acide-tranexamique",
+      "id": "acide-tranexamique",
+      "url": "https://www.surghub.org/course/acide-tranexamique",
+      "title": "Acide Tranexamique",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-03-04",
+      "learners": 432,
+      "learners_90d": 78,
+      "learners_30d": 33,
+      "certificates": 77,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/tranexamic-acid-7xlzj4.webp",
+      "rating_responses": 88,
+      "average_rating": 4.51,
+      "ratings": {
+        "satisfaction": 4.58,
+        "objectives": 4.53,
+        "relevance": 4.55,
+        "platform": 4.38
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8e160545c97a8b349958639fcb0af931.png"
+    },
+    {
+      "slug": "acute-burn-care",
+      "id": "acute-burn-care",
+      "url": "https://www.surghub.org/course/acute-burn-care",
+      "title": "Acute Burn Care",
+      "provider": "ReSurge International",
+      "published_on": "2025-02-12",
+      "learners": 702,
+      "learners_90d": 101,
+      "learners_30d": 27,
+      "certificates": 223,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/acute-burn-care-kh5dub.webp",
+      "rating_responses": 244,
+      "average_rating": 4.73,
+      "ratings": {
+        "satisfaction": 4.73,
+        "objectives": 4.74,
+        "relevance": 4.68,
+        "platform": 4.77
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/7dc97dab58c19e939b187b992af94696.png"
+    },
+    {
+      "slug": "btk-acute-mesenteric-ischemia",
+      "id": "btk-acute-mesenteric-ischemia",
+      "url": "https://www.surghub.org/course/btk-acute-mesenteric-ischemia",
+      "title": "Acute Mesenteric Ischemia",
+      "provider": "Behind the Knife",
+      "published_on": "2025-07-05",
+      "learners": 376,
+      "learners_90d": 63,
+      "learners_30d": 14,
+      "certificates": 120,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-acute-mesenteric-ischemia-1ky1sgz.webp",
+      "rating_responses": 127,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.64,
+        "objectives": 4.58,
+        "relevance": 4.64,
+        "platform": 4.7
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/c0d012a2f452ade32abb62ba47399346.png"
+    },
+    {
+      "slug": "adjuvant-medications-peripheral-nerve-blocks",
+      "id": "adjuvant-medications-peripheral-nerve-blocks",
+      "url": "https://www.surghub.org/course/adjuvant-medications-peripheral-nerve-blocks",
+      "title": "Adjuvant Medications for Peripheral Nerve Blocks",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-02-06",
+      "learners": 660,
+      "learners_90d": 71,
+      "learners_30d": 21,
+      "certificates": 200,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/adjuvant-medications-peripheral-nerve-blocks-qzpawp.webp",
+      "rating_responses": 236,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.65,
+        "relevance": 4.58,
+        "platform": 4.62
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/333f06785c0a370027a53fe3b466f368.png"
+    },
+    {
+      "slug": "aseptic-technique",
+      "id": "aseptic-technique",
+      "url": "https://www.surghub.org/course/aseptic-technique",
+      "title": "All About Aseptic Technique",
+      "provider": "Ausmed",
+      "published_on": "2025-06-04",
+      "learners": 962,
+      "learners_90d": 160,
+      "learners_30d": 52,
+      "certificates": 640,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/aseptic-technique-ijr14s.webp",
+      "rating_responses": 652,
+      "average_rating": 4.45,
+      "ratings": {
+        "satisfaction": 4.45,
+        "objectives": 4.46,
+        "relevance": 4.4,
+        "platform": 4.47
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/ddfea667cd23f45433e79efea275dd56.png"
+    },
+    {
+      "slug": "anaesthesia-caesarean-delivery",
+      "id": "anaesthesia-caesarean-delivery",
+      "url": "https://www.surghub.org/course/anaesthesia-caesarean-delivery",
+      "title": "Anaesthesia for Caesarean Delivery",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-06-29",
+      "learners": 1286,
+      "learners_90d": 217,
+      "learners_30d": 103,
+      "certificates": 565,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/anaesthesia-caesarean-delivery-j4gv81.webp",
+      "rating_responses": 424,
+      "average_rating": 4.58,
+      "ratings": {
+        "satisfaction": 4.56,
+        "objectives": 4.6,
+        "relevance": 4.55,
+        "platform": 4.62
+      },
+      "tags": [
+        "Free",
+        "Trending",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/0805c5ffbafb992ef0bae43543798dcc.png"
+    },
+    {
+      "slug": "anesthesia-for-craniotomy",
+      "id": "anesthesia-for-craniotomy",
+      "url": "https://www.surghub.org/course/anesthesia-for-craniotomy",
+      "title": "Anaesthesia for Craniotomy and Brain Tumour Resection",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-01-25",
+      "learners": 550,
+      "learners_90d": 71,
+      "learners_30d": 19,
+      "certificates": 172,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/anestesia-craneotomia-reseccion-tumor-cerebral-1lwcpnq.webp",
+      "rating_responses": 204,
+      "average_rating": 4.52,
+      "ratings": {
+        "satisfaction": 4.51,
+        "objectives": 4.52,
+        "relevance": 4.5,
+        "platform": 4.55
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/51ef9e18fe3e0b6262b6b94bcdf7b9eb.jpeg"
+    },
+    {
+      "slug": "anaesthesia-posterior-cranial-fossa-surgery",
+      "id": "anaesthesia-posterior-cranial-fossa-surgery",
+      "url": "https://www.surghub.org/course/anaesthesia-posterior-cranial-fossa-surgery",
+      "title": "Anaesthesia for Posterior Cranial Fossa Surgery",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-03-10",
+      "learners": 220,
+      "learners_90d": 23,
+      "learners_30d": 10,
+      "certificates": 63,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/anaesthesia-posterior-cranial-fossa-surgery-1u3z92k.webp",
+      "rating_responses": 76,
+      "average_rating": 4.74,
+      "ratings": {
+        "satisfaction": 4.76,
+        "objectives": 4.69,
+        "relevance": 4.73,
+        "platform": 4.77
+      },
+      "tags": [
+        "Free",
+        "Top rated",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4b346bf65d894ee7d2a6ffe3b4912d8d.png"
+    },
+    {
+      "slug": "anaesthesia-tissue-free-flap-surgery",
+      "id": "anaesthesia-tissue-free-flap-surgery",
+      "url": "https://www.surghub.org/course/anaesthesia-tissue-free-flap-surgery",
+      "title": "Anaesthesia for Tissue Free-Flap Surgery",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-04-02",
+      "learners": 217,
+      "learners_90d": 26,
+      "learners_30d": 12,
+      "certificates": 68,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/anaesthesia-tissue-free-flap-surgery-1w6vha5.webp",
+      "rating_responses": 80,
+      "average_rating": 4.59,
+      "ratings": {
+        "satisfaction": 4.59,
+        "objectives": 4.61,
+        "relevance": 4.56,
+        "platform": 4.59
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/bc126915a61e53b67437f59acaf715fc.png"
+    },
+    {
+      "slug": "anaesthesia-in-war",
+      "id": "anaesthesia-in-war",
+      "url": "https://www.surghub.org/course/anaesthesia-in-war",
+      "title": "Anaesthesia in War",
+      "provider": "International Committee of the Red Cross",
+      "published_on": "2025-11-05",
+      "learners": 690,
+      "learners_90d": 120,
+      "learners_30d": 33,
+      "certificates": 59,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/anaesthesia-in-war-19dxlzh.webp",
+      "rating_responses": 82,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.7,
+        "objectives": 4.62,
+        "relevance": 4.63,
+        "platform": 4.49
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/79e5ec46c713518586c31d10ce9234c0.png"
+    },
+    {
+      "slug": "anaesthetic-considerations-vaginal-birth-after-caesarean-delivery",
+      "id": "anaesthetic-considerations-vaginal-birth-after-caesarean-delivery",
+      "url": "https://www.surghub.org/course/anaesthetic-considerations-vaginal-birth-after-caesarean-delivery",
+      "title": "Anaesthetic Considerations for Vaginal Birth After Caesarean Delivery",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-09-26",
+      "learners": 386,
+      "learners_90d": 29,
+      "learners_30d": 4,
+      "certificates": 125,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/consideraciones-anestesicas-parto-vaginal-luego-cesarea-173xpjk.webp",
+      "rating_responses": 136,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.68,
+        "objectives": 4.64,
+        "relevance": 4.6,
+        "platform": 4.56
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/327ff23e69e1d44e456aac3b60a9414a.jpg"
+    },
+    {
+      "slug": "anestesia-craneotomia-reseccion-tumor-cerebral",
+      "id": "anestesia-craneotomia-reseccion-tumor-cerebral",
+      "url": "https://www.surghub.org/course/anestesia-craneotomia-reseccion-tumor-cerebral",
+      "title": "Anestesia para Craneotomía y Resección de Tumor Cerebral",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2025-03-22",
+      "learners": 162,
+      "learners_90d": 44,
+      "learners_30d": 15,
+      "certificates": 27,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/anestesia-craneotomia-reseccion-tumor-cerebral-1lwcpnq.webp",
+      "rating_responses": 36,
+      "average_rating": 4.67,
+      "ratings": {
+        "satisfaction": 4.75,
+        "objectives": 4.64,
+        "relevance": 4.61,
+        "platform": 4.69
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/51ef9e18fe3e0b6262b6b94bcdf7b9eb.jpeg"
+    },
+    {
+      "slug": "acute-appendicitis",
+      "id": "acute-appendicitis",
+      "url": "https://www.surghub.org/course/acute-appendicitis",
+      "title": "Appendicitis",
+      "provider": "ALL SAFE",
+      "published_on": "2025-04-01",
+      "learners": 915,
+      "learners_90d": 232,
+      "learners_30d": 36,
+      "certificates": 201,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/acute-appendicitis-1752iyu.webp",
+      "rating_responses": 198,
+      "average_rating": 4.59,
+      "ratings": {
+        "satisfaction": 4.57,
+        "objectives": 4.56,
+        "relevance": 4.61,
+        "platform": 4.61
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8a1c0484ae52aa214d9a48c563256693.png"
+    },
+    {
+      "slug": "anesthesie-locoregionale-echoguidee",
+      "id": "anesthesie-locoregionale-echoguidee",
+      "url": "https://www.surghub.org/course/anesthesie-locoregionale-echoguidee",
+      "title": "Apprendre et Transmettre l’Anesthésie Locorégionale Echoguidée en toute Sécurité",
+      "provider": "Fédération Francophone des Sociétés d'Anesthésie-Réanimation",
+      "published_on": "2025-05-30",
+      "learners": 802,
+      "learners_90d": 177,
+      "learners_30d": 41,
+      "certificates": 327,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/learning-and-teaching-ultrasound-guided-regional-anesthesia-safely-arabic-ki11b.webp",
+      "rating_responses": 389,
+      "average_rating": 4.35,
+      "ratings": {
+        "satisfaction": 4.53,
+        "objectives": 4.34,
+        "relevance": 4.45,
+        "platform": 4.09
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/43764942571dc4cf135a4b356d77b633.png"
+    },
+    {
+      "slug": "tecsalud-basic-burn-management",
+      "id": "tecsalud-basic-burn-management",
+      "url": "https://www.surghub.org/course/tecsalud-basic-burn-management",
+      "title": "Basic Burn Management",
+      "provider": "Tecnológico de Monterrey",
+      "published_on": "2025-05-01",
+      "learners": 595,
+      "learners_90d": 101,
+      "learners_30d": 28,
+      "certificates": 186,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/manejo-basico-quemaduras-1vxo3.webp",
+      "rating_responses": 210,
+      "average_rating": 4.58,
+      "ratings": {
+        "satisfaction": 4.54,
+        "objectives": 4.58,
+        "relevance": 4.52,
+        "platform": 4.67
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/04a73fe9d8a1f0840aa727bc2a1a42a4.png"
+    },
+    {
+      "slug": "basic-caesarean-section",
+      "id": "basic-caesarean-section",
+      "url": "https://www.surghub.org/course/basic-caesarean-section",
+      "title": "Basic Caesarean Section",
+      "provider": "Global Surgery Lab",
+      "published_on": "2026-01-25",
+      "learners": 605,
+      "learners_90d": 185,
+      "learners_30d": 55,
+      "certificates": 198,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/basic-caesarean-section-1idkj2m.webp",
+      "rating_responses": 203,
+      "average_rating": 4.5,
+      "ratings": {
+        "satisfaction": 4.5,
+        "objectives": 4.47,
+        "relevance": 4.44,
+        "platform": 4.59
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/25a99f74160559d02d459fdb2919990a.png"
+    },
+    {
+      "slug": "tecsalud-basic-principles-wound-management",
+      "id": "tecsalud-basic-principles-wound-management",
+      "url": "https://www.surghub.org/course/tecsalud-basic-principles-wound-management",
+      "title": "Basic Principles of Wound Management",
+      "provider": "Tecnológico de Monterrey",
+      "published_on": "2025-03-02",
+      "learners": 1729,
+      "learners_90d": 259,
+      "learners_30d": 97,
+      "certificates": 715,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/manejo-basico-heridas-vzn3qf.webp",
+      "rating_responses": 749,
+      "average_rating": 4.47,
+      "ratings": {
+        "satisfaction": 4.43,
+        "objectives": 4.45,
+        "relevance": 4.42,
+        "platform": 4.58
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/68748f2af41b987a8787ff907080bc70.png"
+    },
+    {
+      "slug": "blast-injuries",
+      "id": "blast-injuries",
+      "url": "https://www.surghub.org/course/blast-injuries",
+      "title": "Blast Injuries",
+      "provider": "Global Trauma Collaboration, Baylor College of Medicine",
+      "published_on": "2025-09-01",
+      "learners": 377,
+      "learners_90d": 52,
+      "learners_30d": 9,
+      "certificates": 103,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/blast-injuries-126rjrw.webp",
+      "rating_responses": 103,
+      "average_rating": 4.63,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.64,
+        "relevance": 4.55,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/c1f8baffa3208fb4950ef5b7910230a1.png"
+    },
+    {
+      "slug": "blood-sparing-paediatric-anaesthesia",
+      "id": "blood-sparing-paediatric-anaesthesia",
+      "url": "https://www.surghub.org/course/blood-sparing-paediatric-anaesthesia",
+      "title": "Blood Sparing Techniques in Paediatric Anaesthesia",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-08-17",
+      "learners": 199,
+      "learners_90d": 15,
+      "learners_30d": 3,
+      "certificates": 81,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/blood-sparing-paediatric-anaesthesia-v867fa.webp",
+      "rating_responses": 84,
+      "average_rating": 4.56,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.54,
+        "relevance": 4.48,
+        "platform": 4.6
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/95d07ed671c38e0a6d46da92f56e6c0f.png"
+    },
+    {
+      "slug": "brain-death-behind-the-knife-big-t-trauma-series",
+      "id": "brain-death-behind-the-knife-big-t-trauma-series",
+      "url": "https://www.surghub.org/course/brain-death-behind-the-knife-big-t-trauma-series",
+      "title": "Brain Death",
+      "provider": "Behind the Knife",
+      "published_on": "2025-08-06",
+      "learners": 268,
+      "learners_90d": 37,
+      "learners_30d": 14,
+      "certificates": 53,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/brain-death-behind-the-knife-big-t-trauma-series-1qph79z.webp",
+      "rating_responses": 69,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.62,
+        "objectives": 4.57,
+        "relevance": 4.62,
+        "platform": 4.62
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/65574c8a78a22537b44c8a811c21be1f.png"
+    },
+    {
+      "slug": "breast-cancer-surgery-course",
+      "id": "breast-cancer-surgery-course",
+      "url": "https://www.surghub.org/course/breast-cancer-surgery-course",
+      "title": "Breast Cancer Surgery Course",
+      "provider": "ecancer",
+      "published_on": "2023-10-06",
+      "learners": 1525,
+      "learners_90d": 133,
+      "learners_30d": 46,
+      "certificates": 102,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/breast-cancer-surgery-course-aqhdqd.webp",
+      "rating_responses": 211,
+      "average_rating": 4.52,
+      "ratings": {
+        "satisfaction": 4.52,
+        "objectives": 4.56,
+        "relevance": 4.58,
+        "platform": 4.44
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/cbdae06068e8cce356327077fefec853.png"
+    },
+    {
+      "slug": "breast-reconstruction",
+      "id": "breast-reconstruction",
+      "url": "https://www.surghub.org/course/breast-reconstruction",
+      "title": "Breast Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2024-12-17",
+      "learners": 493,
+      "learners_90d": 50,
+      "learners_30d": 13,
+      "certificates": 157,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/breast-reconstruction-1spiww9.webp",
+      "rating_responses": 160,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.64,
+        "objectives": 4.64,
+        "relevance": 4.64,
+        "platform": 4.7
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/3f727083fee66eaddcdcf07af76d77c2.png"
+    },
+    {
+      "slug": "burn-reconstruction",
+      "id": "burn-reconstruction",
+      "url": "https://www.surghub.org/course/burn-reconstruction",
+      "title": "Burn Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2025-06-04",
+      "learners": 278,
+      "learners_90d": 55,
+      "learners_30d": 12,
+      "certificates": 97,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/burn-reconstruction-1ljd3hs.webp",
+      "rating_responses": 97,
+      "average_rating": 4.77,
+      "ratings": {
+        "satisfaction": 4.76,
+        "objectives": 4.76,
+        "relevance": 4.79,
+        "platform": 4.79
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/069e7a77f3dae8d6dd5288bf6a7b7cbe.png"
+    },
+    {
+      "slug": "burn-sepsis",
+      "id": "burn-sepsis",
+      "url": "https://www.surghub.org/course/burn-sepsis",
+      "title": "Burn Sepsis",
+      "provider": "ReSurge International",
+      "published_on": "2026-07-24",
+      "learners": 440,
+      "learners_90d": 412,
+      "learners_30d": 55,
+      "certificates": 164,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/burn-sepsis-2mj4oe.webp",
+      "rating_responses": 176,
+      "average_rating": 4.53,
+      "ratings": {
+        "satisfaction": 4.57,
+        "objectives": 4.5,
+        "relevance": 4.48,
+        "platform": 4.57
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/613f3be849eff1b38bba59e79dcdfd37.png"
+    },
+    {
+      "slug": "gtc-burns",
+      "id": "gtc-burns",
+      "url": "https://www.surghub.org/course/gtc-burns",
+      "title": "Burns",
+      "provider": "Global Trauma Collaboration, Baylor College of Medicine",
+      "published_on": "2025-08-26",
+      "learners": 383,
+      "learners_90d": 74,
+      "learners_30d": 17,
+      "certificates": 90,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/gtc-burns-16k5czv.webp",
+      "rating_responses": 91,
+      "average_rating": 4.74,
+      "ratings": {
+        "satisfaction": 4.74,
+        "objectives": 4.71,
+        "relevance": 4.76,
+        "platform": 4.76
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/ed33bc2ca4823af83f7c0b4eef5e4287.png"
+    },
+    {
+      "slug": "wound-care",
+      "id": "wound-care",
+      "url": "https://www.surghub.org/course/wound-care",
+      "title": "Burns: Wound Care and Pain Management",
+      "provider": "ReSurge International",
+      "published_on": "2023-07-10",
+      "learners": 1092,
+      "learners_90d": 125,
+      "learners_30d": 31,
+      "certificates": 390,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/wound-care-72dulr.webp",
+      "rating_responses": 441,
+      "average_rating": 4.53,
+      "ratings": {
+        "satisfaction": 4.51,
+        "objectives": 4.54,
+        "relevance": 4.51,
+        "platform": 4.56
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/bc8c248bd5d8c3f5898c18b7472c255f.png"
+    },
+    {
+      "slug": "c-arm-intraoperative-imaging-for-adult-elbow-fractures",
+      "id": "c-arm-intraoperative-imaging-for-adult-elbow-fractures",
+      "url": "https://www.surghub.org/course/c-arm-intraoperative-imaging-for-adult-elbow-fractures",
+      "title": "C-arm Intraoperative Imaging for Adult Elbow Fractures",
+      "provider": "AO Alliance",
+      "published_on": "2026-09-22",
+      "learners": 59,
+      "learners_90d": 49,
+      "learners_30d": 29,
+      "certificates": 16,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/c-arm-intraoperative-imaging-for-adult-elbow-fractures-a0vyb1.webp",
+      "rating_responses": 20,
+      "average_rating": 4.75,
+      "ratings": {
+        "satisfaction": 4.7,
+        "objectives": 4.75,
+        "relevance": 4.74,
+        "platform": 4.79
+      },
+      "tags": [
+        "Free",
+        "New"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/22c57776eca2e25ecc598c1fe80e5ff8.png"
+    },
+    {
+      "slug": "c-arm-intraoperative-imaging-ankle-fractures",
+      "id": "c-arm-interoperative-imaging-ankle-fractures",
+      "url": "https://www.surghub.org/course/c-arm-intraoperative-imaging-ankle-fractures",
+      "title": "C-Arm Intraoperative Imaging for Ankle Fractures",
+      "provider": "AO Alliance",
+      "published_on": "2025-08-07",
+      "learners": 587,
+      "learners_90d": 39,
+      "learners_30d": 5,
+      "certificates": 192,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/c-arm-intraoperative-imaging-ankle-fractures-1qav0u2.webp",
+      "rating_responses": 226,
+      "average_rating": 4.55,
+      "ratings": {
+        "satisfaction": 4.56,
+        "objectives": 4.53,
+        "relevance": 4.56,
+        "platform": 4.55
+      },
+      "tags": [
+        "Featured",
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/0509b2d9141ca6fe3088d8064c5639ca.png"
+    },
+    {
+      "slug": "btk-cardiac-trauma",
+      "id": "btk-cardiac-trauma",
+      "url": "https://www.surghub.org/course/btk-cardiac-trauma",
+      "title": "Cardiac Trauma",
+      "provider": "Behind the Knife",
+      "published_on": "2025-09-05",
+      "learners": 363,
+      "learners_90d": 107,
+      "learners_30d": 29,
+      "certificates": 114,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-cardiac-trauma-1yy5hly.webp",
+      "rating_responses": 120,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.69,
+        "objectives": 4.65,
+        "relevance": 4.61,
+        "platform": 4.62
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/a4d9cff1b455b2b6d3ec6784de64d9cd.png"
+    },
+    {
+      "slug": "central-venous-access-devices",
+      "id": "central-venous-access-devices",
+      "url": "https://www.surghub.org/course/central-venous-access-devices",
+      "title": "Central Venous Access Devices (CVADs)",
+      "provider": "Ausmed",
+      "published_on": "2025-06-27",
+      "learners": 310,
+      "learners_90d": 69,
+      "learners_30d": 33,
+      "certificates": 114,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/central-venous-access-devices-v5jte6.webp",
+      "rating_responses": 117,
+      "average_rating": 4.7,
+      "ratings": {
+        "satisfaction": 4.71,
+        "objectives": 4.74,
+        "relevance": 4.63,
+        "platform": 4.72
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/744e4160b9988bcc46819c1de8481db6.png"
+    },
+    {
+      "slug": "certificate-community-engagement-involvement-surgical-research",
+      "id": "certificate-community-engagement-involvement-surgical-research",
+      "url": "https://www.surghub.org/course/certificate-community-engagement-involvement-surgical-research",
+      "title": "Certificate in Community Engagement and Involvement for Surgical Research",
+      "provider": "NIHR Global Health Research Unit on Global Surgery",
+      "published_on": "2025-08-14",
+      "learners": 1354,
+      "learners_90d": 211,
+      "learners_30d": 29,
+      "certificates": 359,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/certificate-community-engagement-involvement-surgical-research-121dxur.webp",
+      "rating_responses": 377,
+      "average_rating": 4.55,
+      "ratings": {
+        "satisfaction": 4.59,
+        "objectives": 4.56,
+        "relevance": 4.5,
+        "platform": 4.56
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/ad0d9d4711cced1466741c19676de6c9.png"
+    },
+    {
+      "slug": "chemical-radiation-injuries",
+      "id": "chemical-radiation-injuries",
+      "url": "https://www.surghub.org/course/chemical-radiation-injuries",
+      "title": "Chemical and Radiation Injuries",
+      "provider": "Global Trauma Collaboration, Baylor College of Medicine",
+      "published_on": "2025-03-01",
+      "learners": 225,
+      "learners_90d": 23,
+      "learners_30d": 4,
+      "certificates": 58,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/chemical-radiation-injuries-1qnvint.webp",
+      "rating_responses": 60,
+      "average_rating": 4.68,
+      "ratings": {
+        "satisfaction": 4.68,
+        "objectives": 4.69,
+        "relevance": 4.58,
+        "platform": 4.76
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4606ccaa9109a3c76e3697f56212c4b4.png"
+    },
+    {
+      "slug": "chest-wall-reconstruction",
+      "id": "chest-wall-reconstruction",
+      "url": "https://www.surghub.org/course/chest-wall-reconstruction",
+      "title": "Chest Wall Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2025-07-18",
+      "learners": 219,
+      "learners_90d": 23,
+      "learners_30d": 4,
+      "certificates": 61,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/chest-wall-reconstruction-gv6kve.webp",
+      "rating_responses": 67,
+      "average_rating": 4.69,
+      "ratings": {
+        "satisfaction": 4.69,
+        "objectives": 4.71,
+        "relevance": 4.62,
+        "platform": 4.75
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/f075cdcdceeabce4e701ac1f9b11a8fa.png"
+    },
+    {
+      "slug": "resurge-cleft-lip-palate",
+      "id": "resurge-cleft-lip-palate",
+      "url": "https://www.surghub.org/course/resurge-cleft-lip-palate",
+      "title": "Cleft Lip and Palate",
+      "provider": "ReSurge International",
+      "published_on": "2024-10-12",
+      "learners": 689,
+      "learners_90d": 83,
+      "learners_30d": 20,
+      "certificates": 185,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/resurge-cleft-lip-palate-i3zowp.webp",
+      "rating_responses": 203,
+      "average_rating": 4.74,
+      "ratings": {
+        "satisfaction": 4.74,
+        "objectives": 4.72,
+        "relevance": 4.75,
+        "platform": 4.74
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8923569444499b4b6959227869511204.png"
+    },
+    {
+      "slug": "colon-cancer-surgery",
+      "id": "colon-cancer-surgery",
+      "url": "https://www.surghub.org/course/colon-cancer-surgery",
+      "title": "Colon Cancer Surgery Course",
+      "provider": "ecancer",
+      "published_on": "2023-10-26",
+      "learners": 1015,
+      "learners_90d": 63,
+      "learners_30d": 18,
+      "certificates": 89,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/colon-cancer-surgery-1nvur7o.webp",
+      "rating_responses": 149,
+      "average_rating": 4.52,
+      "ratings": {
+        "satisfaction": 4.56,
+        "objectives": 4.5,
+        "relevance": 4.57,
+        "platform": 4.46
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/fe0c69b8be2839963d6abc135a73e2df.png"
+    },
+    {
+      "slug": "common-intraoperative-problems",
+      "id": "common-intraoperative-problems",
+      "url": "https://www.surghub.org/course/common-intraoperative-problems",
+      "title": "Common Intraoperative Problems",
+      "provider": "ReSurge International",
+      "published_on": "2023-07-08",
+      "learners": 643,
+      "learners_90d": 44,
+      "learners_30d": 13,
+      "certificates": 223,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/common-intraoperative-problems-1s81qyh.webp",
+      "rating_responses": 248,
+      "average_rating": 4.53,
+      "ratings": {
+        "satisfaction": 4.56,
+        "objectives": 4.53,
+        "relevance": 4.49,
+        "platform": 4.54
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/5a63b3607061cddc98f01a0cbe46fd03.png"
+    },
+    {
+      "slug": "communicating-effectively-fundamentals-patient-safety",
+      "id": "communicating-effectively-fundamentals-patient-safety",
+      "url": "https://www.surghub.org/course/communicating-effectively-fundamentals-patient-safety",
+      "title": "Communicating Effectively - Fundamentals of Patient Safety 2024",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2025-08-08",
+      "learners": 223,
+      "learners_90d": 54,
+      "learners_30d": 20,
+      "certificates": 90,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/communicating-effectively-fundamentals-patient-safety-88hvvj.webp",
+      "rating_responses": 93,
+      "average_rating": 4.54,
+      "ratings": {
+        "satisfaction": 4.54,
+        "objectives": 4.54,
+        "relevance": 4.5,
+        "platform": 4.57
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2286d73d4037025c4c8de67b2a6ee088.png"
+    },
+    {
+      "slug": "telephone-consultation",
+      "id": "telephone-consultation",
+      "url": "https://www.surghub.org/course/telephone-consultation",
+      "title": "Communication Skills for Telephone Consultation",
+      "provider": "Royal College of Surgeons in Ireland",
+      "published_on": "2024-07-17",
+      "learners": 337,
+      "learners_90d": 40,
+      "learners_30d": 11,
+      "certificates": 140,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/telephone-consultation-1q5cep8.webp",
+      "rating_responses": 148,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.62,
+        "objectives": 4.63,
+        "relevance": 4.59,
+        "platform": 4.65
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/7ede7039eaa2786148eb0ff1fbaae5ec.png"
+    },
+    {
+      "slug": "complex-lower-extremity-trauma-acetabular-fractures",
+      "id": "acetabular-fractures",
+      "url": "https://www.surghub.org/course/complex-lower-extremity-trauma-acetabular-fractures",
+      "title": "Complex Lower Extremity Trauma – Acetabular Fractures",
+      "provider": "Harvard Global Orthopaedics Collaborative",
+      "published_on": "2026-02-16",
+      "learners": 367,
+      "learners_90d": 76,
+      "learners_30d": 19,
+      "certificates": 89,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/complex-lower-extremity-trauma-acetabular-fractures-1eu5k5f.webp",
+      "rating_responses": 115,
+      "average_rating": 4.58,
+      "ratings": {
+        "satisfaction": 4.51,
+        "objectives": 4.55,
+        "relevance": 4.56,
+        "platform": 4.72
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/d0c5e31ad70eca24b0fac82a2dd537e5.png"
+    },
+    {
+      "slug": "complex-lower-extremity-trauma-femoral-neck-fractures",
+      "id": "complex-lower-extremity-trauma-femoral-neck-fractures",
+      "url": "https://www.surghub.org/course/complex-lower-extremity-trauma-femoral-neck-fractures",
+      "title": "Complex Lower Extremity Trauma – Femoral Neck Fractures",
+      "provider": "Harvard Global Orthopaedics Collaborative",
+      "published_on": "2026-02-01",
+      "learners": 881,
+      "learners_90d": 120,
+      "learners_30d": 31,
+      "certificates": 274,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/complex-lower-extremity-trauma-femoral-neck-fractures-1e2vh71.webp",
+      "rating_responses": 291,
+      "average_rating": 4.56,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.64,
+        "relevance": 4.38,
+        "platform": 4.61
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/fede52e00ff268d42acda1aa0cb3ee88.png"
+    },
+    {
+      "slug": "complex-lower-extremity-trauma-pelvic-fractures",
+      "id": "complex-lower-extremity-trauma-pelvic-fractures",
+      "url": "https://www.surghub.org/course/complex-lower-extremity-trauma-pelvic-fractures",
+      "title": "Complex Lower Extremity Trauma – Pelvic Fractures",
+      "provider": "Harvard Global Orthopaedics Collaborative",
+      "published_on": "2026-06-25",
+      "learners": 831,
+      "learners_90d": 601,
+      "learners_30d": 134,
+      "certificates": 111,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/complex-lower-extremity-trauma-pelvic-fractures-qxfk1t.webp",
+      "rating_responses": 165,
+      "average_rating": 4.56,
+      "ratings": {
+        "satisfaction": 4.59,
+        "objectives": 4.58,
+        "relevance": 4.52,
+        "platform": 4.53
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/61cb9cfdae868ad7122f1fd4c07339c8.png"
+    },
+    {
+      "slug": "consideraciones-anestesicas-parto-vaginal-luego-cesarea",
+      "id": "consideraciones-anestesicas-parto-vaginal-luego-cesarea",
+      "url": "https://www.surghub.org/course/consideraciones-anestesicas-parto-vaginal-luego-cesarea",
+      "title": "Consideraciones Anestésicas para el Parto Vaginal luego de Cesárea",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2025-10-15",
+      "learners": 66,
+      "learners_90d": 13,
+      "learners_30d": 4,
+      "certificates": 14,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/consideraciones-anestesicas-parto-vaginal-luego-cesarea-173xpjk.webp",
+      "rating_responses": 16,
+      "average_rating": 4.81,
+      "ratings": {
+        "satisfaction": 4.88,
+        "objectives": 4.88,
+        "relevance": 4.69,
+        "platform": 4.79
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/327ff23e69e1d44e456aac3b60a9414a.jpg"
+    },
+    {
+      "slug": "conversion-analgesia-epidural-anestesia-operacion-cesarea",
+      "id": "conversion-analgesia-epidural-anestesia-operacion-cesarea",
+      "url": "https://www.surghub.org/course/conversion-analgesia-epidural-anestesia-operacion-cesarea",
+      "title": "Conversión de Analgesia Epidural para Labor a Anestesia para Operación Cesárea",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2026-03-09",
+      "learners": 66,
+      "learners_90d": 26,
+      "learners_30d": 12,
+      "certificates": 19,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/conversion-analgesia-epidural-anestesia-operacion-cesarea-1rark8l.webp",
+      "rating_responses": 15,
+      "average_rating": 4.73,
+      "ratings": {
+        "satisfaction": 4.87,
+        "objectives": 4.71,
+        "relevance": 4.64,
+        "platform": 4.69
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2d2dc1eeda8800f4c8e7dd8c82809158.png"
+    },
+    {
+      "slug": "labour-epidural-analgesia-to-anaesthesia-caesarean-delivery",
+      "id": "labour-epidural-analgesia-to-anaesthesia-caesarean-delivery",
+      "url": "https://www.surghub.org/course/labour-epidural-analgesia-to-anaesthesia-caesarean-delivery",
+      "title": "Conversion of Labour Epidural Analgesia to Anaesthesia for Caesarean Delivery",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-04-13",
+      "learners": 198,
+      "learners_90d": 21,
+      "learners_30d": 6,
+      "certificates": 63,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/conversion-analgesia-epidural-anestesia-operacion-cesarea-1rark8l.webp",
+      "rating_responses": 73,
+      "average_rating": 4.75,
+      "ratings": {
+        "satisfaction": 4.74,
+        "objectives": 4.74,
+        "relevance": 4.73,
+        "platform": 4.78
+      },
+      "tags": [
+        "Free",
+        "Top rated",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2d2dc1eeda8800f4c8e7dd8c82809158.png"
+    },
+    {
+      "slug": "cvad-complications-prevention-management",
+      "id": "cvad-complications-prevention-management",
+      "url": "https://www.surghub.org/course/cvad-complications-prevention-management",
+      "title": "CVAD Complications: Prevention and Management",
+      "provider": "Ausmed",
+      "published_on": "2024-12-01",
+      "learners": 330,
+      "learners_90d": 58,
+      "learners_30d": 44,
+      "certificates": 199,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/cvad-complications-prevention-management-xleup.webp",
+      "rating_responses": 200,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.63,
+        "relevance": 4.54,
+        "platform": 4.6
+      },
+      "tags": [
+        "Free",
+        "Trending"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/f0b7b52d3cf1a265627a0e8f843b17a4.png"
+    },
+    {
+      "slug": "difficult-airway-algorithm-2023",
+      "id": "difficult-airway-algorithm-2023",
+      "url": "https://www.surghub.org/course/difficult-airway-algorithm-2023",
+      "title": "Difficult Airway Algorithm 2023",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2025-01-01",
+      "learners": 617,
+      "learners_90d": 92,
+      "learners_30d": 32,
+      "certificates": 320,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/difficult-airway-algorithm-2023-1vg0b36.webp",
+      "rating_responses": 341,
+      "average_rating": 4.41,
+      "ratings": {
+        "satisfaction": 4.41,
+        "objectives": 4.37,
+        "relevance": 4.44,
+        "platform": 4.4
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/e5fd469a350589ef92165021f5c7b0d3.png"
+    },
+    {
+      "slug": "difficult-caesarean-section",
+      "id": "difficult-caesarean-section",
+      "url": "https://www.surghub.org/course/difficult-caesarean-section",
+      "title": "Difficult Caesarean Section",
+      "provider": "Global Surgery Lab",
+      "published_on": "2026-01-26",
+      "learners": 455,
+      "learners_90d": 99,
+      "learners_30d": 25,
+      "certificates": 148,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/difficult-caesarean-section-ekg6mz.webp",
+      "rating_responses": 172,
+      "average_rating": 4.57,
+      "ratings": {
+        "satisfaction": 4.56,
+        "objectives": 4.59,
+        "relevance": 4.53,
+        "platform": 4.6
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8d98a295717b5cfdad89221f12178e4d.png"
+    },
+    {
+      "slug": "drug-errors-anesthesia-2023",
+      "id": "drug-errors-anesthesia-2023",
+      "url": "https://www.surghub.org/course/drug-errors-anesthesia-2023",
+      "title": "Drug Errors in Anesthesia 2023",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2024-12-06",
+      "learners": 355,
+      "learners_90d": 72,
+      "learners_30d": 11,
+      "certificates": 163,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/drug-errors-anesthesia-2023-fsvsh9.webp",
+      "rating_responses": 146,
+      "average_rating": 4.52,
+      "ratings": {
+        "satisfaction": 4.55,
+        "objectives": 4.5,
+        "relevance": 4.5,
+        "platform": 4.53
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/00cf29de40b915c5da4efdcd22ebc625.png"
+    },
+    {
+      "slug": "ear-reconstruction",
+      "id": "ear-reconstruction",
+      "url": "https://www.surghub.org/course/ear-reconstruction",
+      "title": "Ear Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2024-06-29",
+      "learners": 347,
+      "learners_90d": 36,
+      "learners_30d": 11,
+      "certificates": 103,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/ear-reconstruction-1sjpgqx.webp",
+      "rating_responses": 110,
+      "average_rating": 4.63,
+      "ratings": {
+        "satisfaction": 4.63,
+        "objectives": 4.59,
+        "relevance": 4.6,
+        "platform": 4.71
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/65e8961566aec8f016c073d456f223ff.png"
+    },
+    {
+      "slug": "ectopic-pregnancy",
+      "id": "ectopic-pregnancy",
+      "url": "https://www.surghub.org/course/ectopic-pregnancy",
+      "title": "Ectopic Pregnancy",
+      "provider": "ALL SAFE",
+      "published_on": "2025-03-06",
+      "learners": 333,
+      "learners_90d": 52,
+      "learners_30d": 12,
+      "certificates": 54,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/ectopic-pregnancy-1miq1ck.webp",
+      "rating_responses": 54,
+      "average_rating": 4.51,
+      "ratings": {
+        "satisfaction": 4.48,
+        "objectives": 4.52,
+        "relevance": 4.46,
+        "platform": 4.57
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/e67290ad539b74ef3152ab929e81c44e.png"
+    },
+    {
+      "slug": "btk-ed-thoracotomy",
+      "id": "btk-ed-thoracotomy",
+      "url": "https://www.surghub.org/course/btk-ed-thoracotomy",
+      "title": "ED Thoracotomy",
+      "provider": "Behind the Knife",
+      "published_on": "2025-06-04",
+      "learners": 212,
+      "learners_90d": 38,
+      "learners_30d": 12,
+      "certificates": 45,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-ed-thoracotomy-10g56ce.webp",
+      "rating_responses": 54,
+      "average_rating": 4.57,
+      "ratings": {
+        "satisfaction": 4.5,
+        "objectives": 4.56,
+        "relevance": 4.55,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/fb808aa1e4a4bc0c55377618b40183b6.png"
+    },
+    {
+      "slug": "emergency-checklists-anesthesia-practice",
+      "id": "emergency-checklists-anesthesia-practice",
+      "url": "https://www.surghub.org/course/emergency-checklists-anesthesia-practice",
+      "title": "Emergency Checklists in Anesthesia Practice",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2024-11-23",
+      "learners": 613,
+      "learners_90d": 54,
+      "learners_30d": 15,
+      "certificates": 254,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/emergency-checklists-anesthesia-practice-1ugepz0.webp",
+      "rating_responses": 236,
+      "average_rating": 4.48,
+      "ratings": {
+        "satisfaction": 4.49,
+        "objectives": 4.45,
+        "relevance": 4.49,
+        "platform": 4.5
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/55da380c022bb6ddc78bda4613f7118b.png"
+    },
+    {
+      "slug": "epidemiology-fundamentals-patient-safety",
+      "id": "epidemiology-fundamentals-patient-safety",
+      "url": "https://www.surghub.org/course/epidemiology-fundamentals-patient-safety",
+      "title": "Epidemiology - Fundamentals of Patient Safety 2024",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2025-09-08",
+      "learners": 280,
+      "learners_90d": 72,
+      "learners_30d": 23,
+      "certificates": 139,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/epidemiology-fundamentals-patient-safety-rb8pcw.webp",
+      "rating_responses": 138,
+      "average_rating": 4.56,
+      "ratings": {
+        "satisfaction": 4.59,
+        "objectives": 4.56,
+        "relevance": 4.52,
+        "platform": 4.59
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/bacbe0df10b1014bbb6efc03b97d0668.png"
+    },
+    {
+      "slug": "epidural-trabajo-parto-problemas",
+      "id": "epidural-trabajo-parto-problemas",
+      "url": "https://www.surghub.org/course/epidural-trabajo-parto-problemas",
+      "title": "Epidural en el Trabajo de Parto: Solución de Problemas",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2026-03-05",
+      "learners": 37,
+      "learners_90d": 5,
+      "learners_30d": 2,
+      "certificates": 10,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/labour-epidural-troubleshooting-9qlwop.webp",
+      "rating_responses": 13,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.69,
+        "objectives": 4.62,
+        "relevance": 4.62,
+        "platform": 4.67
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/90f250c764d3ba544b35c9803d1c0213.png"
+    },
+    {
+      "slug": "error-analysis-prevention-fundamentals-patient-safety",
+      "id": "error-analysis-prevention-fundamentals-patient-safety",
+      "url": "https://www.surghub.org/course/error-analysis-prevention-fundamentals-patient-safety",
+      "title": "Error Analysis and Prevention - Fundamentals of Patient Safety 2024",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2025-09-27",
+      "learners": 213,
+      "learners_90d": 39,
+      "learners_30d": 10,
+      "certificates": 114,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/error-analysis-prevention-fundamentals-patient-safety-4ym2be.webp",
+      "rating_responses": 106,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.63,
+        "objectives": 4.68,
+        "relevance": 4.64,
+        "platform": 4.67
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/abb12679e38c72afc78a29c63a1a7c5d.png"
+    },
+    {
+      "slug": "btk-esophageal-perforation",
+      "id": "btk-esophageal-perforation",
+      "url": "https://www.surghub.org/course/btk-esophageal-perforation",
+      "title": "Esophageal Perforation",
+      "provider": "Behind the Knife",
+      "published_on": "2025-07-02",
+      "learners": 358,
+      "learners_90d": 65,
+      "learners_30d": 15,
+      "certificates": 90,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-esophageal-perforation-aghd28.webp",
+      "rating_responses": 99,
+      "average_rating": 4.59,
+      "ratings": {
+        "satisfaction": 4.6,
+        "objectives": 4.52,
+        "relevance": 4.58,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/94fba37db1c3edccab49a3b39a82b4e3.png"
+    },
+    {
+      "slug": "essential-burn-care",
+      "id": "essential-burn-care",
+      "url": "https://www.surghub.org/course/essential-burn-care",
+      "title": "Essential Burn Care (EBC)",
+      "provider": "Interburns",
+      "published_on": "2024-10-08",
+      "learners": 7906,
+      "learners_90d": 772,
+      "learners_30d": 204,
+      "certificates": 5471,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/soins-fondamentaux-brulologie-181xl7z.webp",
+      "rating_responses": 5737,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.65,
+        "objectives": 4.65,
+        "relevance": 4.64,
+        "platform": 4.65
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/9e99f6b5f1b6cd4a4ba81ac83868d77a.png"
+    },
+    {
+      "slug": "essential-emergency-and-critical-care",
+      "id": "essential-emergency-and-critical-care",
+      "url": "https://www.surghub.org/course/essential-emergency-and-critical-care",
+      "title": "Essential Emergency & Critical Care",
+      "provider": "Standford LRC",
+      "published_on": "2024-08-02",
+      "learners": 7272,
+      "learners_90d": 1363,
+      "learners_30d": 406,
+      "certificates": 1896,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/essential-emergency-and-critical-care-h1sv88.webp",
+      "rating_responses": 1834,
+      "average_rating": 4.68,
+      "ratings": {
+        "satisfaction": 4.7,
+        "objectives": 4.7,
+        "relevance": 4.64,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4c49ab17ca9cfba04383e20c3aaccc9d.png"
+    },
+    {
+      "slug": "exploring-perioperative-nursing",
+      "id": "exploring-perioperative-nursing",
+      "url": "https://www.surghub.org/course/exploring-perioperative-nursing",
+      "title": "Exploring Perioperative Nursing",
+      "provider": "Global Surgery Foundation",
+      "published_on": "2025-05-15",
+      "learners": 1502,
+      "learners_90d": 223,
+      "learners_30d": 72,
+      "certificates": 241,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/exploring-perioperative-nursing-1814pzk.webp",
+      "rating_responses": 319,
+      "average_rating": 4.72,
+      "ratings": {
+        "satisfaction": 4.76,
+        "objectives": 4.72,
+        "relevance": 4.68,
+        "platform": 4.7
+      },
+      "tags": [
+        "Free",
+        "Popular",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/b3bb72294ffed9f0ee9e1c9c26011e6e.png"
+    },
+    {
+      "slug": "facial-paralysis",
+      "id": "facial-paralysis",
+      "url": "https://www.surghub.org/course/facial-paralysis",
+      "title": "Facial Paralysis",
+      "provider": "ReSurge International",
+      "published_on": "2024-12-19",
+      "learners": 291,
+      "learners_90d": 39,
+      "learners_30d": 13,
+      "certificates": 75,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/facial-paralysis-1pk077t.webp",
+      "rating_responses": 79,
+      "average_rating": 4.83,
+      "ratings": {
+        "satisfaction": 4.92,
+        "objectives": 4.8,
+        "relevance": 4.82,
+        "platform": 4.78
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/adaf274326ffa68b22e89ef905259b46.png"
+    },
+    {
+      "slug": "fascia-iliaca-update",
+      "id": "fascia-iliaca-update",
+      "url": "https://www.surghub.org/course/fascia-iliaca-update",
+      "title": "Fascia Iliaca Compartment Block: An Update",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-11-02",
+      "learners": 114,
+      "learners_90d": 9,
+      "learners_30d": 4,
+      "certificates": 32,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/fascia-iliaca-compartment-block-woyq8x.webp",
+      "rating_responses": 31,
+      "average_rating": 4.71,
+      "ratings": {
+        "satisfaction": 4.74,
+        "objectives": 4.72,
+        "relevance": 4.68,
+        "platform": 4.7
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2205ba270efe96cfba6c011b0ae8d4da.png"
+    },
+    {
+      "slug": "fascia-iliaca-compartment-block",
+      "id": "fascia-iliaca-compartment-block",
+      "url": "https://www.surghub.org/course/fascia-iliaca-compartment-block",
+      "title": "Fascia Iliaca Compartment Block: Landmark And Ultrasound Approach",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-05-14",
+      "learners": 207,
+      "learners_90d": 17,
+      "learners_30d": 4,
+      "certificates": 79,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/fascia-iliaca-compartment-block-woyq8x.webp",
+      "rating_responses": 83,
+      "average_rating": 4.6,
+      "ratings": {
+        "satisfaction": 4.6,
+        "objectives": 4.55,
+        "relevance": 4.57,
+        "platform": 4.67
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2205ba270efe96cfba6c011b0ae8d4da.png"
+    },
+    {
+      "slug": "btk-femoral-vessels",
+      "id": "btk-femoral-vessels",
+      "url": "https://www.surghub.org/course/btk-femoral-vessels",
+      "title": "Femoral Vessels",
+      "provider": "Behind the Knife",
+      "published_on": "2025-01-15",
+      "learners": 222,
+      "learners_90d": 26,
+      "learners_30d": 6,
+      "certificates": 68,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-femoral-vessels-1k58jy7.webp",
+      "rating_responses": 71,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.55,
+        "relevance": 4.56,
+        "platform": 4.73
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/7dac6953225078d17e123a1b2474fb31.png"
+    },
+    {
+      "slug": "fundamentals-war-surgery",
+      "id": "fundamentals-war-surgery",
+      "url": "https://www.surghub.org/course/fundamentals-war-surgery",
+      "title": "Fundamentals of War Surgery",
+      "provider": "International Committee of the Red Cross",
+      "published_on": "2025-11-04",
+      "learners": 797,
+      "learners_90d": 164,
+      "learners_30d": 68,
+      "certificates": 100,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/fundamentals-war-surgery-1fmy7.webp",
+      "rating_responses": 115,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.63,
+        "objectives": 4.65,
+        "relevance": 4.66,
+        "platform": 4.48
+      },
+      "tags": [
+        "Free",
+        "Trending"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/31f9dcf7b9a4c1d886b72b0185eb252f.png"
+    },
+    {
+      "slug": "hand-trauma-reconstruction",
+      "id": "hand-trauma-reconstruction",
+      "url": "https://www.surghub.org/course/hand-trauma-reconstruction",
+      "title": "Hand Trauma Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2023-07-12",
+      "learners": 1067,
+      "learners_90d": 133,
+      "learners_30d": 45,
+      "certificates": 310,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/hand-trauma-reconstruction-e9yfsr.webp",
+      "rating_responses": 336,
+      "average_rating": 4.74,
+      "ratings": {
+        "satisfaction": 4.75,
+        "objectives": 4.72,
+        "relevance": 4.73,
+        "platform": 4.76
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/e24516c3c74ef2428462289bc020e971.png"
+    },
+    {
+      "slug": "tecsalud-hand-washing-asepsis-desinfection-sterilization",
+      "id": "tecsalud-hand-washing-asepsis-desinfection-sterilization",
+      "url": "https://www.surghub.org/course/tecsalud-hand-washing-asepsis-desinfection-sterilization",
+      "title": "Hand Washing, Asepsis, Disinfection and Sterilization",
+      "provider": "Tecnológico de Monterrey",
+      "published_on": "2025-05-13",
+      "learners": 664,
+      "learners_90d": 127,
+      "learners_30d": 34,
+      "certificates": 358,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/lavado-manos-asepsia-desinfeccion-esterilizacion-1h6mv8i.webp",
+      "rating_responses": 364,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.6,
+        "objectives": 4.62,
+        "relevance": 4.6,
+        "platform": 4.67
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4cab5df380e39544a3c1fa287a3f1a92.png"
+    },
+    {
+      "slug": "head-neck-reconstruction",
+      "id": "head-neck-reconstruction",
+      "url": "https://www.surghub.org/course/head-neck-reconstruction",
+      "title": "Head and Neck Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2025-01-24",
+      "learners": 482,
+      "learners_90d": 72,
+      "learners_30d": 25,
+      "certificates": 108,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/head-neck-reconstruction-8au2ln.webp",
+      "rating_responses": 112,
+      "average_rating": 4.59,
+      "ratings": {
+        "satisfaction": 4.56,
+        "objectives": 4.58,
+        "relevance": 4.57,
+        "platform": 4.64
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/a1cd5df5a109162509c878724255e0f5.png"
+    },
+    {
+      "slug": "crash-savers-trauma",
+      "id": "crash-savers-trauma",
+      "url": "https://www.surghub.org/course/crash-savers-trauma",
+      "title": "Hemorrhage Control in the Prehospital Setting",
+      "provider": "CrashSavers Team",
+      "published_on": "2024-10-04",
+      "learners": 508,
+      "learners_90d": 73,
+      "learners_30d": 22,
+      "certificates": 109,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/crash-savers-trauma-95dwl7.webp",
+      "rating_responses": 120,
+      "average_rating": 4.7,
+      "ratings": {
+        "satisfaction": 4.75,
+        "objectives": 4.69,
+        "relevance": 4.71,
+        "platform": 4.64
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/60dad38addf71287fb7619ce8a190051.png"
+    },
+    {
+      "slug": "infection-control-prevention-2023",
+      "id": "infection-control-prevention-2023",
+      "url": "https://www.surghub.org/course/infection-control-prevention-2023",
+      "title": "Infection Control and Prevention 2023",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2024-11-23",
+      "learners": 1982,
+      "learners_90d": 565,
+      "learners_30d": 203,
+      "certificates": 1096,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/infection-control-prevention-2023-i3cfla.webp",
+      "rating_responses": 966,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.65,
+        "objectives": 4.64,
+        "relevance": 4.64,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free",
+        "Popular",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/c823108467a3978f42e82bdba7366489.png"
+    },
+    {
+      "slug": "informed-consent-team-communication-cesarean-section",
+      "id": "informed-consent-team-communication-cesarean-section",
+      "url": "https://www.surghub.org/course/informed-consent-team-communication-cesarean-section",
+      "title": "Informed Consent & Team Communication During Cesarean Section",
+      "provider": "Center for Global Health & Social Responsibility, University of Minnesota",
+      "published_on": "2025-07-23",
+      "learners": 360,
+      "learners_90d": 86,
+      "learners_30d": 16,
+      "certificates": 84,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/informed-consent-team-communication-cesarean-section-1ut7dcg.webp",
+      "rating_responses": 96,
+      "average_rating": 4.67,
+      "ratings": {
+        "satisfaction": 4.73,
+        "objectives": 4.65,
+        "relevance": 4.67,
+        "platform": 4.64
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/264ecb64bda5d938e94fe0b2d6831f33.png"
+    },
+    {
+      "slug": "interprofessional-communication-fundamentals-patient-safety",
+      "id": "interprofessional-communication-fundamentals-patient-safety",
+      "url": "https://www.surghub.org/course/interprofessional-communication-fundamentals-patient-safety",
+      "title": "Interprofessional Communication - Fundamentals of Patient Safety 2024",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2025-09-12",
+      "learners": 268,
+      "learners_90d": 67,
+      "learners_30d": 21,
+      "certificates": 139,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/interprofessional-communication-fundamentals-patient-safety-1p7tfj8.webp",
+      "rating_responses": 131,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.64,
+        "relevance": 4.62,
+        "platform": 4.61
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/bfa545d0643d51994d6dc32b038c19c0.png"
+    },
+    {
+      "slug": "intervention-traumatologie-catastrophe",
+      "id": "francais-tdtr",
+      "url": "https://www.surghub.org/course/intervention-traumatologie-catastrophe",
+      "title": "Intervention de Traumatologie et de Catastrophe en Equipe",
+      "provider": "McGill",
+      "published_on": "2024-03-23",
+      "learners": 447,
+      "learners_90d": 78,
+      "learners_30d": 37,
+      "certificates": 110,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/trauma-disaster-team-response-mcgill-z8sjcr.webp",
+      "rating_responses": 122,
+      "average_rating": 4.49,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.43,
+        "relevance": 4.55,
+        "platform": 4.36
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4b61e5f6fb344e6225ad122d31db3265.png"
+    },
+    {
+      "slug": "introduction-intraoperative-imaging",
+      "id": "introduction-intraoperative-imaging",
+      "url": "https://www.surghub.org/course/introduction-intraoperative-imaging",
+      "title": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+      "provider": "AO Alliance",
+      "published_on": "2025-01-30",
+      "learners": 921,
+      "learners_90d": 82,
+      "learners_30d": 26,
+      "certificates": 347,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/introduction-intraoperative-imaging-1hl7bjy.webp",
+      "rating_responses": 396,
+      "average_rating": 4.66,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.65,
+        "relevance": 4.66,
+        "platform": 4.68
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/0db7bd7f4b04cdcf359446baf68f52bf.png"
+    },
+    {
+      "slug": "musculoskeletal-tumour-surgery",
+      "id": "musculoskeletal-tumour-surgery",
+      "url": "https://www.surghub.org/course/musculoskeletal-tumour-surgery",
+      "title": "Introduction to Musculoskeletal Tumour Surgery",
+      "provider": "Universities of Western Australia and Oxford",
+      "published_on": "2025-01-03",
+      "learners": 649,
+      "learners_90d": 81,
+      "learners_30d": 19,
+      "certificates": 104,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/musculoskeletal-tumour-surgery-1eyhtwe.webp",
+      "rating_responses": 156,
+      "average_rating": 4.6,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.58,
+        "relevance": 4.62,
+        "platform": 4.56
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/59731ce77589948034fefd9b9469a241.png"
+    },
+    {
+      "slug": "perioperative-management-spinal-cord-injuries",
+      "id": "perioperative-management-spinal-cord-injuries",
+      "url": "https://www.surghub.org/course/perioperative-management-spinal-cord-injuries",
+      "title": "Key Concepts in the Perioperative Management of Spinal Cord Injuries",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-09-05",
+      "learners": 207,
+      "learners_90d": 19,
+      "learners_30d": 5,
+      "certificates": 79,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/perioperative-management-spinal-cord-injuries-845z4l.webp",
+      "rating_responses": 81,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.57,
+        "objectives": 4.62,
+        "relevance": 4.6,
+        "platform": 4.63
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/1817ecef19ccae59d634db4b19c54b9f.png"
+    },
+    {
+      "slug": "laparoscopic-cholecystectomy",
+      "id": "gallbladder-disease",
+      "url": "https://www.surghub.org/course/laparoscopic-cholecystectomy",
+      "title": "Laparoscopic Cholecystectomy",
+      "provider": "ALL SAFE",
+      "published_on": "2025-05-18",
+      "learners": 978,
+      "learners_90d": 195,
+      "learners_30d": 53,
+      "certificates": 220,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/laparoscopic-cholecystectomy-12gqqha.webp",
+      "rating_responses": 230,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.68,
+        "objectives": 4.64,
+        "relevance": 4.61,
+        "platform": 4.67
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/0156ee5f52d77094476dc1b186677b86.png"
+    },
+    {
+      "slug": "laparoscopic-handling-of-small-bowel",
+      "id": "meckels-diverticulum",
+      "url": "https://www.surghub.org/course/laparoscopic-handling-of-small-bowel",
+      "title": "Laparoscopic Handling of Small Bowel",
+      "provider": "ALL SAFE",
+      "published_on": "2025-08-20",
+      "learners": 202,
+      "learners_90d": 32,
+      "learners_30d": 13,
+      "certificates": 51,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/laparoscopic-handling-of-small-bowel-19oojzi.webp",
+      "rating_responses": 48,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.63,
+        "objectives": 4.58,
+        "relevance": 4.57,
+        "platform": 4.7
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/a8f7dde97b6bb305f2213d1ce81533f9.png"
+    },
+    {
+      "slug": "lavado-manos-asepsia-desinfeccion-esterilizacion",
+      "id": "lavado-manos-asepsia-desinfeccion-esterilizacion",
+      "url": "https://www.surghub.org/course/lavado-manos-asepsia-desinfeccion-esterilizacion",
+      "title": "Lavado de Manos, Asepsia, Desinfección y Esterilización",
+      "provider": "Tecnológico de Monterrey",
+      "published_on": "2025-08-04",
+      "learners": 240,
+      "learners_90d": 69,
+      "learners_30d": 30,
+      "certificates": 156,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/lavado-manos-asepsia-desinfeccion-esterilizacion-1h6mv8i.webp",
+      "rating_responses": 166,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.7,
+        "objectives": 4.68,
+        "relevance": 4.64,
+        "platform": 4.54
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4cab5df380e39544a3c1fa287a3f1a92.png"
+    },
+    {
+      "slug": "learning-and-teaching-ultrasound-guided-regional-anesthesia-safely",
+      "id": "learning-and-teaching-ultrasound-guided-regional-anesthesia-safely",
+      "url": "https://www.surghub.org/course/learning-and-teaching-ultrasound-guided-regional-anesthesia-safely",
+      "title": "Learning and Teaching Ultrasound-Guided Regional Anesthesia Safely",
+      "provider": "Fédération Francophone des Sociétés d'Anesthésie-Réanimation",
+      "published_on": "2026-05-13",
+      "learners": 1290,
+      "learners_90d": 385,
+      "learners_30d": 84,
+      "certificates": 202,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/learning-and-teaching-ultrasound-guided-regional-anesthesia-safely-arabic-ki11b.webp",
+      "rating_responses": 260,
+      "average_rating": 4.51,
+      "ratings": {
+        "satisfaction": 4.52,
+        "objectives": 4.48,
+        "relevance": 4.49,
+        "platform": 4.54
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/43764942571dc4cf135a4b356d77b633.png"
+    },
+    {
+      "slug": "lip-cheek-reconstruction",
+      "id": "lip-cheek-reconstruction",
+      "url": "https://www.surghub.org/course/lip-cheek-reconstruction",
+      "title": "Lip & Cheek Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2024-12-15",
+      "learners": 233,
+      "learners_90d": 26,
+      "learners_30d": 6,
+      "certificates": 67,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/lip-cheek-reconstruction-3n1zu0.webp",
+      "rating_responses": 69,
+      "average_rating": 4.63,
+      "ratings": {
+        "satisfaction": 4.62,
+        "objectives": 4.6,
+        "relevance": 4.6,
+        "platform": 4.68
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/92f2875f5fa5d85ba57595fa0ee0db1e.jpeg"
+    },
+    {
+      "slug": "liste-controle-oms-chirurgie-sure",
+      "id": "liste-controle-oms-chirurgie-sure",
+      "url": "https://www.surghub.org/course/liste-controle-oms-chirurgie-sure",
+      "title": "Liste de Contrôle de l’OMS pour une Chirurgie Sûre",
+      "provider": "King’s Global Health Partnerships",
+      "published_on": "2025-06-16",
+      "learners": 134,
+      "learners_90d": 25,
+      "learners_30d": 0,
+      "certificates": 46,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/liste-controle-oms-chirurgie-sure-1uwg5rx.webp",
+      "rating_responses": 52,
+      "average_rating": 4.68,
+      "ratings": {
+        "satisfaction": 4.75,
+        "objectives": 4.67,
+        "relevance": 4.71,
+        "platform": 4.61
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/fe0b3d8edee19e65c6ceccd38c55ef7f.png"
+    },
+    {
+      "slug": "lumbar-plexus-block",
+      "id": "lumbar-plexus-block",
+      "url": "https://www.surghub.org/course/lumbar-plexus-block",
+      "title": "Lumbar Plexus Block – Landmark Technique (PSOAS Compartment Block)",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-07-17",
+      "learners": 171,
+      "learners_90d": 9,
+      "learners_30d": 3,
+      "certificates": 48,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/lumbar-plexus-block-1eys6ug.webp",
+      "rating_responses": 49,
+      "average_rating": 4.68,
+      "ratings": {
+        "satisfaction": 4.69,
+        "objectives": 4.66,
+        "relevance": 4.65,
+        "platform": 4.73
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/deaf36849259980fbebf5367e9f7b997.png"
+    },
+    {
+      "slug": "managing-a-high-voltage-burn-in-a-low-resource-setting",
+      "id": "managing-a-high-voltage-burn-in-a-low-resource-setting",
+      "url": "https://www.surghub.org/course/managing-a-high-voltage-burn-in-a-low-resource-setting",
+      "title": "Managing a High-Voltage Burn in a Low-Resource Setting",
+      "provider": "ReSurge International",
+      "published_on": "2026-08-08",
+      "learners": 194,
+      "learners_90d": 182,
+      "learners_30d": 54,
+      "certificates": 76,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/managing-a-high-voltage-burn-in-a-low-resource-setting-1shei2k.webp",
+      "rating_responses": 83,
+      "average_rating": 4.5,
+      "ratings": {
+        "satisfaction": 4.55,
+        "objectives": 4.49,
+        "relevance": 4.4,
+        "platform": 4.57
+      },
+      "tags": [
+        "Free",
+        "New"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2d77c1da147680fd4db02419cc12473a.png"
+    },
+    {
+      "slug": "managing-pediatric-arm-contractures-in-a-low-resource-setting",
+      "id": "managing-pediatric-arm-contractures-in-a-low-resource-setting",
+      "url": "https://www.surghub.org/course/managing-pediatric-arm-contractures-in-a-low-resource-setting",
+      "title": "Managing Pediatric Arm Contractures in a Low-Resource Setting",
+      "provider": "ReSurge International",
+      "published_on": "2026-07-27",
+      "learners": 99,
+      "learners_90d": 82,
+      "learners_30d": 15,
+      "certificates": 35,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/managing-pediatric-arm-contractures-in-a-low-resource-setting-117be6k.webp",
+      "rating_responses": 0,
+      "ratings": {},
+      "tags": [
+        "Free",
+        "New"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/19afde6a8a5b77887f408db24c33ab03.png"
+    },
+    {
+      "slug": "manejo-basico-heridas",
+      "id": "manejo-basico-heridas",
+      "url": "https://www.surghub.org/course/manejo-basico-heridas",
+      "title": "Manejo Básico de Heridas",
+      "provider": "Tecnológico de Monterrey",
+      "published_on": "2025-05-01",
+      "learners": 501,
+      "learners_90d": 163,
+      "learners_30d": 73,
+      "certificates": 310,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/manejo-basico-heridas-vzn3qf.webp",
+      "rating_responses": 313,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.69,
+        "objectives": 4.69,
+        "relevance": 4.61,
+        "platform": 4.62
+      },
+      "tags": [
+        "Free",
+        "Trending"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/68748f2af41b987a8787ff907080bc70.png"
+    },
+    {
+      "slug": "manejo-basico-quemaduras",
+      "id": "manejo-basico-quemaduras",
+      "url": "https://www.surghub.org/course/manejo-basico-quemaduras",
+      "title": "Manejo Básico de Quemaduras",
+      "provider": "Tecnológico de Monterrey",
+      "published_on": "2025-06-27",
+      "learners": 365,
+      "learners_90d": 74,
+      "learners_30d": 31,
+      "certificates": 274,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/manejo-basico-quemaduras-1vxo3.webp",
+      "rating_responses": 279,
+      "average_rating": 4.71,
+      "ratings": {
+        "satisfaction": 4.74,
+        "objectives": 4.77,
+        "relevance": 4.69,
+        "platform": 4.64
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/04a73fe9d8a1f0840aa727bc2a1a42a4.png"
+    },
+    {
+      "slug": "medication-error-prevention-fundamentals-patient-safety",
+      "id": "medication-error-prevention-fundamentals-patient-safety",
+      "url": "https://www.surghub.org/course/medication-error-prevention-fundamentals-patient-safety",
+      "title": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2025-08-06",
+      "learners": 517,
+      "learners_90d": 100,
+      "learners_30d": 21,
+      "certificates": 318,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/medication-error-prevention-fundamentals-patient-safety-eh1ty5.webp",
+      "rating_responses": 327,
+      "average_rating": 4.59,
+      "ratings": {
+        "satisfaction": 4.6,
+        "objectives": 4.59,
+        "relevance": 4.52,
+        "platform": 4.65
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/98804eb87dbc448e101c6a72c4cf72a4.png"
+    },
+    {
+      "slug": "microsurgery-workhorse-flaps",
+      "id": "microsurgery-workhorse-flaps",
+      "url": "https://www.surghub.org/course/microsurgery-workhorse-flaps",
+      "title": "Microsurgery and Workhorse Flaps",
+      "provider": "ReSurge International",
+      "published_on": "2023-08-13",
+      "learners": 874,
+      "learners_90d": 109,
+      "learners_30d": 31,
+      "certificates": 268,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/microsurgery-workhorse-flaps-1f6dq6z.webp",
+      "rating_responses": 277,
+      "average_rating": 4.69,
+      "ratings": {
+        "satisfaction": 4.67,
+        "objectives": 4.67,
+        "relevance": 4.68,
+        "platform": 4.73
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/6b4a71199cff273b0019913ae48e04b9.png"
+    },
+    {
+      "slug": "nasal-reconstruction",
+      "id": "nasal-reconstruction",
+      "url": "https://www.surghub.org/course/nasal-reconstruction",
+      "title": "Nasal Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2025-03-24",
+      "learners": 296,
+      "learners_90d": 37,
+      "learners_30d": 13,
+      "certificates": 80,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/nasal-reconstruction-163ojaf.webp",
+      "rating_responses": 83,
+      "average_rating": 4.71,
+      "ratings": {
+        "satisfaction": 4.72,
+        "objectives": 4.72,
+        "relevance": 4.62,
+        "platform": 4.76
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/72c192efdca2f2fb87eee1d4dc76972d.png"
+    },
+    {
+      "slug": "navigating-global-surgery-ecosystem",
+      "id": "navigating-global-surgery-ecosystem",
+      "url": "https://www.surghub.org/course/navigating-global-surgery-ecosystem",
+      "title": "Navigating the Global Surgery Ecosystem",
+      "provider": "Global Surgery Foundation",
+      "published_on": "2024-12-11",
+      "learners": 1701,
+      "learners_90d": 124,
+      "learners_30d": 70,
+      "certificates": 380,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/navigating-global-surgery-ecosystem-1oh94y7.webp",
+      "rating_responses": 345,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.69,
+        "objectives": 4.63,
+        "relevance": 4.57,
+        "platform": 4.67
+      },
+      "tags": [
+        "Free",
+        "Trending"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4eef78b627817b7e584b8653d66f2649.png"
+    },
+    {
+      "slug": "nerve-stimulation",
+      "id": "nerve-stimulation",
+      "url": "https://www.surghub.org/course/nerve-stimulation",
+      "title": "Nerve Stimulation for Peripheral Nerve Blockade",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-03-29",
+      "learners": 132,
+      "learners_90d": 14,
+      "learners_30d": 3,
+      "certificates": 41,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/nerve-stimulation-6bkmp2.webp",
+      "rating_responses": 39,
+      "average_rating": 4.8,
+      "ratings": {
+        "satisfaction": 4.85,
+        "objectives": 4.79,
+        "relevance": 4.75,
+        "platform": 4.8
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/6b8099adfb34561d74a15434663f022a.png"
+    },
+    {
+      "slug": "nursing-care-in-war",
+      "id": "nursing-care-in-war",
+      "url": "https://www.surghub.org/course/nursing-care-in-war",
+      "title": "Nursing Care in War",
+      "provider": "International Committee of the Red Cross",
+      "published_on": "2025-11-05",
+      "learners": 624,
+      "learners_90d": 112,
+      "learners_30d": 25,
+      "certificates": 50,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/nursing-care-in-war-mevjq4.webp",
+      "rating_responses": 85,
+      "average_rating": 4.49,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.48,
+        "relevance": 4.58,
+        "platform": 4.3
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/b9613b5e5afda375143b8f3be66f2dc5.png"
+    },
+    {
+      "slug": "obstetric-trauma",
+      "id": "obstetric-trauma",
+      "url": "https://www.surghub.org/course/obstetric-trauma",
+      "title": "Obstetric Trauma",
+      "provider": "Global Trauma Collaboration, Baylor College of Medicine",
+      "published_on": "2025-08-18",
+      "learners": 718,
+      "learners_90d": 79,
+      "learners_30d": 26,
+      "certificates": 300,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/obstetric-trauma-16dvhrz.webp",
+      "rating_responses": 317,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.61,
+        "relevance": 4.61,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8893ea8b146409020362baff5a8dfe8e.jpg"
+    },
+    {
+      "slug": "obstetrics-remote-retrieval-medicine",
+      "id": "obstetrics-remote-retrieval-medicine",
+      "url": "https://www.surghub.org/course/obstetrics-remote-retrieval-medicine",
+      "title": "Obstetrics in the Setting of Remote Retrieval Medicine",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-01-09",
+      "learners": 317,
+      "learners_90d": 18,
+      "learners_30d": 5,
+      "certificates": 130,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/obstetrics-remote-retrieval-medicine-1vivub2.webp",
+      "rating_responses": 133,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.67,
+        "objectives": 4.58,
+        "relevance": 4.57,
+        "platform": 4.72
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/fa382c37af09a12ec8227d947ba78da6.png"
+    },
+    {
+      "slug": "oral-health-professionals",
+      "id": "oral-health-professionals",
+      "url": "https://www.surghub.org/course/oral-health-professionals",
+      "title": "Oral Health in Comprehensive Cleft Care",
+      "provider": "Smile Train",
+      "published_on": "2024-04-02",
+      "learners": 243,
+      "learners_90d": 50,
+      "learners_30d": 16,
+      "certificates": 72,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/oral-health-professionals-1s4tmez.webp",
+      "rating_responses": 84,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.6,
+        "objectives": 4.57,
+        "relevance": 4.61,
+        "platform": 4.64
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/843ec05364e21c244c5ba5f914eee93d.jpeg"
+    },
+    {
+      "slug": "overview-of-skin-cancer",
+      "id": "skin-cancer-reconstruction",
+      "url": "https://www.surghub.org/course/overview-of-skin-cancer",
+      "title": "Overview of Skin Cancer",
+      "provider": "ReSurge International",
+      "published_on": "2025-02-22",
+      "learners": 252,
+      "learners_90d": 36,
+      "learners_30d": 9,
+      "certificates": 81,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/overview-of-skin-cancer-1kmxn5o.webp",
+      "rating_responses": 83,
+      "average_rating": 4.56,
+      "ratings": {
+        "satisfaction": 4.57,
+        "objectives": 4.52,
+        "relevance": 4.49,
+        "platform": 4.68
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/188cfabbacd995c09145bab460001f90.png"
+    },
+    {
+      "slug": "pancreatic-cancer-surgery",
+      "id": "pancreatic-cancer-surgery",
+      "url": "https://www.surghub.org/course/pancreatic-cancer-surgery",
+      "title": "Pancreatic Cancer Surgery Course",
+      "provider": "ecancer",
+      "published_on": "2023-11-03",
+      "learners": 398,
+      "learners_90d": 39,
+      "learners_30d": 10,
+      "certificates": 30,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/pancreatic-cancer-surgery-gcs9ab.webp",
+      "rating_responses": 40,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.63,
+        "objectives": 4.63,
+        "relevance": 4.67,
+        "platform": 4.61
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/555cd3bc6f88ba57745c730a35c8cfdc.png"
+    },
+    {
+      "slug": "patient-centred-care",
+      "id": "patient-centred-care",
+      "url": "https://www.surghub.org/course/patient-centred-care",
+      "title": "Patient-Centred Care",
+      "provider": "Royal College of Surgeons in Ireland",
+      "published_on": "2023-07-06",
+      "learners": 1396,
+      "learners_90d": 255,
+      "learners_30d": 46,
+      "certificates": 567,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/patient-centred-care-sxpwox.webp",
+      "rating_responses": 623,
+      "average_rating": 4.43,
+      "ratings": {
+        "satisfaction": 4.45,
+        "objectives": 4.43,
+        "relevance": 4.38,
+        "platform": 4.47
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8d3ceee51c46bb6cf772108865186141.png"
+    },
+    {
+      "slug": "penetrating-thoracoabdominal-trauma",
+      "id": "penetrating-thoracoabdominal-trauma",
+      "url": "https://www.surghub.org/course/penetrating-thoracoabdominal-trauma",
+      "title": "Penetrating Thoracoabdominal Trauma",
+      "provider": "ALL SAFE",
+      "published_on": "2025-02-06",
+      "learners": 373,
+      "learners_90d": 53,
+      "learners_30d": 18,
+      "certificates": 79,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/penetrating-thoracoabdominal-trauma-mvsemg.webp",
+      "rating_responses": 74,
+      "average_rating": 4.54,
+      "ratings": {
+        "satisfaction": 4.58,
+        "objectives": 4.49,
+        "relevance": 4.49,
+        "platform": 4.61
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/ccdd263f789d19fff5729bb365705586.png"
+    },
+    {
+      "slug": "perioperative-blood-management-pediatric-patient",
+      "id": "perioperative-blood-management-pediatric-patient",
+      "url": "https://www.surghub.org/course/perioperative-blood-management-pediatric-patient",
+      "title": "Perioperative Blood Management in the Pediatric Patient",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-11-24",
+      "learners": 164,
+      "learners_90d": 16,
+      "learners_30d": 4,
+      "certificates": 54,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/perioperative-blood-management-pediatric-patient-10wci6p.webp",
+      "rating_responses": 50,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.54,
+        "relevance": 4.65,
+        "platform": 4.77
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4a940980aaf5e60c7c0549c121d7b3be.png"
+    },
+    {
+      "slug": "perioperative-medicine",
+      "id": "perioperative-medicine",
+      "url": "https://www.surghub.org/course/perioperative-medicine",
+      "title": "Perioperative Medicine: An Overview",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-12-11",
+      "learners": 557,
+      "learners_90d": 82,
+      "learners_30d": 24,
+      "certificates": 182,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/perioperative-medicine-1eoz8so.webp",
+      "rating_responses": 205,
+      "average_rating": 4.5,
+      "ratings": {
+        "satisfaction": 4.52,
+        "objectives": 4.53,
+        "relevance": 4.42,
+        "platform": 4.53
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/f60a310624a80e6bf95bac1fac95b1c3.png"
+    },
+    {
+      "slug": "pen-programme",
+      "id": "pen-programme",
+      "url": "https://www.surghub.org/course/pen-programme",
+      "title": "Perioperative Nursing E-Learning Foundational Programme (PeN Programme)",
+      "provider": "East, Central and Southern African College of Nursing and Midwifery",
+      "published_on": "2023-09-16",
+      "learners": 2272,
+      "learners_90d": 249,
+      "learners_30d": 85,
+      "certificates": 267,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/pen-program-spanish-1f37qnn.webp",
+      "rating_responses": 353,
+      "average_rating": 4.56,
+      "ratings": {
+        "satisfaction": 4.63,
+        "objectives": 4.59,
+        "relevance": 4.53,
+        "platform": 4.5
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/a02516fb4b0964df7bb7e4bacb3ffb66.png"
+    },
+    {
+      "slug": "ppe",
+      "id": "ppe",
+      "url": "https://www.surghub.org/course/ppe",
+      "title": "Personal Protective Equipment",
+      "provider": "Lifebox",
+      "published_on": "2023-07-28",
+      "learners": 2569,
+      "learners_90d": 488,
+      "learners_30d": 149,
+      "certificates": 1798,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/ppe-1sgyu75.webp",
+      "rating_responses": 1911,
+      "average_rating": 4.58,
+      "ratings": {
+        "satisfaction": 4.6,
+        "objectives": 4.6,
+        "relevance": 4.56,
+        "platform": 4.57
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8ad13acf0190e4228b909d0a7ec1c79b.png"
+    },
+    {
+      "slug": "postoperative-assessment-and-monitoring",
+      "id": "postoperative-assessment-and-monitoring",
+      "url": "https://www.surghub.org/course/postoperative-assessment-and-monitoring",
+      "title": "Postoperative Assessment and Monitoring",
+      "provider": "Ausmed",
+      "published_on": "2025-01-14",
+      "learners": 482,
+      "learners_90d": 85,
+      "learners_30d": 28,
+      "certificates": 151,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/postoperative-assessment-and-monitoring-1wm2gb6.webp",
+      "rating_responses": 186,
+      "average_rating": 4.56,
+      "ratings": {
+        "satisfaction": 4.58,
+        "objectives": 4.57,
+        "relevance": 4.57,
+        "platform": 4.51
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/63363bb66fadc45c0f936844c068db92.png"
+    },
+    {
+      "slug": "access-epidural-space",
+      "id": "access-epidural-space",
+      "url": "https://www.surghub.org/course/access-epidural-space",
+      "title": "Practical Considerations to Access the Epidural Space",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-02-13",
+      "learners": 187,
+      "learners_90d": 17,
+      "learners_30d": 8,
+      "certificates": 68,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/access-epidural-space-v911sv.webp",
+      "rating_responses": 66,
+      "average_rating": 4.49,
+      "ratings": {
+        "satisfaction": 4.47,
+        "objectives": 4.5,
+        "relevance": 4.49,
+        "platform": 4.52
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2d84c443b52b780ac17adac21b14dbd3.png"
+    },
+    {
+      "slug": "preoperative-assessment",
+      "id": "preoperative-assessment",
+      "url": "https://www.surghub.org/course/preoperative-assessment",
+      "title": "Preoperative Assessment",
+      "provider": "Ausmed",
+      "published_on": "2025-02-01",
+      "learners": 510,
+      "learners_90d": 69,
+      "learners_30d": 22,
+      "certificates": 127,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/preoperative-assessment-191ci6e.webp",
+      "rating_responses": 186,
+      "average_rating": 4.59,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.58,
+        "relevance": 4.6,
+        "platform": 4.57
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/54445cc8f9169df887840e8d4832a5c2.png"
+    },
+    {
+      "slug": "pressure-sore-reconstruction",
+      "id": "pressure-sore-reconstruction",
+      "url": "https://www.surghub.org/course/pressure-sore-reconstruction",
+      "title": "Pressure Sore Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2024-01-17",
+      "learners": 380,
+      "learners_90d": 46,
+      "learners_30d": 14,
+      "certificates": 131,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/pressure-sore-reconstruction-sr8d4s.webp",
+      "rating_responses": 143,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.6,
+        "objectives": 4.59,
+        "relevance": 4.62,
+        "platform": 4.68
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/a44b1b71f5dd3de074eb2b5c4f30a58e.png"
+    },
+    {
+      "slug": "regional-anaesthesia-children",
+      "id": "regional-anaesthesia-children",
+      "url": "https://www.surghub.org/course/regional-anaesthesia-children",
+      "title": "Principles of Regional Anaesthesia in Children",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-01-25",
+      "learners": 237,
+      "learners_90d": 32,
+      "learners_30d": 4,
+      "certificates": 87,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/regional-anaesthesia-children-18s66n.webp",
+      "rating_responses": 85,
+      "average_rating": 4.66,
+      "ratings": {
+        "satisfaction": 4.68,
+        "objectives": 4.64,
+        "relevance": 4.69,
+        "platform": 4.62
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/71203ca6f19ab19d8c39a9874d15dd26.png"
+    },
+    {
+      "slug": "pen-program-spanish",
+      "id": "pen-program-spanish",
+      "url": "https://www.surghub.org/course/pen-program-spanish",
+      "title": "Programa Básico de Entrenamiento Virtual en Enfermería Perioperatoria",
+      "provider": "East, Central and Southern African College of Nursing and Midwifery",
+      "published_on": "2025-06-24",
+      "learners": 163,
+      "learners_90d": 26,
+      "learners_30d": 10,
+      "certificates": 2,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/pen-program-spanish-1f37qnn.webp",
+      "rating_responses": 21,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.71,
+        "objectives": 4.67,
+        "relevance": 4.62,
+        "platform": 4.48
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/a02516fb4b0964df7bb7e4bacb3ffb66.png"
+    },
+    {
+      "slug": "self-learn-pulse-ox",
+      "id": "self-learn-pulse-ox",
+      "url": "https://www.surghub.org/course/self-learn-pulse-ox",
+      "title": "Pulse Oximetry",
+      "provider": "Lifebox",
+      "published_on": "2023-07-28",
+      "learners": 402,
+      "learners_90d": 37,
+      "learners_30d": 12,
+      "certificates": 196,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/self-learn-pulse-ox-88p9tb.webp",
+      "rating_responses": 201,
+      "average_rating": 4.67,
+      "ratings": {
+        "satisfaction": 4.65,
+        "objectives": 4.68,
+        "relevance": 4.63,
+        "platform": 4.73
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/017ef8c08c623ee1b6f150db65bc3630.jpeg"
+    },
+    {
+      "slug": "pulseoxcovidselflearning",
+      "id": "pulseoxcovidselflearning",
+      "url": "https://www.surghub.org/course/pulseoxcovidselflearning",
+      "title": "Pulse Oximetry in the Context of COVID-19",
+      "provider": "Lifebox",
+      "published_on": "2023-08-28",
+      "learners": 132,
+      "learners_90d": 7,
+      "learners_30d": 2,
+      "certificates": 55,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/pulseoxcovidselflearning-10hsqze.webp",
+      "rating_responses": 60,
+      "average_rating": 4.55,
+      "ratings": {
+        "satisfaction": 4.63,
+        "objectives": 4.62,
+        "relevance": 4.53,
+        "platform": 4.4
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/573d7a38dad8cf9153612c8e67e76797.png"
+    },
+    {
+      "slug": "rapid-sequence-induction",
+      "id": "rapid-sequence-induction",
+      "url": "https://www.surghub.org/course/rapid-sequence-induction",
+      "title": "Rapid Sequence Induction",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-08-29",
+      "learners": 827,
+      "learners_90d": 115,
+      "learners_30d": 36,
+      "certificates": 341,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/rapid-sequence-induction-wy460s.webp",
+      "rating_responses": 378,
+      "average_rating": 4.63,
+      "ratings": {
+        "satisfaction": 4.64,
+        "objectives": 4.64,
+        "relevance": 4.59,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2ddec26506b059609dad4626b8e91e0f.png"
+    },
+    {
+      "slug": "rectal-cancer-surgery",
+      "id": "rectal-cancer-surgery",
+      "url": "https://www.surghub.org/course/rectal-cancer-surgery",
+      "title": "Rectal Cancer Surgery Course",
+      "provider": "ecancer",
+      "published_on": "2023-11-10",
+      "learners": 428,
+      "learners_90d": 28,
+      "learners_30d": 9,
+      "certificates": 40,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/rectal-cancer-surgery-16udajn.webp",
+      "rating_responses": 50,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.64,
+        "objectives": 4.64,
+        "relevance": 4.72,
+        "platform": 4.56
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/a32e6a9cc58f0d543b139b97b691f9d0.png"
+    },
+    {
+      "slug": "canecsa-research-methodology-course",
+      "id": "canecsa-research-methodology-course",
+      "url": "https://www.surghub.org/course/canecsa-research-methodology-course",
+      "title": "Research Methodology Course (RMC)",
+      "provider": "CANECSA",
+      "published_on": "2023-06-28",
+      "learners": 6864,
+      "learners_90d": 2109,
+      "learners_30d": 426,
+      "certificates": 1719,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/canecsa-research-methodology-course-1ivtl5a.webp",
+      "rating_responses": 1690,
+      "average_rating": 4.58,
+      "ratings": {
+        "satisfaction": 4.59,
+        "objectives": 4.58,
+        "relevance": 4.56,
+        "platform": 4.58
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/6649bb8d7bf328a6f66b285b5bb38f46.png"
+    },
+    {
+      "slug": "rural-urology-practice",
+      "id": "rural-urology-practice",
+      "url": "https://www.surghub.org/course/rural-urology-practice",
+      "title": "Rural Urology Practice",
+      "provider": "IFRS / VRiMS",
+      "published_on": "2025-04-26",
+      "learners": 312,
+      "learners_90d": 45,
+      "learners_30d": 8,
+      "certificates": 29,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/rural-urology-practice-4dt3zz.webp",
+      "rating_responses": 33,
+      "average_rating": 4.76,
+      "ratings": {
+        "satisfaction": 4.79,
+        "objectives": 4.73,
+        "relevance": 4.76,
+        "platform": 4.77
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/1600c1ae2457daf925819266b3ab5ce3.png"
+    },
+    {
+      "slug": "handover",
+      "id": "handover",
+      "url": "https://www.surghub.org/course/handover",
+      "title": "Safe Clinical Handover",
+      "provider": "Royal College of Surgeons in Ireland",
+      "published_on": "2024-11-19",
+      "learners": 493,
+      "learners_90d": 110,
+      "learners_30d": 39,
+      "certificates": 204,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/handover-4038h0.webp",
+      "rating_responses": 203,
+      "average_rating": 4.68,
+      "ratings": {
+        "satisfaction": 4.65,
+        "objectives": 4.69,
+        "relevance": 4.64,
+        "platform": 4.73
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/f0918837ba9d9878e7ae260e9f14f43a.png"
+    },
+    {
+      "slug": "safety-culture-fundamentals-patient-safety",
+      "id": "safety-culture-fundamentals-patient-safety",
+      "url": "https://www.surghub.org/course/safety-culture-fundamentals-patient-safety",
+      "title": "Safety Culture - Fundamentals of Patient Safety 2024",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2025-09-11",
+      "learners": 338,
+      "learners_90d": 69,
+      "learners_30d": 17,
+      "certificates": 187,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/implementing-reliable-systems-fundamentals-patient-safety-y3t36i.webp",
+      "rating_responses": 187,
+      "average_rating": 4.65,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.67,
+        "relevance": 4.64,
+        "platform": 4.64
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/0a3325c8b015dca7a6bb7106c18dd97d.png"
+    },
+    {
+      "slug": "scalp-reconstruction",
+      "id": "scalp-reconstruction",
+      "url": "https://www.surghub.org/course/scalp-reconstruction",
+      "title": "Scalp Reconstruction",
+      "provider": "ReSurge International",
+      "published_on": "2023-10-23",
+      "learners": 472,
+      "learners_90d": 43,
+      "learners_30d": 14,
+      "certificates": 171,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/scalp-reconstruction-7p9gjr.webp",
+      "rating_responses": 181,
+      "average_rating": 4.62,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.56,
+        "relevance": 4.58,
+        "platform": 4.71
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/79ff313f58952b4b2388a244f78a24ce.jpg"
+    },
+    {
+      "slug": "soins-fondamentaux-brulologie",
+      "id": "soins-fondamentaux-brulologie",
+      "url": "https://www.surghub.org/course/soins-fondamentaux-brulologie",
+      "title": "Soins Fondamentaux en Brûlologie",
+      "provider": "Interburns",
+      "published_on": "2025-04-04",
+      "learners": 413,
+      "learners_90d": 63,
+      "learners_30d": 34,
+      "certificates": 65,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/soins-fondamentaux-brulologie-181xl7z.webp",
+      "rating_responses": 82,
+      "average_rating": 4.48,
+      "ratings": {
+        "satisfaction": 4.55,
+        "objectives": 4.46,
+        "relevance": 4.45,
+        "platform": 4.45
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/9e99f6b5f1b6cd4a4ba81ac83868d77a.png"
+    },
+    {
+      "slug": "speaking-up-operating-room",
+      "id": "speaking-up-operating-room",
+      "url": "https://www.surghub.org/course/speaking-up-operating-room",
+      "title": "Speaking up in the Operating Room: Escalating Concerns",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-11-28",
+      "learners": 377,
+      "learners_90d": 57,
+      "learners_30d": 15,
+      "certificates": 139,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/speaking-up-operating-room-10skylh.webp",
+      "rating_responses": 150,
+      "average_rating": 4.51,
+      "ratings": {
+        "satisfaction": 4.5,
+        "objectives": 4.51,
+        "relevance": 4.43,
+        "platform": 4.6
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/dfcbab17a305e0e480a3d254fc2a2d7f.jpeg"
+    },
+    {
+      "slug": "spinal-anaesthesia-theory-and-practice",
+      "id": "spinal-anaesthesia-theory-and-practice",
+      "url": "https://www.surghub.org/course/spinal-anaesthesia-theory-and-practice",
+      "title": "Spinal Anaesthesia: Theory and Practice",
+      "provider": "Australian Society of Anaesthetists",
+      "published_on": "2026-09-23",
+      "learners": 309,
+      "learners_90d": 286,
+      "learners_30d": 274,
+      "certificates": 61,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/spinal-anaesthesia-theory-and-practice-ndgp1s.webp",
+      "rating_responses": 54,
+      "average_rating": 4.66,
+      "ratings": {
+        "satisfaction": 4.67,
+        "objectives": 4.57,
+        "relevance": 4.66,
+        "platform": 4.72
+      },
+      "tags": [
+        "Free",
+        "Popular",
+        "New"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/9b8a68e39285106f94e469b6de8f2783.png"
+    },
+    {
+      "slug": "implementing-reliable-systems-fundamentals-patient-safety",
+      "id": "implementing-reliable-systems-fundamentals-patient-safety",
+      "url": "https://www.surghub.org/course/implementing-reliable-systems-fundamentals-patient-safety",
+      "title": "Strategies for Implementing Reliable Systems - Fundamentals of Patient Safety 2024",
+      "provider": "American Society of Anaesthesiologists",
+      "published_on": "2025-10-06",
+      "learners": 157,
+      "learners_90d": 31,
+      "learners_30d": 10,
+      "certificates": 56,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/implementing-reliable-systems-fundamentals-patient-safety-y3t36i.webp",
+      "rating_responses": 58,
+      "average_rating": 4.72,
+      "ratings": {
+        "satisfaction": 4.74,
+        "objectives": 4.73,
+        "relevance": 4.68,
+        "platform": 4.74
+      },
+      "tags": [
+        "Free",
+        "Top rated",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/0a3325c8b015dca7a6bb7106c18dd97d.png"
+    },
+    {
+      "slug": "surgical-foundations",
+      "id": "surgical-foundations-basic-science",
+      "url": "https://www.surghub.org/course/surgical-foundations",
+      "title": "Surgical Foundations",
+      "provider": "College of Surgeons of East, Central and Southern Africa",
+      "published_on": "2023-06-28",
+      "learners": 8747,
+      "learners_90d": 1316,
+      "learners_30d": 336,
+      "certificates": 96,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/surgical-foundations-1n3qyht.webp",
+      "rating_responses": 189,
+      "average_rating": 4.52,
+      "ratings": {
+        "satisfaction": 4.52,
+        "objectives": 4.52,
+        "relevance": 4.49,
+        "platform": 4.55
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/af321a4e2ae3333343a989a35a5e089c.png"
+    },
+    {
+      "slug": "surgical-instrument-testing-and-inspection",
+      "id": "surgical-instrument-testing-and-inspection",
+      "url": "https://www.surghub.org/course/surgical-instrument-testing-and-inspection",
+      "title": "Surgical Instrument Testing and Inspection",
+      "provider": "Safe Surgery Innovation",
+      "published_on": "2025-06-21",
+      "learners": 1953,
+      "learners_90d": 306,
+      "learners_30d": 101,
+      "certificates": 491,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/surgical-instrument-testing-and-inspection-185rec9.webp",
+      "rating_responses": 719,
+      "average_rating": 4.58,
+      "ratings": {
+        "satisfaction": 4.58,
+        "objectives": 4.57,
+        "relevance": 4.57,
+        "platform": 4.59
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/ce5d53fcae2f17958de53e822276cc92.png"
+    },
+    {
+      "slug": "tecsalud-suture-technique",
+      "id": "tecsalud-suture-technique",
+      "url": "https://www.surghub.org/course/tecsalud-suture-technique",
+      "title": "Suture Technique",
+      "provider": "Tecnológico de Monterrey",
+      "published_on": "2025-01-30",
+      "learners": 3136,
+      "learners_90d": 659,
+      "learners_30d": 167,
+      "certificates": 1053,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/tecnica-suturas-puntos-fevd1j.webp",
+      "rating_responses": 1175,
+      "average_rating": 4.44,
+      "ratings": {
+        "satisfaction": 4.43,
+        "objectives": 4.42,
+        "relevance": 4.37,
+        "platform": 4.55
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/7361700f4e11f3489c1313bb7706396b.png"
+    },
+    {
+      "slug": "btk-suturing-horizontal-mattress",
+      "id": "btk-suturing-horizontal-mattress",
+      "url": "https://www.surghub.org/course/btk-suturing-horizontal-mattress",
+      "title": "Suturing - Horizontal Mattress",
+      "provider": "Behind the Knife",
+      "published_on": "2024-12-07",
+      "learners": 308,
+      "learners_90d": 50,
+      "learners_30d": 9,
+      "certificates": 118,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-suturing-horizontal-mattress-9fy3ye.webp",
+      "rating_responses": 118,
+      "average_rating": 4.68,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.69,
+        "relevance": 4.65,
+        "platform": 4.7
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/b7146d4a5c42a83815dbc0c15298d6c6.png"
+    },
+    {
+      "slug": "btk-suturing-vertical-mattress",
+      "id": "btk-suturing-vertical-mattress",
+      "url": "https://www.surghub.org/course/btk-suturing-vertical-mattress",
+      "title": "Suturing - Vertical Mattress",
+      "provider": "Behind the Knife",
+      "published_on": "2024-11-13",
+      "learners": 449,
+      "learners_90d": 58,
+      "learners_30d": 12,
+      "certificates": 156,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-suturing-vertical-mattress-5wpfoh.webp",
+      "rating_responses": 164,
+      "average_rating": 4.6,
+      "ratings": {
+        "satisfaction": 4.59,
+        "objectives": 4.62,
+        "relevance": 4.59,
+        "platform": 4.59
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/bc11e8c30844430957f541c90b82cbad.png"
+    },
+    {
+      "slug": "tecnica-suturas-puntos",
+      "id": "tecnica-suturas-puntos",
+      "url": "https://www.surghub.org/course/tecnica-suturas-puntos",
+      "title": "Técnica de Suturas y Puntos",
+      "provider": "Tecnológico de Monterrey",
+      "published_on": "2025-02-08",
+      "learners": 805,
+      "learners_90d": 232,
+      "learners_30d": 99,
+      "certificates": 374,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/tecnica-suturas-puntos-fevd1j.webp",
+      "rating_responses": 392,
+      "average_rating": 4.68,
+      "ratings": {
+        "satisfaction": 4.69,
+        "objectives": 4.71,
+        "relevance": 4.63,
+        "platform": 4.67
+      },
+      "tags": [
+        "Free",
+        "Popular",
+        "Trending"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/7361700f4e11f3489c1313bb7706396b.png"
+    },
+    {
+      "slug": "labour-epidural-troubleshooting",
+      "id": "labour-epidural-troubleshooting",
+      "url": "https://www.surghub.org/course/labour-epidural-troubleshooting",
+      "title": "The Labour Epidural: Troubleshooting",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-01-08",
+      "learners": 164,
+      "learners_90d": 15,
+      "learners_30d": 6,
+      "certificates": 41,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/labour-epidural-troubleshooting-9qlwop.webp",
+      "rating_responses": 50,
+      "average_rating": 4.56,
+      "ratings": {
+        "satisfaction": 4.58,
+        "objectives": 4.6,
+        "relevance": 4.51,
+        "platform": 4.56
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/90f250c764d3ba544b35c9803d1c0213.png"
+    },
+    {
+      "slug": "tranexamic-acid",
+      "id": "tranexamic-acid",
+      "url": "https://www.surghub.org/course/tranexamic-acid",
+      "title": "Tranexamic Acid",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-08-12",
+      "learners": 760,
+      "learners_90d": 67,
+      "learners_30d": 22,
+      "certificates": 297,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/tranexamic-acid-7xlzj4.webp",
+      "rating_responses": 322,
+      "average_rating": 4.67,
+      "ratings": {
+        "satisfaction": 4.67,
+        "objectives": 4.69,
+        "relevance": 4.63,
+        "platform": 4.69
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8e160545c97a8b349958639fcb0af931.png"
+    },
+    {
+      "slug": "transversus-abdominis-plane-block",
+      "id": "transversus-abdominis-plane-block",
+      "url": "https://www.surghub.org/course/transversus-abdominis-plane-block",
+      "title": "Transversus Abdominis Plane Block",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2023-09-30",
+      "learners": 155,
+      "learners_90d": 15,
+      "learners_30d": 5,
+      "certificates": 62,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/transversus-abdominis-plane-block-1y2oixk.webp",
+      "rating_responses": 61,
+      "average_rating": 4.74,
+      "ratings": {
+        "satisfaction": 4.77,
+        "objectives": 4.74,
+        "relevance": 4.74,
+        "platform": 4.72
+      },
+      "tags": [
+        "Free",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/8fbaf44bec25f7cfc33a5cfa86cce610.png"
+    },
+    {
+      "slug": "trauma-disaster-team-response-mcgill",
+      "id": "trauma-disaster-team-response-mcgill",
+      "url": "https://www.surghub.org/course/trauma-disaster-team-response-mcgill",
+      "title": "Trauma and Disaster Team Response",
+      "provider": "McGill",
+      "published_on": "2023-06-28",
+      "learners": 3925,
+      "learners_90d": 390,
+      "learners_30d": 117,
+      "certificates": 1577,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/trauma-disaster-team-response-mcgill-z8sjcr.webp",
+      "rating_responses": 1668,
+      "average_rating": 4.6,
+      "ratings": {
+        "satisfaction": 4.6,
+        "objectives": 4.59,
+        "relevance": 4.59,
+        "platform": 4.61
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/4b61e5f6fb344e6225ad122d31db3265.png"
+    },
+    {
+      "slug": "triage-resuscitation",
+      "id": "triage-resuscitation",
+      "url": "https://www.surghub.org/course/triage-resuscitation",
+      "title": "Triage & Resuscitation",
+      "provider": "Global Trauma Collaboration, Baylor College of Medicine",
+      "published_on": "2025-07-30",
+      "learners": 1329,
+      "learners_90d": 284,
+      "learners_30d": 98,
+      "certificates": 398,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/triage-resuscitation-1ph3cae.webp",
+      "rating_responses": 438,
+      "average_rating": 4.64,
+      "ratings": {
+        "satisfaction": 4.65,
+        "objectives": 4.63,
+        "relevance": 4.61,
+        "platform": 4.68
+      },
+      "tags": [
+        "Free",
+        "Popular"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/957099cdf57df4bc7f40162f63b504f0.png"
+    },
+    {
+      "slug": "trocar-placement",
+      "id": "trocar-placement",
+      "url": "https://www.surghub.org/course/trocar-placement",
+      "title": "Trocar Placement",
+      "provider": "ALL SAFE",
+      "published_on": "2025-04-25",
+      "learners": 252,
+      "learners_90d": 75,
+      "learners_30d": 24,
+      "certificates": 68,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/trocar-placement-110p64.webp",
+      "rating_responses": 59,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.64,
+        "objectives": 4.59,
+        "relevance": 4.64,
+        "platform": 4.58
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/3e3d88521d3420af7f319424139f3fd4.png"
+    },
+    {
+      "slug": "ultrasound-guided-femoral-nerve-block",
+      "id": "ultrasound-guided-femoral-nerve-block",
+      "url": "https://www.surghub.org/course/ultrasound-guided-femoral-nerve-block",
+      "title": "Ultrasound Guided Femoral Nerve Block",
+      "provider": "World Federation of Societies of Anesthesiologists",
+      "published_on": "2024-02-01",
+      "learners": 173,
+      "learners_90d": 18,
+      "learners_30d": 3,
+      "certificates": 56,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/ultrasound-guided-femoral-nerve-block-1b9no62.webp",
+      "rating_responses": 58,
+      "average_rating": 4.6,
+      "ratings": {
+        "satisfaction": 4.66,
+        "objectives": 4.58,
+        "relevance": 4.56,
+        "platform": 4.6
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/d455591f8f311205b0692778faf5ef46.png"
+    },
+    {
+      "slug": "arterial-blood-pressure-measurement",
+      "id": "arterial-blood-pressure-measurement",
+      "url": "https://www.surghub.org/course/arterial-blood-pressure-measurement",
+      "title": "Understanding Arterial Blood Pressure Measurement",
+      "provider": "PerioperativeCPD",
+      "published_on": "2024-08-02",
+      "learners": 401,
+      "learners_90d": 64,
+      "learners_30d": 31,
+      "certificates": 99,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/arterial-blood-pressure-measurement-r99r8z.webp",
+      "rating_responses": 107,
+      "average_rating": 4.5,
+      "ratings": {
+        "satisfaction": 4.5,
+        "objectives": 4.5,
+        "relevance": 4.42,
+        "platform": 4.58
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/2f5c91b3bbcd9171097ad2203fbd8fa6.jpeg"
+    },
+    {
+      "slug": "understanding-capnography",
+      "id": "understanding-capnography",
+      "url": "https://www.surghub.org/course/understanding-capnography",
+      "title": "Understanding Capnography",
+      "provider": "PerioperativeCPD",
+      "published_on": "2024-06-28",
+      "learners": 407,
+      "learners_90d": 73,
+      "learners_30d": 33,
+      "certificates": 144,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/understanding-capnography-a19psx.webp",
+      "rating_responses": 161,
+      "average_rating": 4.68,
+      "ratings": {
+        "satisfaction": 4.69,
+        "objectives": 4.68,
+        "relevance": 4.63,
+        "platform": 4.72
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/e695dbf159d855d8c3e5ebe463f5eba6.png"
+    },
+    {
+      "slug": "local-anaesthetic-systemic-toxicity",
+      "id": "local-anaesthetic-systemic-toxicity",
+      "url": "https://www.surghub.org/course/local-anaesthetic-systemic-toxicity",
+      "title": "Understanding Local Anaesthetic Systemic Toxicity (LAST)",
+      "provider": "PerioperativeCPD",
+      "published_on": "2024-07-26",
+      "learners": 605,
+      "learners_90d": 96,
+      "learners_30d": 33,
+      "certificates": 199,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/local-anaesthetic-systemic-toxicity-1cx78vd.webp",
+      "rating_responses": 232,
+      "average_rating": 4.61,
+      "ratings": {
+        "satisfaction": 4.59,
+        "objectives": 4.6,
+        "relevance": 4.61,
+        "platform": 4.63
+      },
+      "tags": [
+        "Free",
+        "CME/CPD"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/36756dcb7841124dd0459042765daa7b.png"
+    },
+    {
+      "slug": "heat-stable-carbetocin-for-prevention-of-pph-at-c-section",
+      "id": "use-of-heat-stable-carbetocin-for-prevention-of-postpartum-haemorrhage-pph-at-caesarean-section-go-1",
+      "url": "https://www.surghub.org/course/heat-stable-carbetocin-for-prevention-of-pph-at-c-section",
+      "title": "Use of Heat-Stable Carbetocin for Prevention of Postpartum Haemorrhage (PPH) at Caesarean Section",
+      "provider": "Global Surgery Foundation",
+      "published_on": "2026-09-22",
+      "learners": 428,
+      "learners_90d": 295,
+      "learners_30d": 114,
+      "certificates": 151,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/heat-stable-carbetocin-for-prevention-of-pph-at-c-section-1d49zw8.webp",
+      "rating_responses": 162,
+      "average_rating": 4.71,
+      "ratings": {
+        "satisfaction": 4.72,
+        "objectives": 4.69,
+        "relevance": 4.72,
+        "platform": 4.69
+      },
+      "tags": [
+        "Free",
+        "Popular",
+        "Top rated",
+        "New"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/ba5c97995e14b2c1afe4243d1bf94cc2.png"
+    },
+    {
+      "slug": "vascular-malformations",
+      "id": "vascular-malformations",
+      "url": "https://www.surghub.org/course/vascular-malformations",
+      "title": "Vascular Malformations",
+      "provider": "ReSurge International",
+      "published_on": "2024-01-22",
+      "learners": 353,
+      "learners_90d": 30,
+      "learners_30d": 11,
+      "certificates": 110,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/vascular-malformations-jggi3x.webp",
+      "rating_responses": 120,
+      "average_rating": 4.57,
+      "ratings": {
+        "satisfaction": 4.53,
+        "objectives": 4.55,
+        "relevance": 4.54,
+        "platform": 4.66
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/46cd54c626a2059850ae59e13d7dc0e7.png"
+    },
+    {
+      "slug": "video-consultations",
+      "id": "video-consultations",
+      "url": "https://www.surghub.org/course/video-consultations",
+      "title": "Video Consultations",
+      "provider": "Royal College of Surgeons in Ireland",
+      "published_on": "2024-07-17",
+      "learners": 223,
+      "learners_90d": 60,
+      "learners_30d": 43,
+      "certificates": 77,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/video-consultations-id1jha.webp",
+      "rating_responses": 73,
+      "average_rating": 4.75,
+      "ratings": {
+        "satisfaction": 4.77,
+        "objectives": 4.73,
+        "relevance": 4.74,
+        "platform": 4.77
+      },
+      "tags": [
+        "Free",
+        "Trending",
+        "Top rated"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/062b1d661841fdac9bc0e64c3325e831.png"
+    },
+    {
+      "slug": "z-plasty",
+      "id": "z-plasty",
+      "url": "https://www.surghub.org/course/z-plasty",
+      "title": "Z-Plasty",
+      "provider": "Amosmile",
+      "published_on": "2024-07-09",
+      "learners": 892,
+      "learners_90d": 84,
+      "learners_30d": 25,
+      "certificates": 270,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/z-plasty-g9t166.webp",
+      "rating_responses": 287,
+      "average_rating": 4.63,
+      "ratings": {
+        "satisfaction": 4.61,
+        "objectives": 4.64,
+        "relevance": 4.64,
+        "platform": 4.64
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/77246fe7b636300736e72da5ede20670.png"
+    },
+    {
+      "slug": "learning-and-teaching-ultrasound-guided-regional-anesthesia-safely-arabic",
+      "id": "mnhg-taalymy-kaym-aal-khtoat-mttaly-lltdryb-otdryb-almdrbyn-fy-altkhdyr-alnahy-almogh-balmogat-fok-alsoty",
+      "url": "https://www.surghub.org/course/learning-and-teaching-ultrasound-guided-regional-anesthesia-safely-arabic",
+      "title": "تعلم وتدريس التخدير الناحي الموجه بالموجات فوق الصوتية بأمان",
+      "provider": "Fédération Francophone des Sociétés d'Anesthésie-Réanimation",
+      "published_on": "2026-04-22",
+      "learners": 146,
+      "learners_90d": 0,
+      "learners_30d": 0,
+      "certificates": 14,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/learning-and-teaching-ultrasound-guided-regional-anesthesia-safely-arabic-ki11b.webp",
+      "rating_responses": 24,
+      "average_rating": 4.47,
+      "ratings": {
+        "satisfaction": 4.38,
+        "objectives": 4.48,
+        "relevance": 4.52,
+        "platform": 4.5
+      },
+      "tags": [
+        "Free"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/43764942571dc4cf135a4b356d77b633.png"
+    }
+  ]
+}
