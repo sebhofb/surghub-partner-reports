@@ -1,8 +1,8 @@
 {
   "as_of": "2026-10-23",
-  "updated_at": "2026-10-23T09:12:48.996Z",
+  "updated_at": "2026-10-23T12:43:25.210Z",
   "source": "SURGhub, via SURGdash (Global Surgery Foundation)",
-  "popular_cutoff_90d": 223,
+  "popular_cutoff_90d": 217,
   "top_rated_cutoff": 4.71,
   "spotlight": "c-arm-intraoperative-imaging-ankle-fractures",
   "lists": {
@@ -87,6 +87,7 @@
       "lavado-manos-asepsia-desinfeccion-esterilizacion",
       "preoperative-assessment",
       "safety-culture-fundamentals-patient-safety",
+      "global-spinal-surgery-traumatic-spinopelvic-dissociation",
       "interprofessional-communication-fundamentals-patient-safety",
       "tranexamic-acid",
       "btk-esophageal-perforation",
@@ -179,7 +180,8 @@
       "pen-programme",
       "acute-appendicitis",
       "tecnica-suturas-puntos",
-      "exploring-perioperative-nursing"
+      "exploring-perioperative-nursing",
+      "anaesthesia-caesarean-delivery"
     ],
     "Trending": [
       "cvad-complications-prevention-management",
@@ -194,8 +196,8 @@
     "Top rated": [
       "facial-paralysis",
       "burn-reconstruction",
-      "labour-epidural-analgesia-to-anaesthesia-caesarean-delivery",
       "video-consultations",
+      "labour-epidural-analgesia-to-anaesthesia-caesarean-delivery",
       "anaesthesia-posterior-cranial-fossa-surgery",
       "gtc-burns",
       "resurge-cleft-lip-palate",
@@ -204,6 +206,7 @@
       "acute-burn-care",
       "exploring-perioperative-nursing",
       "implementing-reliable-systems-fundamentals-patient-safety",
+      "central-venous-access-devices",
       "manejo-basico-quemaduras",
       "nasal-reconstruction",
       "heat-stable-carbetocin-for-prevention-of-pph-at-c-section"
@@ -248,6 +251,7 @@
       "spinal-anaesthesia-theory-and-practice",
       "c-arm-intraoperative-imaging-for-adult-elbow-fractures",
       "heat-stable-carbetocin-for-prevention-of-pph-at-c-section",
+      "global-spinal-surgery-traumatic-spinopelvic-dissociation",
       "managing-a-high-voltage-burn-in-a-low-resource-setting",
       "managing-pediatric-arm-contractures-in-a-low-resource-setting"
     ]
@@ -315,7 +319,7 @@
       "learners_30d": 124,
       "certificates": 380,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/facial-trauma-1t6wnfz.webp",
-      "rating_responses": 461,
+      "rating_responses": 463,
       "average_rating": 4.69,
       "ratings": {
         "satisfaction": 4.72,
@@ -342,7 +346,7 @@
       "learners_30d": 33,
       "certificates": 77,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/tranexamic-acid-7xlzj4.webp",
-      "rating_responses": 88,
+      "rating_responses": 90,
       "average_rating": 4.51,
       "ratings": {
         "satisfaction": 4.58,
@@ -368,7 +372,7 @@
       "learners_30d": 27,
       "certificates": 223,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/acute-burn-care-kh5dub.webp",
-      "rating_responses": 244,
+      "rating_responses": 245,
       "average_rating": 4.73,
       "ratings": {
         "satisfaction": 4.73,
@@ -394,11 +398,11 @@
       "learners_30d": 14,
       "certificates": 120,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/btk-acute-mesenteric-ischemia-1ky1sgz.webp",
-      "rating_responses": 127,
+      "rating_responses": 128,
       "average_rating": 4.64,
       "ratings": {
         "satisfaction": 4.64,
-        "objectives": 4.58,
+        "objectives": 4.59,
         "relevance": 4.64,
         "platform": 4.7
       },
@@ -419,7 +423,7 @@
       "learners_30d": 21,
       "certificates": 200,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/adjuvant-medications-peripheral-nerve-blocks-qzpawp.webp",
-      "rating_responses": 236,
+      "rating_responses": 237,
       "average_rating": 4.62,
       "ratings": {
         "satisfaction": 4.61,
@@ -470,7 +474,7 @@
       "learners_30d": 103,
       "certificates": 565,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/anaesthesia-caesarean-delivery-j4gv81.webp",
-      "rating_responses": 424,
+      "rating_responses": 427,
       "average_rating": 4.58,
       "ratings": {
         "satisfaction": 4.56,
@@ -480,6 +484,7 @@
       },
       "tags": [
         "Free",
+        "Popular",
         "Trending",
         "CME/CPD"
       ],
@@ -497,10 +502,10 @@
       "learners_30d": 19,
       "certificates": 172,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/anestesia-craneotomia-reseccion-tumor-cerebral-1lwcpnq.webp",
-      "rating_responses": 204,
+      "rating_responses": 206,
       "average_rating": 4.52,
       "ratings": {
-        "satisfaction": 4.51,
+        "satisfaction": 4.52,
         "objectives": 4.52,
         "relevance": 4.5,
         "platform": 4.55
@@ -704,13 +709,13 @@
       "learners_30d": 28,
       "certificates": 186,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/manejo-basico-quemaduras-1vxo3.webp",
-      "rating_responses": 210,
+      "rating_responses": 211,
       "average_rating": 4.58,
       "ratings": {
-        "satisfaction": 4.54,
+        "satisfaction": 4.55,
         "objectives": 4.58,
         "relevance": 4.52,
-        "platform": 4.67
+        "platform": 4.68
       },
       "tags": [
         "Free"
@@ -729,13 +734,13 @@
       "learners_30d": 55,
       "certificates": 198,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/basic-caesarean-section-1idkj2m.webp",
-      "rating_responses": 203,
+      "rating_responses": 204,
       "average_rating": 4.5,
       "ratings": {
         "satisfaction": 4.5,
         "objectives": 4.47,
         "relevance": 4.44,
-        "platform": 4.59
+        "platform": 4.6
       },
       "tags": [
         "Free"
@@ -754,12 +759,12 @@
       "learners_30d": 97,
       "certificates": 715,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/manejo-basico-heridas-vzn3qf.webp",
-      "rating_responses": 749,
+      "rating_responses": 755,
       "average_rating": 4.47,
       "ratings": {
         "satisfaction": 4.43,
-        "objectives": 4.45,
-        "relevance": 4.42,
+        "objectives": 4.44,
+        "relevance": 4.41,
         "platform": 4.58
       },
       "tags": [
@@ -931,13 +936,13 @@
       "learners_30d": 55,
       "certificates": 164,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/burn-sepsis-2mj4oe.webp",
-      "rating_responses": 176,
-      "average_rating": 4.53,
+      "rating_responses": 177,
+      "average_rating": 4.54,
       "ratings": {
         "satisfaction": 4.57,
         "objectives": 4.5,
-        "relevance": 4.48,
-        "platform": 4.57
+        "relevance": 4.49,
+        "platform": 4.58
       },
       "tags": [
         "Free",
@@ -1008,13 +1013,13 @@
       "learners_30d": 29,
       "certificates": 16,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/c-arm-intraoperative-imaging-for-adult-elbow-fractures-a0vyb1.webp",
-      "rating_responses": 20,
-      "average_rating": 4.75,
+      "rating_responses": 24,
+      "average_rating": 4.56,
       "ratings": {
-        "satisfaction": 4.7,
-        "objectives": 4.75,
-        "relevance": 4.74,
-        "platform": 4.79
+        "satisfaction": 4.5,
+        "objectives": 4.54,
+        "relevance": 4.52,
+        "platform": 4.7
       },
       "tags": [
         "Free",
@@ -1085,16 +1090,17 @@
       "learners_30d": 33,
       "certificates": 114,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/central-venous-access-devices-v5jte6.webp",
-      "rating_responses": 117,
-      "average_rating": 4.7,
+      "rating_responses": 124,
+      "average_rating": 4.71,
       "ratings": {
-        "satisfaction": 4.71,
+        "satisfaction": 4.73,
         "objectives": 4.74,
-        "relevance": 4.63,
-        "platform": 4.72
+        "relevance": 4.65,
+        "platform": 4.73
       },
       "tags": [
-        "Free"
+        "Free",
+        "Top rated"
       ],
       "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/744e4160b9988bcc46819c1de8481db6.png"
     },
@@ -1110,13 +1116,13 @@
       "learners_30d": 29,
       "certificates": 359,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/certificate-community-engagement-involvement-surgical-research-121dxur.webp",
-      "rating_responses": 377,
-      "average_rating": 4.55,
+      "rating_responses": 379,
+      "average_rating": 4.56,
       "ratings": {
         "satisfaction": 4.59,
-        "objectives": 4.56,
+        "objectives": 4.57,
         "relevance": 4.5,
-        "platform": 4.56
+        "platform": 4.57
       },
       "tags": [
         "Free"
@@ -1261,12 +1267,12 @@
       "learners_30d": 20,
       "certificates": 90,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/communicating-effectively-fundamentals-patient-safety-88hvvj.webp",
-      "rating_responses": 93,
+      "rating_responses": 94,
       "average_rating": 4.54,
       "ratings": {
         "satisfaction": 4.54,
         "objectives": 4.54,
-        "relevance": 4.5,
+        "relevance": 4.51,
         "platform": 4.57
       },
       "tags": [
@@ -1312,10 +1318,10 @@
       "learners_30d": 19,
       "certificates": 89,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/complex-lower-extremity-trauma-acetabular-fractures-1eu5k5f.webp",
-      "rating_responses": 115,
-      "average_rating": 4.58,
+      "rating_responses": 116,
+      "average_rating": 4.59,
       "ratings": {
-        "satisfaction": 4.51,
+        "satisfaction": 4.52,
         "objectives": 4.55,
         "relevance": 4.56,
         "platform": 4.72
@@ -1467,13 +1473,13 @@
       "learners_30d": 44,
       "certificates": 199,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/cvad-complications-prevention-management-xleup.webp",
-      "rating_responses": 200,
-      "average_rating": 4.61,
+      "rating_responses": 206,
+      "average_rating": 4.59,
       "ratings": {
-        "satisfaction": 4.66,
-        "objectives": 4.63,
-        "relevance": 4.54,
-        "platform": 4.6
+        "satisfaction": 4.63,
+        "objectives": 4.6,
+        "relevance": 4.52,
+        "platform": 4.59
       },
       "tags": [
         "Free",
@@ -1493,11 +1499,11 @@
       "learners_30d": 32,
       "certificates": 320,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/difficult-airway-algorithm-2023-1vg0b36.webp",
-      "rating_responses": 341,
+      "rating_responses": 344,
       "average_rating": 4.41,
       "ratings": {
-        "satisfaction": 4.41,
-        "objectives": 4.37,
+        "satisfaction": 4.42,
+        "objectives": 4.38,
         "relevance": 4.44,
         "platform": 4.4
       },
@@ -1519,11 +1525,11 @@
       "learners_30d": 25,
       "certificates": 148,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/difficult-caesarean-section-ekg6mz.webp",
-      "rating_responses": 172,
+      "rating_responses": 173,
       "average_rating": 4.57,
       "ratings": {
-        "satisfaction": 4.56,
-        "objectives": 4.59,
+        "satisfaction": 4.57,
+        "objectives": 4.6,
         "relevance": 4.53,
         "platform": 4.6
       },
@@ -1773,7 +1779,7 @@
       "learners_30d": 204,
       "certificates": 5471,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/soins-fondamentaux-brulologie-181xl7z.webp",
-      "rating_responses": 5737,
+      "rating_responses": 5739,
       "average_rating": 4.65,
       "ratings": {
         "satisfaction": 4.65,
@@ -1799,7 +1805,7 @@
       "learners_30d": 406,
       "certificates": 1896,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/essential-emergency-and-critical-care-h1sv88.webp",
-      "rating_responses": 1834,
+      "rating_responses": 1841,
       "average_rating": 4.68,
       "ratings": {
         "satisfaction": 4.7,
@@ -1825,7 +1831,7 @@
       "learners_30d": 72,
       "certificates": 241,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/exploring-perioperative-nursing-1814pzk.webp",
-      "rating_responses": 319,
+      "rating_responses": 320,
       "average_rating": 4.72,
       "ratings": {
         "satisfaction": 4.76,
@@ -1969,6 +1975,32 @@
       "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/31f9dcf7b9a4c1d886b72b0185eb252f.png"
     },
     {
+      "slug": "global-spinal-surgery-traumatic-spinopelvic-dissociation",
+      "id": "global-spinal-surgery-traumatic-spinopelvic-dissociation",
+      "url": "https://www.surghub.org/course/global-spinal-surgery-traumatic-spinopelvic-dissociation",
+      "title": "Global Spinal Surgery - Traumatic Spinopelvic Dissociation",
+      "provider": "Harvard Global Orthopaedics Collaborative",
+      "published_on": "2026-08-16",
+      "learners": 77,
+      "learners_90d": 67,
+      "learners_30d": 12,
+      "certificates": 27,
+      "image": "https://reports.globalsurgeryfoundation.org/thumbs/global-spinal-surgery-traumatic-spinopelvic-dissociation-1d72c3y.webp",
+      "rating_responses": 35,
+      "average_rating": 4.23,
+      "ratings": {
+        "satisfaction": 4.29,
+        "objectives": 4.18,
+        "relevance": 4.21,
+        "platform": 4.26
+      },
+      "tags": [
+        "Free",
+        "New"
+      ],
+      "image_full": "https://lwfiles.mycourse.app/globalsurgery-public/dd90db58c8610c7b69b4a4a608606c29.png"
+    },
+    {
       "slug": "hand-trauma-reconstruction",
       "id": "hand-trauma-reconstruction",
       "url": "https://www.surghub.org/course/hand-trauma-reconstruction",
@@ -2006,13 +2038,13 @@
       "learners_30d": 34,
       "certificates": 358,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/lavado-manos-asepsia-desinfeccion-esterilizacion-1h6mv8i.webp",
-      "rating_responses": 364,
-      "average_rating": 4.62,
+      "rating_responses": 365,
+      "average_rating": 4.63,
       "ratings": {
         "satisfaction": 4.6,
-        "objectives": 4.62,
+        "objectives": 4.63,
         "relevance": 4.6,
-        "platform": 4.67
+        "platform": 4.68
       },
       "tags": [
         "Free"
@@ -2081,11 +2113,11 @@
       "learners_30d": 203,
       "certificates": 1096,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/infection-control-prevention-2023-i3cfla.webp",
-      "rating_responses": 966,
+      "rating_responses": 976,
       "average_rating": 4.65,
       "ratings": {
         "satisfaction": 4.65,
-        "objectives": 4.64,
+        "objectives": 4.63,
         "relevance": 4.64,
         "platform": 4.66
       },
@@ -2159,13 +2191,13 @@
       "learners_30d": 37,
       "certificates": 110,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/trauma-disaster-team-response-mcgill-z8sjcr.webp",
-      "rating_responses": 122,
-      "average_rating": 4.49,
+      "rating_responses": 126,
+      "average_rating": 4.5,
       "ratings": {
-        "satisfaction": 4.61,
-        "objectives": 4.43,
-        "relevance": 4.55,
-        "platform": 4.36
+        "satisfaction": 4.62,
+        "objectives": 4.44,
+        "relevance": 4.56,
+        "platform": 4.37
       },
       "tags": [
         "Free"
@@ -2184,7 +2216,7 @@
       "learners_30d": 26,
       "certificates": 347,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/introduction-intraoperative-imaging-1hl7bjy.webp",
-      "rating_responses": 396,
+      "rating_responses": 397,
       "average_rating": 4.66,
       "ratings": {
         "satisfaction": 4.66,
@@ -2234,13 +2266,13 @@
       "learners_30d": 5,
       "certificates": 79,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/perioperative-management-spinal-cord-injuries-845z4l.webp",
-      "rating_responses": 81,
-      "average_rating": 4.61,
+      "rating_responses": 82,
+      "average_rating": 4.6,
       "ratings": {
-        "satisfaction": 4.57,
-        "objectives": 4.62,
-        "relevance": 4.6,
-        "platform": 4.63
+        "satisfaction": 4.56,
+        "objectives": 4.61,
+        "relevance": 4.59,
+        "platform": 4.62
       },
       "tags": [
         "Free",
@@ -2310,11 +2342,11 @@
       "learners_30d": 30,
       "certificates": 156,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/lavado-manos-asepsia-desinfeccion-esterilizacion-1h6mv8i.webp",
-      "rating_responses": 166,
+      "rating_responses": 167,
       "average_rating": 4.64,
       "ratings": {
         "satisfaction": 4.7,
-        "objectives": 4.68,
+        "objectives": 4.69,
         "relevance": 4.64,
         "platform": 4.54
       },
@@ -2335,13 +2367,13 @@
       "learners_30d": 84,
       "certificates": 202,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/learning-and-teaching-ultrasound-guided-regional-anesthesia-safely-arabic-ki11b.webp",
-      "rating_responses": 260,
-      "average_rating": 4.51,
+      "rating_responses": 261,
+      "average_rating": 4.5,
       "ratings": {
-        "satisfaction": 4.52,
-        "objectives": 4.48,
+        "satisfaction": 4.51,
+        "objectives": 4.47,
         "relevance": 4.49,
-        "platform": 4.54
+        "platform": 4.53
       },
       "tags": [
         "Free",
@@ -2482,11 +2514,11 @@
       "learners_30d": 73,
       "certificates": 310,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/manejo-basico-heridas-vzn3qf.webp",
-      "rating_responses": 313,
-      "average_rating": 4.65,
+      "rating_responses": 316,
+      "average_rating": 4.66,
       "ratings": {
         "satisfaction": 4.69,
-        "objectives": 4.69,
+        "objectives": 4.7,
         "relevance": 4.61,
         "platform": 4.62
       },
@@ -2508,7 +2540,7 @@
       "learners_30d": 31,
       "certificates": 274,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/manejo-basico-quemaduras-1vxo3.webp",
-      "rating_responses": 279,
+      "rating_responses": 280,
       "average_rating": 4.71,
       "ratings": {
         "satisfaction": 4.74,
@@ -2534,7 +2566,7 @@
       "learners_30d": 21,
       "certificates": 318,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/medication-error-prevention-fundamentals-patient-safety-eh1ty5.webp",
-      "rating_responses": 327,
+      "rating_responses": 328,
       "average_rating": 4.59,
       "ratings": {
         "satisfaction": 4.6,
@@ -2687,13 +2719,13 @@
       "learners_30d": 26,
       "certificates": 300,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/obstetric-trauma-16dvhrz.webp",
-      "rating_responses": 317,
+      "rating_responses": 320,
       "average_rating": 4.64,
       "ratings": {
         "satisfaction": 4.66,
         "objectives": 4.61,
         "relevance": 4.61,
-        "platform": 4.66
+        "platform": 4.67
       },
       "tags": [
         "Free"
@@ -2813,11 +2845,11 @@
       "learners_30d": 46,
       "certificates": 567,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/patient-centred-care-sxpwox.webp",
-      "rating_responses": 623,
+      "rating_responses": 625,
       "average_rating": 4.43,
       "ratings": {
         "satisfaction": 4.45,
-        "objectives": 4.43,
+        "objectives": 4.42,
         "relevance": 4.38,
         "platform": 4.47
       },
@@ -2839,11 +2871,11 @@
       "learners_30d": 18,
       "certificates": 79,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/penetrating-thoracoabdominal-trauma-mvsemg.webp",
-      "rating_responses": 74,
-      "average_rating": 4.54,
+      "rating_responses": 75,
+      "average_rating": 4.55,
       "ratings": {
-        "satisfaction": 4.58,
-        "objectives": 4.49,
+        "satisfaction": 4.59,
+        "objectives": 4.5,
         "relevance": 4.49,
         "platform": 4.61
       },
@@ -2942,13 +2974,13 @@
       "learners_30d": 149,
       "certificates": 1798,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/ppe-1sgyu75.webp",
-      "rating_responses": 1911,
-      "average_rating": 4.58,
+      "rating_responses": 1924,
+      "average_rating": 4.57,
       "ratings": {
-        "satisfaction": 4.6,
+        "satisfaction": 4.59,
         "objectives": 4.6,
-        "relevance": 4.56,
-        "platform": 4.57
+        "relevance": 4.55,
+        "platform": 4.56
       },
       "tags": [
         "Free",
@@ -2968,12 +3000,12 @@
       "learners_30d": 28,
       "certificates": 151,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/postoperative-assessment-and-monitoring-1wm2gb6.webp",
-      "rating_responses": 186,
-      "average_rating": 4.56,
+      "rating_responses": 187,
+      "average_rating": 4.55,
       "ratings": {
-        "satisfaction": 4.58,
-        "objectives": 4.57,
-        "relevance": 4.57,
+        "satisfaction": 4.57,
+        "objectives": 4.56,
+        "relevance": 4.56,
         "platform": 4.51
       },
       "tags": [
@@ -2993,12 +3025,12 @@
       "learners_30d": 8,
       "certificates": 68,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/access-epidural-space-v911sv.webp",
-      "rating_responses": 66,
-      "average_rating": 4.49,
+      "rating_responses": 67,
+      "average_rating": 4.5,
       "ratings": {
-        "satisfaction": 4.47,
-        "objectives": 4.5,
-        "relevance": 4.49,
+        "satisfaction": 4.48,
+        "objectives": 4.49,
+        "relevance": 4.5,
         "platform": 4.52
       },
       "tags": [
@@ -3170,7 +3202,7 @@
       "learners_30d": 36,
       "certificates": 341,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/rapid-sequence-induction-wy460s.webp",
-      "rating_responses": 378,
+      "rating_responses": 379,
       "average_rating": 4.63,
       "ratings": {
         "satisfaction": 4.64,
@@ -3220,7 +3252,7 @@
       "learners_30d": 426,
       "certificates": 1719,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/canecsa-research-methodology-course-1ivtl5a.webp",
-      "rating_responses": 1690,
+      "rating_responses": 1701,
       "average_rating": 4.58,
       "ratings": {
         "satisfaction": 4.59,
@@ -3296,11 +3328,11 @@
       "learners_30d": 17,
       "certificates": 187,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/implementing-reliable-systems-fundamentals-patient-safety-y3t36i.webp",
-      "rating_responses": 187,
+      "rating_responses": 188,
       "average_rating": 4.65,
       "ratings": {
         "satisfaction": 4.66,
-        "objectives": 4.67,
+        "objectives": 4.66,
         "relevance": 4.64,
         "platform": 4.64
       },
@@ -3372,7 +3404,7 @@
       "learners_30d": 15,
       "certificates": 139,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/speaking-up-operating-room-10skylh.webp",
-      "rating_responses": 150,
+      "rating_responses": 151,
       "average_rating": 4.51,
       "ratings": {
         "satisfaction": 4.5,
@@ -3398,13 +3430,13 @@
       "learners_30d": 274,
       "certificates": 61,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/spinal-anaesthesia-theory-and-practice-ndgp1s.webp",
-      "rating_responses": 54,
-      "average_rating": 4.66,
+      "rating_responses": 62,
+      "average_rating": 4.62,
       "ratings": {
-        "satisfaction": 4.67,
-        "objectives": 4.57,
-        "relevance": 4.66,
-        "platform": 4.72
+        "satisfaction": 4.65,
+        "objectives": 4.53,
+        "relevance": 4.61,
+        "platform": 4.7
       },
       "tags": [
         "Free",
@@ -3452,10 +3484,10 @@
       "learners_30d": 336,
       "certificates": 96,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/surgical-foundations-1n3qyht.webp",
-      "rating_responses": 189,
+      "rating_responses": 190,
       "average_rating": 4.52,
       "ratings": {
-        "satisfaction": 4.52,
+        "satisfaction": 4.53,
         "objectives": 4.52,
         "relevance": 4.49,
         "platform": 4.55
@@ -3478,7 +3510,7 @@
       "learners_30d": 101,
       "certificates": 491,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/surgical-instrument-testing-and-inspection-185rec9.webp",
-      "rating_responses": 719,
+      "rating_responses": 721,
       "average_rating": 4.58,
       "ratings": {
         "satisfaction": 4.58,
@@ -3504,12 +3536,12 @@
       "learners_30d": 167,
       "certificates": 1053,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/tecnica-suturas-puntos-fevd1j.webp",
-      "rating_responses": 1175,
-      "average_rating": 4.44,
+      "rating_responses": 1180,
+      "average_rating": 4.45,
       "ratings": {
         "satisfaction": 4.43,
         "objectives": 4.42,
-        "relevance": 4.37,
+        "relevance": 4.38,
         "platform": 4.55
       },
       "tags": [
@@ -3580,13 +3612,13 @@
       "learners_30d": 99,
       "certificates": 374,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/tecnica-suturas-puntos-fevd1j.webp",
-      "rating_responses": 392,
+      "rating_responses": 398,
       "average_rating": 4.68,
       "ratings": {
-        "satisfaction": 4.69,
-        "objectives": 4.71,
-        "relevance": 4.63,
-        "platform": 4.67
+        "satisfaction": 4.7,
+        "objectives": 4.72,
+        "relevance": 4.64,
+        "platform": 4.68
       },
       "tags": [
         "Free",
@@ -3607,13 +3639,13 @@
       "learners_30d": 6,
       "certificates": 41,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/labour-epidural-troubleshooting-9qlwop.webp",
-      "rating_responses": 50,
-      "average_rating": 4.56,
+      "rating_responses": 52,
+      "average_rating": 4.58,
       "ratings": {
-        "satisfaction": 4.58,
-        "objectives": 4.6,
-        "relevance": 4.51,
-        "platform": 4.56
+        "satisfaction": 4.6,
+        "objectives": 4.62,
+        "relevance": 4.53,
+        "platform": 4.57
       },
       "tags": [
         "Free"
@@ -3684,7 +3716,7 @@
       "learners_30d": 117,
       "certificates": 1577,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/trauma-disaster-team-response-mcgill-z8sjcr.webp",
-      "rating_responses": 1668,
+      "rating_responses": 1669,
       "average_rating": 4.6,
       "ratings": {
         "satisfaction": 4.6,
@@ -3710,11 +3742,11 @@
       "learners_30d": 98,
       "certificates": 398,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/triage-resuscitation-1ph3cae.webp",
-      "rating_responses": 438,
+      "rating_responses": 445,
       "average_rating": 4.64,
       "ratings": {
         "satisfaction": 4.65,
-        "objectives": 4.63,
+        "objectives": 4.64,
         "relevance": 4.61,
         "platform": 4.68
       },
@@ -3786,13 +3818,13 @@
       "learners_30d": 31,
       "certificates": 99,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/arterial-blood-pressure-measurement-r99r8z.webp",
-      "rating_responses": 107,
-      "average_rating": 4.5,
+      "rating_responses": 115,
+      "average_rating": 4.52,
       "ratings": {
-        "satisfaction": 4.5,
+        "satisfaction": 4.53,
         "objectives": 4.5,
-        "relevance": 4.42,
-        "platform": 4.58
+        "relevance": 4.44,
+        "platform": 4.59
       },
       "tags": [
         "Free",
@@ -3838,7 +3870,7 @@
       "learners_30d": 33,
       "certificates": 199,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/local-anaesthetic-systemic-toxicity-1cx78vd.webp",
-      "rating_responses": 232,
+      "rating_responses": 233,
       "average_rating": 4.61,
       "ratings": {
         "satisfaction": 4.59,
@@ -3864,7 +3896,7 @@
       "learners_30d": 114,
       "certificates": 151,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/heat-stable-carbetocin-for-prevention-of-pph-at-c-section-1d49zw8.webp",
-      "rating_responses": 162,
+      "rating_responses": 163,
       "average_rating": 4.71,
       "ratings": {
         "satisfaction": 4.72,
@@ -3917,13 +3949,13 @@
       "learners_30d": 43,
       "certificates": 77,
       "image": "https://reports.globalsurgeryfoundation.org/thumbs/video-consultations-id1jha.webp",
-      "rating_responses": 73,
-      "average_rating": 4.75,
+      "rating_responses": 76,
+      "average_rating": 4.76,
       "ratings": {
-        "satisfaction": 4.77,
-        "objectives": 4.73,
-        "relevance": 4.74,
-        "platform": 4.77
+        "satisfaction": 4.78,
+        "objectives": 4.72,
+        "relevance": 4.75,
+        "platform": 4.78
       },
       "tags": [
         "Free",
