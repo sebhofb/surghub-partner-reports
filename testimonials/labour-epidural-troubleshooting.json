@@ -1,0 +1,45 @@
+{
+ "course": "labour-epidural-troubleshooting",
+ "testimonials": [
+  {
+   "id": "t1eu85x3182p6li",
+   "text": "Everything, it is not very often that you get to train properly on epidural management at the hospital, as anesthesiologists (at least in my country of formation) don't like sharing their knowledge with anyone other than their own residents, so I really appreciate this opportunity for learning! Did learn a lot!!",
+   "cadre": "Resident",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t9rhulc12a6uux",
+   "text": "Simple effective explanation.",
+   "cadre": "Anaesthesiologist",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1m9k09w1fy3cvb",
+   "text": "This program is the best and helping, especially it has helped me a lot.",
+   "cadre": "Nursing Student",
+   "country": "South Sudan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1r1jz5ll3xki",
+   "text": "Thinking on the different options on why epidurals fail, considering migration as an important factor. The clinical cases were fantastic.",
+   "cadre": "Anaesthesiologist",
+   "country": "Mexico",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1jl5zac19do76b",
+   "text": "The cases were extremely insightful.",
+   "cadre": "Anaesthesiologist",
+   "country": "Barbados",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

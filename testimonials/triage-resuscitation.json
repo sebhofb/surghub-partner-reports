@@ -1,0 +1,52 @@
+{
+ "course": "triage-resuscitation",
+ "testimonials": [
+  {
+   "id": "t1xs5ekue1z14t",
+   "text": "The strict logic of the START algorithm is fascinating because it forces a complete shift in standard clinical thinking.",
+   "cadre": "Nurse",
+   "country": "Ecuador",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1pq33dx5joiak",
+   "text": "I found the practical differences between adult and pediatric trauma care most interesting, especially how children can deteriorate quickly because of their smaller blood volume, faster heat loss, and different airway anatomy. I also found the airway section useful, such as using bag-mask ventilation carefully, placing an NG tube if the stomach becomes distended, confirming intubation with end-tidal CO₂, and being careful with the fragile palate.",
+   "country": "Singapore",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tbcro5z1s76gbe",
+   "text": "I found the practical and clinically relevant aspects of the course most interesting, particularly the focus on patient assessment, recognizing deterioration, prioritizing care, and making safe clinical decisions. The examples were especially useful in improving my confidence and applying the knowledge to clinical practice.",
+   "cadre": "Nurse",
+   "country": "New Zealand",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tmz6f02o4so63",
+   "text": "The most interesting part of the triage course was learning how to prioritise patients based on the severity of their condition and applying triage principles through practical scenarios. It helped me better understand rapid assessment and decision-making in emergency situations.",
+   "cadre": "Nurse",
+   "country": "Australia",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "ts3dckc1m4htvp",
+   "text": "Excellent refresher on emergency triage and primary trauma assessment protocols. The rationales provided for incorrect options were particularly helpful for reinforcing clinical reasoning.",
+   "cadre": "Physician",
+   "country": "Peru",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1t0u6wklin53",
+   "text": "I found the practical approach to trauma assessment and management most interesting, especially the clear prioritization during triage and the step-by-step handling of critical situations like airway compromise and shock.",
+   "cadre": "Nurse",
+   "country": "Tanzania",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

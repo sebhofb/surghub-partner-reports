@@ -1,0 +1,29 @@
+{
+ "course": "access-epidural-space",
+ "testimonials": [
+  {
+   "id": "t6g11o91t65t76",
+   "text": "Very helpful and informative course tutorial, really appreciate going through and answering the quiz questions.",
+   "cadre": "Nurse Anaesthetist",
+   "country": "Papua New Guinea",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t18rvbyq13o5rjx",
+   "text": "Please keep on. Very informative course.",
+   "cadre": "Specialist Surgeon",
+   "country": "Kenya",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "trycvsp1lszh0y",
+   "text": "Epidural anesthesia is now on my finger tip, its technique and everything.",
+   "cadre": "Anaesthesiologist",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

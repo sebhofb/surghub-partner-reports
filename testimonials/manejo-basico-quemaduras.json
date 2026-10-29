@@ -1,0 +1,29 @@
+{
+ "course": "manejo-basico-quemaduras",
+ "testimonials": [
+  {
+   "id": "t1acsz4vvljdxw",
+   "text": "Considero que los mejores aspectos del curso fueron que la información fue clara, práctica y fácil de comprender. Me gustó especialmente que se abordaran situaciones que pueden presentarse en la práctica clínica, como el manejo inicial de las quemaduras térmicas, químicas y eléctricas. También considero útiles los ejemplos y las evaluaciones, porque ayudan a reforzar lo aprendido.",
+   "cadre": "Anestesiólogo(a)",
+   "country": "El Salvador",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "t13wblv81wivm9d",
+   "text": "La explicación de tipos de quemaduras estaba muy buena.",
+   "cadre": "Médico(a)",
+   "country": "El Salvador",
+   "stars": 4,
+   "lang": "es"
+  },
+  {
+   "id": "to7921pa3qc1w",
+   "text": "Me encantan los videos y los ejercicios.",
+   "cadre": "Médico(a)",
+   "country": "Argentina",
+   "stars": 5,
+   "lang": "es"
+  }
+ ]
+}

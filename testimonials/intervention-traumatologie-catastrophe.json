@@ -1,0 +1,35 @@
+{
+ "course": "intervention-traumatologie-catastrophe",
+ "testimonials": [
+  {
+   "id": "t1tfdz7juwu0jc",
+   "text": "J'ai particulièrement apprécié la clarté des vidéos explicatives et les exemples qui illustrent bien les concepts théoriques.",
+   "cadre": "Infirmier(ère)",
+   "country": "Sénégal",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "t16m3xd6170ecdf",
+   "text": "En tant que infirmier au SAU le triage, les traumatismes, l’état de choc m’ont beaucoup intéressé.",
+   "country": "Sénégal",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "tvnl5sqr4om5",
+   "text": "Cette nouvelle approche est d'une grande importance dans la mesure où elle met l'accent sur le travail en équipe et en solidarité au profit du patient.",
+   "cadre": "Infirmier(ère)",
+   "country": "Sénégal",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "t42gon11d00f3e",
+   "text": "La partie que j'ai trouvé la plus intéressante c'est celle qui intéresse le management d'une équipe en traumatologie.",
+   "country": "Sénégal",
+   "stars": 5,
+   "lang": "fr"
+  }
+ ]
+}

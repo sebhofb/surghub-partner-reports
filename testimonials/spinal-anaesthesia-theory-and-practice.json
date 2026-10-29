@@ -1,0 +1,53 @@
+{
+ "course": "spinal-anaesthesia-theory-and-practice",
+ "testimonials": [
+  {
+   "id": "tx14psbecyuos",
+   "text": "I found the procedure of spinal anaesthesia, its indications, contraindications, technique, and potential complications most interesting. The course helped me better understand its clinical applications and importance in patient safety.",
+   "cadre": "Anaesthesiologist",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tbygj0bo0qsja",
+   "text": "The most interesting aspect of this course was learning about the practical application of spinal anaesthesia in different clinical scenarios. I particularly enjoyed learning about patient positioning, assessment of block height, drug selection and dosing, and the recognition and management of complications such as hypotension, high spinal block, and post-dural puncture headache.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tj8h6031m8qmrg",
+   "text": "The detailed aspect of the anatomy, physiology and pharmacology with respect to spinal anaesthesia made it very lively and approachable.",
+   "cadre": "General Medical Officer",
+   "country": "Uganda",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1heyg0u1n2p1sh",
+   "text": "I found the practical approach to spinal anaesthesia, patient safety, and the management of complications most interesting and informative.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1gbjbnb1pow2em",
+   "text": "The most interesting aspect of this course was learning about the practical management of spinal anaesthesia, including patient assessment, prevention and treatment of complications, and the importance of effective monitoring during the perioperative period. The case-based scenarios were particularly valuable because they helped connect theoretical knowledge with real clinical situations.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "ty2po9v14n8k3g",
+   "text": "I found assessing block height, understanding baricity and positioning, and managing complications such as hypotension and bradycardia most interesting.",
+   "cadre": "Anaesthesiologist",
+   "country": "Zambia",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "course": "aseptic-technique",
+ "testimonials": [
+  {
+   "id": "t1onnff1f14736",
+   "text": "I found learning about the chain of infection and how diseases spread most interesting. It helped me understand how to stay safe and prevent infections in real life.",
+   "cadre": "Nurse",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1j3nmha6qmyd7",
+   "text": "I found the step-by-step explanation of the aseptic technique very interesting, especially the demonstrations of how to maintain sterility during different clinical procedures. The use of real-life scenarios helped me understand the importance of each step and how it helps prevent infections in clinical settings.",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t120q1fnpertke",
+   "text": "I found the principles of protecting key parts and key sites, preventing contamination, and responding correctly to a breach in the aseptic field particularly interesting.",
+   "cadre": "Non-Clinical Professional",
+   "country": "Netherlands",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t12cbai1ehlmj1",
+   "text": "The course was clear, practical, and easy to follow. I appreciated the focus on patient safety and the reminders about protecting key parts during procedures. Adding more hands-on examples or short demonstration videos in the future could make the learning experience even more valuable.",
+   "cadre": "Nurse",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1wuiife9ftb5z",
+   "text": "The practical aspects of aseptic technique, infection prevention, wound dressing, and identifying key parts and key sites. The course helped me understand how to prevent infection and maintain patient safety during clinical procedures.",
+   "cadre": "Anaesthesia Technician",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1vmdssb17hrv52",
+   "text": "I found the learning the difference between key sites and key parts the most interesting.",
+   "cadre": "Nurse",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

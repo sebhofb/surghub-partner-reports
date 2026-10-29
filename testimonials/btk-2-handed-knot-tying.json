@@ -1,0 +1,29 @@
+{
+ "course": "btk-2-handed-knot-tying",
+ "testimonials": [
+  {
+   "id": "t8hnaj917g9ae8",
+   "text": "The video tutorial was in great detail without any rush.",
+   "cadre": "Medical Student",
+   "country": "Nepal",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t9gw3ivhjzbwi",
+   "text": "It's good to re-watch and do it again so simple errors in residency will not occur.",
+   "cadre": "General Medical Officer",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1sstya31av3pww",
+   "text": "The demonstration and description was simple and easy to understand.",
+   "cadre": "Medical Student",
+   "country": "Kenya",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

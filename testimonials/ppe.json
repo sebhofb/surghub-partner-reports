@@ -1,0 +1,52 @@
+{
+ "course": "ppe",
+ "testimonials": [
+  {
+   "id": "tlu4doqsu8yz1",
+   "text": "I found the infection control and PPE sections most interesting, especially learning the correct order for donning and doffing PPE and understanding how different types of protection work in real clinical settings. The content about N95 respirators, hand hygiene, and COVID-19 transmission was especially engaging because it directly relates to patient safety and real-world healthcare practice.",
+   "cadre": "Clinical Officer",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t19fvzw4g7ampt",
+   "text": "I found the infection prevention and control section most interesting, especially learning about different transmission routes (contact, droplet, airborne) and the correct use of PPE. It helped me understand how to protect both myself and clients in real-life situations.",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "thfm0mh1tfake2",
+   "text": "I found the practical aspects of PPE use, infection prevention, and workplace safety most interesting. The course helped me understand how proper PPE selection and use protect both healthcare workers and patients, especially during anesthesia and surgical procedures.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1fjxb9iab14lt",
+   "text": "I particularly enjoyed learning about the different types of PPE, when each should be used, and the correct way to put on and remove PPE safely. The practical aspects of infection prevention were especially useful because they can be directly applied in my daily nursing practice.",
+   "cadre": "Nurse",
+   "country": "Fiji",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t757zdif14w43",
+   "text": "I found learning about infection prevention, proper PPE use, and the different routes of disease transmission most interesting. The practical guidance on hand hygiene, donning and doffing PPE, and safely reusing protective equipment was especially useful.",
+   "cadre": "Non-Clinical Professional",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1eju1gwokn4dx",
+   "text": "The material was presented in writing and in videos, which enhances consolidation, and unlike other modules where the learner is referred to YouTube for materials, in this module the videos are just a click. Thanks for the thoughtful preparation, thank you for contributing to saving lives in a safe way, Mwebalenyo (thank you).",
+   "cadre": "General Medical Officer",
+   "country": "Uganda",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

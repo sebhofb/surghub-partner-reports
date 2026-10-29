@@ -1,0 +1,52 @@
+{
+ "course": "self-learn-pulse-ox",
+ "testimonials": [
+  {
+   "id": "tz2sy8ud8qfsf",
+   "text": "Learning in depth exactly what the pulse oximeter does, its vital importance in diagnosis, and interpreting readings / measurements. This was excellent!",
+   "cadre": "Sales Representative",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t16j5q8a1b5gihz",
+   "text": "Thank you for this useful and well-structured course. The content was clinically relevant, clear, and applicable to daily anesthesia and perioperative monitoring practice. I appreciated the focus on patient safety, interpretation of pulse oximetry data, and recognition of situations where SpO2 readings may be unreliable.",
+   "cadre": "Anaesthesiologist",
+   "country": "Russia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t7qvv5fadmmsa",
+   "text": "I knew little to nothing about oxygen saturation and pressure exerted by oxygen before this course. I learned so much about pulse oximetry and I feel like I have a deeper understanding of hypoxia and how to use pulse oximetry to detect it.",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1afpb31dh5vc8",
+   "text": "The pulse oximetry course was in-depth and covered most scenarios that happen in a theatre environment.",
+   "cadre": "Nurse Anaesthetist",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t17oaggi1xig5in",
+   "text": "The detailed checklist of what could be the reason for a patient to desaturate in the OT was very helpful.",
+   "cadre": "Anaesthesiologist",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tivqv7t11qg3us",
+   "text": "I found the practical interpretation of SpO2 readings, the factors that can affect pulse oximetry accuracy, and its importance in early recognition of hypoxia and patient deterioration particularly interesting.",
+   "cadre": "Non-Clinical Professional",
+   "country": "Portugal",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

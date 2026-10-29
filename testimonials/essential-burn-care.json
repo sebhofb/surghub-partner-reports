@@ -1,0 +1,53 @@
+{
+ "course": "essential-burn-care",
+ "testimonials": [
+  {
+   "id": "tmohyjwjxyd5p",
+   "text": "The most interesting part of this course for me was learning how burn patients are assessed and managed from the first assessment until recovery. I found the topics about burn depth, total body surface area, fluid resuscitation, escharotomy, wound care, and early surgery especially interesting. I also learned that burn care is not only about treating the wound, but also about pain management, nutrition, positioning, infection prevention, and rehabilitation.",
+   "cadre": "Nurse",
+   "country": "Iraq",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tkntl5r524upk",
+   "text": "I found the assessment and management of burn injuries most interesting, especially the Rule of Palm, fluid resuscitation, escharotomy, wound dressing, and rehabilitation. I particularly found it useful to learn how early assessment and appropriate treatment can prevent complications and improve recovery.",
+   "cadre": "Nurse",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1wkeb2h4cykfy",
+   "text": "I found the practical approach to burn assessment and the emphasis on multidisciplinary care most interesting. The focus on resource-limited settings was also valuable, as it highlighted that good burn care is possible even with limited resources.",
+   "cadre": "Anaesthesiologist",
+   "country": "China",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t2k8koe14lbo5d",
+   "text": "I found the practical aspects of burn management, including fluid resuscitation, TBSA assessment, the Rule of Palm, and indications for escharotomy, most interesting and useful.",
+   "cadre": "Nurse",
+   "country": "Bangladesh",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tazg1c6yuxbmt",
+   "text": "I have not considered the fact that there may be instances of late presentations of burn patients, especially in low income areas.",
+   "cadre": "Nurse",
+   "country": "Philippines",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t115nrpn1abwfyu",
+   "text": "I particularly found the assessment of burn depth and total body surface area (TBSA), appropriate first aid, wound management, and indications for referral very useful. I also found the emphasis on cooling burns with cool running water for 20 minutes and avoiding harmful traditional practices particularly relevant to clinical practice.",
+   "cadre": "General Medical Officer",
+   "country": "Tanzania",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

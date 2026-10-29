@@ -1,0 +1,44 @@
+{
+ "course": "burn-reconstruction",
+ "testimonials": [
+  {
+   "id": "t1wua1c31blq596",
+   "text": "Thank you for providing such a well-structured and impactful course. It highlights critical challenges like delayed burn care and multi-organ complications that we face in conflict zones.",
+   "cadre": "Specialist Surgeon",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "toed4szjsng86",
+   "text": "Excellent course, it presents the patient with didactic clinical cases.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1bek3293n16i2",
+   "text": "Excellent course. Thanks for providing practical content on burns.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t10p0k3j12acwd0",
+   "text": "The most interesting aspect of the course was learning how burn injuries are managed beyond the acute phase, particularly the principles of scar management and reconstructive surgery. I found the decision-making around contracture release, skin grafting, flap selection, splinting, and reconstruction of difficult areas such as the eyelids, neck, and scalp especially valuable.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1a7h01eezv137",
+   "text": "Excellent course with clear principles and high clinical relevance. Very valuable for building a solid foundation in burn reconstruction.",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

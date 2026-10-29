@@ -1,0 +1,28 @@
+{
+ "course": "pulseoxcovidselflearning",
+ "testimonials": [
+  {
+   "id": "t14lowemsgbhdj",
+   "text": "It is practical and addresses what is found in the actual clinical areas.",
+   "cadre": "Nurse",
+   "country": "Zambia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tlaogmphk5gq8",
+   "text": "The diagrams were captivating and clear to understand.",
+   "cadre": "Anaesthesiologist",
+   "country": "Papua New Guinea",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t11913vuqwjxpt",
+   "text": "Learning has never been this fun. The inclusion of videos makes it more fun and helpful.",
+   "country": "Zambia",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

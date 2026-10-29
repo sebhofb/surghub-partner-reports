@@ -1,0 +1,27 @@
+{
+ "course": "regional-anaesthesia-children",
+ "testimonials": [
+  {
+   "id": "t14clkau5m69en",
+   "text": "The summaries on the differences in anatomy and pharmacokinetics were very useful to understand how to select and perform safe regional techniques.",
+   "cadre": "Anaesthesiologist",
+   "country": "South Africa",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "ttbhlzyzzdnbz",
+   "text": "The practical examples and clear explanation. The content was very useful and easy to understand.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t19d8le21mbx5ch",
+   "text": "I found the deep dive into the physiological and anatomical differences between pediatric and adult regional anesthesia highly interesting, particularly the specific rules regarding local anesthetic toxicity limits and the rationale behind using general anesthesia for pediatric blocks.",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "course": "error-analysis-prevention-fundamentals-patient-safety",
+ "testimonials": [
+  {
+   "id": "t1j0uyctsd09zo",
+   "text": "Failure Mode and Effects Analysis (FMEA), Risk Priority Number (RPN) and Root Cause Analysis (RCA) are interesting to learn.",
+   "cadre": "Non-Clinical Professional",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tfp4dfs1331v3",
+   "text": "I found the sections on RCA and FMEA most interesting, especially learning how they can be used to identify underlying causes of errors and potential risks before they lead to patient harm. I also found the focus on improving systems and preventing future errors very valuable.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1ldqwn2lw3psh",
+   "text": "Very well rounded course! Delving into the FMEA model helped expand my understanding.",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

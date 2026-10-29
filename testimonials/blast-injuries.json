@@ -1,0 +1,45 @@
+{
+ "course": "blast-injuries",
+ "testimonials": [
+  {
+   "id": "t1rwwstv182kj20",
+   "text": "The integration of blast physics with clinical care, especially how understanding overpressure waves directly explains the injury patterns we see in the lungs, bowel, and ear.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "th4rvwp1xoe89u",
+   "text": "Thoroughly enjoyable. A former Royal Navy Medic, we did learn about blast injuries but this really added greater depth of understanding to injuries, initial treatment and follow up treatment.",
+   "cadre": "Former Military Medic",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1l7ejgl10fcvqs",
+   "text": "I found the information about acute management of blast injury extremely interesting.",
+   "cadre": "Remote Paramedic",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tkhn359mpli5y",
+   "text": "The most interesting aspect of this course was learning how blast injuries are classified and managed, especially the differences between primary, secondary, tertiary, and quaternary injuries. I also found the emergency management of blast injuries in pediatric and pregnant patients particularly interesting.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tqn0mt11mqhev8",
+   "text": "Paediatric resuscitation from blast injury. Not something I ever thought we would see in the U.K. but it has now happened and we must be prepped.",
+   "cadre": "Nurse",
+   "country": "United Kingdom",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

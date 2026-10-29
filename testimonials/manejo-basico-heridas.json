@@ -1,0 +1,27 @@
+{
+ "course": "manejo-basico-heridas",
+ "testimonials": [
+  {
+   "id": "tyx4bac11vvh8b",
+   "text": "Son excelentes, ayudaron muchísimo a mi aprendizaje.",
+   "cadre": "Estudiante de medicina",
+   "country": "Argentina",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "tq4v7jazsizh5",
+   "text": "Los mejores aspectos del curso fueron el enfoque práctico, las explicaciones claras y basadas en evidencia, así como las recomendaciones para el manejo adecuado de heridas en diferentes escenarios clínicos.",
+   "country": "El Salvador",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "t11bgatbh3h50",
+   "text": "Me gustó la disponibilidad del material en PDF y el video explicativo.",
+   "country": "Argentina",
+   "stars": 5,
+   "lang": "es"
+  }
+ ]
+}

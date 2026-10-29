@@ -1,0 +1,35 @@
+{
+ "course": "laparoscopic-cholecystectomy",
+ "testimonials": [
+  {
+   "id": "t15qi3c9bh0654",
+   "text": "The case based approach and the clear breakdowns of complex guidelines were excellent.",
+   "cadre": "Nurse",
+   "country": "Philippines",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tasb35ryh1w6m",
+   "text": "The structured breakdown of the critical view of safety and the step-by-step guidance on laparoscopic cholecystectomy technique were extremely clear and helpful.",
+   "cadre": "General Medical Officer",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1iphmndqqdra6",
+   "text": "Thanks, it helps me a lot to have a sound knowledge on basic laparoscopic cholecystectomy.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ethiopia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1fwkq2178c6om",
+   "text": "The video about techniques of cholecystectomy is very interesting and clear.",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

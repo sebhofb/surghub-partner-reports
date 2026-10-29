@@ -1,0 +1,35 @@
+{
+ "course": "tecsalud-basic-burn-management",
+ "testimonials": [
+  {
+   "id": "t9l7odv1wgje1m",
+   "text": "The course was well-structured and organized. The presentation was very helpful and filled with concepts in concise manner.",
+   "cadre": "Anaesthesiologist",
+   "country": "Pakistan",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t10axzsk1uaufeh",
+   "text": "The lecture video was informative and to the point. It taught me what the warning signs to look out for are.",
+   "cadre": "Anaesthesiologist",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "ty0io8clucozp",
+   "text": "The aspect of the course I found most interesting was learning how to properly assess and manage a burn injury based on its severity and extent. I found it especially helpful to learn about the different degrees of burns, initial first aid, wound care, fluid management and the importance of preventing infection.",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tc65hbn1r5mrl4",
+   "text": "The most interesting part is how to manage each degree of burn initially.",
+   "cadre": "Anaesthesiologist",
+   "country": "Thailand",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

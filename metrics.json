@@ -1,0 +1,80 @@
+{
+  "as_of": "2026-10-29",
+  "updated_at": "2026-10-29T08:47:17.616Z",
+  "source": "SURGhub, via SURGdash (Global Surgery Foundation)",
+  "registered_learners": 69279,
+  "enrolments": 119110,
+  "countries": 221,
+  "courses": 147,
+  "certificates": 37864,
+  "content_providers": 35,
+  "certification_rate_pct": 31.8,
+  "overall_satisfaction_pct": 92.2,
+  "likely_to_apply_pct": 92.2,
+  "satisfaction_responses": 39422,
+  "average_rating": 4.6,
+  "study_minutes": 19818723,
+  "study_years": 37.7,
+  "top_countries": [
+    {
+      "country": "India",
+      "iso2": "IN",
+      "enrolments": 6111,
+      "share_pct": 7.9
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso2": "AE",
+      "enrolments": 5595,
+      "share_pct": 7.2
+    },
+    {
+      "country": "United States",
+      "iso2": "US",
+      "enrolments": 5190,
+      "share_pct": 6.7
+    },
+    {
+      "country": "United Kingdom",
+      "iso2": "GB",
+      "enrolments": 3395,
+      "share_pct": 4.4
+    },
+    {
+      "country": "Mexico",
+      "iso2": "MX",
+      "enrolments": 3321,
+      "share_pct": 4.3
+    },
+    {
+      "country": "Pakistan",
+      "iso2": "PK",
+      "enrolments": 3022,
+      "share_pct": 3.9
+    },
+    {
+      "country": "Kenya",
+      "iso2": "KE",
+      "enrolments": 3007,
+      "share_pct": 3.9
+    },
+    {
+      "country": "Egypt",
+      "iso2": "EG",
+      "enrolments": 2655,
+      "share_pct": 3.4
+    },
+    {
+      "country": "Nigeria",
+      "iso2": "NG",
+      "enrolments": 2480,
+      "share_pct": 3.2
+    },
+    {
+      "country": "Ethiopia",
+      "iso2": "ET",
+      "enrolments": 2410,
+      "share_pct": 3.1
+    }
+  ]
+}

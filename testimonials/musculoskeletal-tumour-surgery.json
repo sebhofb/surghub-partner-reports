@@ -1,0 +1,52 @@
+{
+ "course": "musculoskeletal-tumour-surgery",
+ "testimonials": [
+  {
+   "id": "t7ys89k1ex3sed",
+   "text": "I found the way in which surgical margins in sarcoma were explained (in the assessment section) very interesting.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ethiopia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t2ijv8j9e2ry2",
+   "text": "The course was very thorough, systematic and exhaustive. It gave insights into a difficult and controversial though vital aspect of Orthopaedics. I would recommend this course to all Orthopaedic surgeons as it will add to their knowledge and help them in treating patients in a systematic manner.",
+   "cadre": "Specialist Surgeon",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t7cj54kjwrj8f",
+   "text": "The psychological aspect is what stands out to me the most. Engaging in sarcoma care in a resource-constrained setup, with multiple patients, often presenting with advanced disease, sometimes makes you forget the human aspect and pushes you to dissociate into a robot just focusing into the routine blunt jobs. So it is a nice wake up call.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ethiopia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tbm9ec8yq8hyb",
+   "text": "The approach and the steps to take if a patient presents with musculoskeletal tumour, that really helped me.",
+   "cadre": "Physician",
+   "country": "Somalia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tgqgos61s78t9v",
+   "text": "Every aspect of it is perfect but more then all seeing real life patient interview after osteosarcoma successfully managed with multidisciplinary team is astonishing and amazing and also the mega prosthetic part that I see I envied you guys if we would have here in our country it is very much helpful.",
+   "country": "Ethiopia",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t130vrgj6jtyli",
+   "text": "The way the course connected pathology, radiology, staging systems, and treatment strategies helped me better understand the real-world approach to musculoskeletal oncology and patient management.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "course": "common-intraoperative-problems",
+ "testimonials": [
+  {
+   "id": "trfobkc1o1dqnd",
+   "text": "It contains beautiful information that helps me manage complications within the processes.",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t67k8rf1phyafe",
+   "text": "Well I'm currently taking up anesthesia science so, these lectures are really helpful. Everything from drugs to staff work relationships.",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tv1xylesfjrof",
+   "text": "I found it most interesting how teamwork, communication, and small clinical details can make a big difference on patient safety.",
+   "cadre": "Anaesthesia Technician",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tc47wv8gbrmjh",
+   "text": "Everything was interesting. The structure to approach to the intraoperative issues was simple, clear and applicable.",
+   "cadre": "Anaesthesiologist",
+   "country": "Papua New Guinea",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

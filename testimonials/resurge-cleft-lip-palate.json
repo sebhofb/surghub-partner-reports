@@ -1,0 +1,50 @@
+{
+ "course": "resurge-cleft-lip-palate",
+ "testimonials": [
+  {
+   "id": "t1megunu1ridcs9",
+   "text": "The unilateral cleft lip repair lecture was so enriching and well explained.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ethiopia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t3bu7qb4y32mu",
+   "text": "The most valuable aspect was the emphasis on the multidisciplinary, staged care pathway, from primary repair through speech, hearing, and orthodontic follow-up. The course reinforced that surgical success alone does not define a good outcome, and it gave me a structured framework for auditing and improving the care I provide.",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1aj1h3cc1fr0r",
+   "text": "Altogether, the course combined anatomy, pathology, and step-by-step surgical technique in a way that was very practical and clinically relevant.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1n0b5vs11p3cy7",
+   "text": "The explanations of the different types of repairs with the diagrams was very helpful. Especially when Prof marked out on the images how he would mark the patient prior to cutting.",
+   "cadre": "Resident",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1m3t1iim5ujff",
+   "text": "I found it particularly valuable to learn how small structural details, such as the philtral unit and nasal floor reconstruction, have a major impact on long-term outcomes.",
+   "cadre": "Gynaecologist",
+   "country": "Rwanda",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t78si2wa4d0t",
+   "text": "As I am a dental surgeon it is very important to learn about cleft lip and palate because it affects the dentition of the patient.",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

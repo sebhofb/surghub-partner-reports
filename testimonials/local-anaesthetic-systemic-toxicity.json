@@ -1,0 +1,44 @@
+{
+ "course": "local-anaesthetic-systemic-toxicity",
+ "testimonials": [
+  {
+   "id": "t1rewfm2tmkb6p",
+   "text": "I found the sections on early recognition of CNS excitation and the mechanism of Intralipid therapy particularly interesting. The real-world case examples helped tie everything together.",
+   "cadre": "Non-Clinical Professional",
+   "country": "Canada",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1jzk19btddxo6",
+   "text": "I liked the format of each slide being a question and the content of the slide being an answer.",
+   "cadre": "Nurse",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tks1sie10becth",
+   "text": "The focus on early recognition of LAST signs was particularly valuable. Understanding subtle clinical indicators and how to differentiate them from other complications was extremely insightful.",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1kppgqe1cko1ml",
+   "text": "What I found most interesting was how knowledgeable I became about LAST in such a short amount of time. I finished understanding the early warning signs, progression of toxicity, the risk factors and importance of rapid treatment with lipid emulsions.",
+   "cadre": "Anaesthesiologist",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tvlbg3a113taor",
+   "text": "I enjoyed learning about the use of Intralipid and the role (or lack of role) of Propofol in the management of LAST.",
+   "cadre": "Physician",
+   "country": "Nigeria",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}
