@@ -1,0 +1,40 @@
+{
+ "course": "understanding-capnography",
+ "testimonials": [
+  {
+   "id": "tp8gb289jk8lb",
+   "text": "I enjoyed all of the course and it was easy to follow as a paramedic science student :)",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tj575at15wkffs",
+   "text": "The bite size information, the content is engaging and very interesting.",
+   "cadre": "Nurse Anaesthetist",
+   "country": "Oman",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1ss4mhuvtlxwt",
+   "text": "All aspects are interesting because it reflects in my daily clinical work in operating room.",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1n6oy4d1e95nsm",
+   "text": "I found the interpretation of the capnography waveform most interesting, especially how changes in the EtCO₂ and waveform can help assess ventilation, detect airway problems, and recognize changes during CPR and anesthesia.",
+   "cadre": "Anaesthesiologist",
+   "country": "Guatemala",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "twoqeyogh73az",
+   "text": "I really enjoyed the information regarding the different abnormal tracings.",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

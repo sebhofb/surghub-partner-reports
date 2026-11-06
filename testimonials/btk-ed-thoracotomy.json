@@ -1,0 +1,21 @@
+{
+ "course": "btk-ed-thoracotomy",
+ "testimonials": [
+  {
+   "id": "t1mhjwojuwjcou",
+   "text": "The 'who' section gives a nice overview of the evidence.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ireland",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tyhx3wjobc2fq",
+   "text": "The case scenarios were interesting and useful to understand the guidelines.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ukraine",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

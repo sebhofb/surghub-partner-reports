@@ -1,0 +1,29 @@
+{
+ "course": "colon-cancer-surgery",
+ "testimonials": [
+  {
+   "id": "tt4gyx71w36x9k",
+   "text": "I really appreciated the way this course was designed. The content was clear, well-structured, and easy to follow. I particularly enjoyed the section on polyps, as it was a topic where I had many knowledge gaps. Thanks to this course, I now have a much better understanding of this subject and have strengthened my knowledge.",
+   "cadre": "Specialist Surgeon",
+   "country": "Algeria",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t147nzujpxnh3e",
+   "text": "The most interesting aspects of this course were the practical parts and real-life examples. I especially enjoyed case-based discussions, as they helped me understand the material more deeply. Learning about new and modern approaches in the field was also very engaging and useful.",
+   "cadre": "Specialist Surgeon",
+   "country": "Albania",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t14n091n1whnzjk",
+   "text": "This course has really helped me in knowing the causes and as I will be seeing and transferring patients I will have an understanding of what is going on with my patients.",
+   "cadre": "Anaesthesiologist",
+   "country": "Zambia",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

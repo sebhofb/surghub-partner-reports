@@ -1,0 +1,64 @@
+{
+ "course": "z-plasty",
+ "testimonials": [
+  {
+   "id": "t97udms125kfh9",
+   "text": "I find the simulations interesting, providing great visualization and better understanding.",
+   "country": "China",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1xe8shi1sagifn",
+   "text": "I found the precision and technique involved in Z-plasty, particularly in altering scar direction and improving functional and aesthetic outcomes, most interesting. The way small adjustments in angles can significantly impact scar healing and appearance was fascinating.",
+   "cadre": "Nurse",
+   "country": "Iraq",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1d2xdlh1mesu3w",
+   "text": "The most interesting part was how Z-plasty design directly changes scar behavior. Seeing how adjusting limb angles (like 30 to 60 degrees) and lengths actually affects tension, lengthening, and final scar orientation made it feel very practical, not just theory.",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t3p10yb1tph6j8",
+   "text": "The surgical simulation that allows you to apply the knowledge acquired is a great tool.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1jh43598idk00",
+   "text": "The interactivity was a great feature. Much thought was put into this course, and it is apparent. The DIY kit was also an amazing touch making it much more engaging and fun.",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1h87x1vmydjq",
+   "text": "An excellent, practical course that strongly reinforces surgical principles through simulation.",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t4wxd0s19ecg5",
+   "text": "I had heard of the term Z-plasty before and knew it was used in lip reconstruction and pilonidal sinus but never thought about the specific angles to increase length etc. It was super cool to know. Also the model for physical simulation was really cool and easy to make.",
+   "cadre": "Medical Student",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1x0oy3gyuiztp",
+   "text": "The most interesting part is the simulation that lets us understand more of how to measure the flap.",
+   "cadre": "Anaesthesiologist",
+   "country": "Thailand",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

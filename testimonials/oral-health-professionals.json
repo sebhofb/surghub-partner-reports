@@ -1,0 +1,44 @@
+{
+ "course": "oral-health-professionals",
+ "testimonials": [
+  {
+   "id": "t1xr88cv37oiaq",
+   "text": "The quality pictures or visual aids used. It contained real live pictures of people with certain concepts being explained, I didn't need to search further to understand. The picture in the material showed me exactly the disease being spoken about. The pre course test as well was great. It piqued my interest before getting into the main course.",
+   "cadre": "Specialist Surgeon",
+   "country": "Poland",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tdv393s1i1m969",
+   "text": "I enjoyed every aspect of it. It was a good revision tool for me.",
+   "cadre": "General Medical Officer",
+   "country": "Ghana",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tw2hivuwg6ge7",
+   "text": "Learning about different diseases that can be caused by clefts was interesting to me. There are a multitude of diseases and I loved hearing ways to help prevent them.",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tcvllia10rrhnv",
+   "text": "I found the lessons about cleft care, oral health, prevention, and teamwork among healthcare professionals most interesting.",
+   "cadre": "Physician",
+   "country": "Afghanistan",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1hhizli1yfojmh",
+   "text": "The contributing factors to cleft were more than I was aware of and I do not have much experience with initial cleft treatment so aspects like managing scar tissues was also new information.",
+   "cadre": "Nurse",
+   "country": "United Kingdom",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

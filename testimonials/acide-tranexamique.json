@@ -1,0 +1,52 @@
+{
+ "course": "acide-tranexamique",
+ "testimonials": [
+  {
+   "id": "taejweh1o2wbvy",
+   "text": "Le contenu est clair, structuré et directement applicable à la pratique clinique, y compris en contexte humanitaire. J’ai particulièrement apprécié l’équilibre entre théorie, recommandations internationales et aspects pratiques.",
+   "cadre": "Infirmier(ère)",
+   "country": "Tchad",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "t1vkiy9zj6y8xo",
+   "text": "Médicament couramment utilisé dans notre pratique courante mais nous ignorons tous ces autres bénéfices.",
+   "country": "Bénin",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "tfaee64fwdwaf",
+   "text": "Très instructif, et engageant. Plus de contenu de ce genre.",
+   "cadre": "Médecin généraliste",
+   "country": "Cameroun",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "tk2op9k1y3lc6j",
+   "text": "Merci beaucoup pour le cours, j'ai appris beaucoup sur l'acide tranexamique.",
+   "cadre": "Clinicien(ne) non médecin",
+   "country": "RD Congo",
+   "stars": 4,
+   "lang": "fr"
+  },
+  {
+   "id": "tnoubr3v688eg",
+   "text": "J'ai trouvé particulièrement intéressants les liens entre les essais cliniques (CRASH-2, WOMAN, ATACAS) et leur application pratique. Cela rend le cours concret et utile pour la pratique quotidienne.",
+   "cadre": "Interne",
+   "country": "Mexique",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "tnbadjz1jxged2",
+   "text": "Le fait qu'il n'y a aucune étude qui a prouvé que l'acide tranexamique augmente le risque d'accident thrombo-embolique et que celui-ci pouvait s'administrer dans de nombreux contextes.",
+   "cadre": "Infirmier(ère) anesthésiste",
+   "country": "Luxembourg",
+   "stars": 5,
+   "lang": "fr"
+  }
+ ]
+}

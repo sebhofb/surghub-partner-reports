@@ -1,0 +1,37 @@
+{
+ "course": "btk-suturing-horizontal-mattress",
+ "testimonials": [
+  {
+   "id": "tqufcoy1t06qzx",
+   "text": "I practiced independently while the video was playing, which made the experience very engaging.",
+   "cadre": "Medical Student",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tfz9ntsp88wv1",
+   "text": "Very very good presentation. Please add virtually practicing surgical games like app.",
+   "cadre": "Emergency Medicine Doctor",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tjo93uwoktssh",
+   "text": "Learned the mattress technique which will help polish my suturing.",
+   "cadre": "Clinical Officer",
+   "country": "Kenya",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tifv5v31886jpc",
+   "text": "I found the practical aspects of the course most interesting, particularly learning different surgical techniques and understanding when and how to apply them in clinical situations. The hands-on and practical information made the course engaging and useful.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "course": "arterial-blood-pressure-measurement",
+ "testimonials": [
+  {
+   "id": "t1x4ii4tm2qdfk",
+   "text": "I am a nursing student, and I never knew that ABP can be measured and as well it's more accurate. Thanks.",
+   "cadre": "Nursing Student",
+   "country": "Nigeria",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t11jjjf11amjeve",
+   "text": "Reinforced my knowledge of what the waveform related to in the different parts of the cycle.",
+   "cadre": "Anaesthesia Technician",
+   "country": "New Zealand",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tg20gwbw6ksse",
+   "text": "Damping, Allen test, zeroing are well explained plus visual representation is also very informative.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Pakistan",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "to54l631onc16e",
+   "text": "I found the practical knowledge, clinical skills, and real-life scenarios most interesting because they will help me improve my skills and provide better patient care.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1hh5p3udijymx",
+   "text": "All the information was relative and informative and has helped me refresh my knowledge on arterial blood pressure monitoring.",
+   "cadre": "Nurse",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1gshkww10ibfed",
+   "text": "I found the arterial line monitoring, waveform interpretation, and troubleshooting most interesting.",
+   "cadre": "Anaesthesiologist",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

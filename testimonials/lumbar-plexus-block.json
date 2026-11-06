@@ -1,0 +1,21 @@
+{
+ "course": "lumbar-plexus-block",
+ "testimonials": [
+  {
+   "id": "to7motbwy302",
+   "text": "The method of teaching was very easy to comprehend. Wonderful course.",
+   "cadre": "Resident",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1hzvq7bicdjlg",
+   "text": "Excellent course.",
+   "cadre": "Anaesthesiologist",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

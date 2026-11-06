@@ -1,0 +1,21 @@
+{
+ "course": "nerve-stimulation",
+ "testimonials": [
+  {
+   "id": "t1qsh60cupol3p",
+   "text": "The sections on the physics of anesthesia (such as Coulomb's Law and nerve excitability curves) were highly engaging. I particularly enjoyed how theoretical physical laws were directly linked to clinical practice and nerve block procedures.",
+   "cadre": "Specialist Surgeon",
+   "country": "Anguilla",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1rbf8hshx7mtf",
+   "text": "A good review for fresh starters as always.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ethiopia",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

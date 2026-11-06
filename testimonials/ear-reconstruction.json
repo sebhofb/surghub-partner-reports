@@ -1,0 +1,27 @@
+{
+ "course": "ear-reconstruction",
+ "testimonials": [
+  {
+   "id": "tqnwc2r1x1zpja",
+   "text": "Showing real operating room cases was extremely helpful to understand the topic. Prof. showed different techniques in ear reconstruction.",
+   "cadre": "General Medical Officer",
+   "country": "Türkiye",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tjqmm0p1xshra6",
+   "text": "I find more interesting the emphasis on early intervention, especially the use of ear molding in newborns within the first few weeks of life. It demonstrates the importance of timing in treating ear deformities without the need for invasive surgery.",
+   "cadre": "Resident",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1sxcb8417ayq1h",
+   "text": "It was a good experience for learning about the surgical procedure of ear.",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "course": "tecnica-suturas-puntos",
+ "testimonials": [
+  {
+   "id": "tcmmgm5b5osh4",
+   "text": "Me encantó que en muy poco tiempo, pudiera aprender tanto, ya que por mis tiempos entre el trabajo y el hospital, no cuento con mucho y esta forma de enseñanza, es bastante práctica.",
+   "cadre": "Anestesiólogo(a)",
+   "country": "México",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "t1lijel0h327qr",
+   "text": "El hecho que no solo explica la técnica de sutura, sino que nos da a conocer el por qué, para qué sirve, en qué no funciona y aprender cómo checar cuál es el más conveniente para mi paciente.",
+   "cadre": "Odontólogo(a)",
+   "country": "México",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "tfm0pxb9nlob2",
+   "text": "Claridad en la toma de decisiones: te ayuda a diferenciar conceptos clave como capilaridad, absorción y fuerza tensil, que son vitales para evitar complicaciones como dehiscencias o abscesos.",
+   "cadre": "Enfermero(a)",
+   "country": "Perú",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "t1pyrnfr1hq7dbi",
+   "text": "La explicación clara y concisa del contenido, junto con los videos donde se ve la realización de los 3 puntos de sutura expuestos (simple, de colchonero o Sarnoff e intradérmico).",
+   "country": "México",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "t1uykt95s7ieyq",
+   "text": "Definitivamente el cómo se te explican los diferentes tipos de sutura, junto con los ejemplos y sobre todo las preguntas que ayudan a retroalimentar lo que vi y aprendí.",
+   "cadre": "Anestesiólogo(a)",
+   "country": "México",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "tyl2q6ukpi07n",
+   "text": "Considero que los mejores aspectos del curso fueron el enfoque práctico y la explicación de diferentes técnicas de sutura aplicables a situaciones clínicas reales. También me pareció útil que se abordaran aspectos como la selección de la técnica, el manejo adecuado de las heridas y la prevención de complicaciones. Los ejemplos y demostraciones facilitaron la comprensión y ayudaron a relacionar la teoría con la práctica clínica.",
+   "cadre": "Anestesiólogo(a)",
+   "country": "El Salvador",
+   "stars": 5,
+   "lang": "es"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "course": "telephone-consultation",
+ "testimonials": [
+  {
+   "id": "t1ofed73118kqy6",
+   "text": "Helping patients by phone is interesting because it's not something nurses in hospital inpatient units usually do.",
+   "cadre": "Nurse",
+   "country": "China",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t8wlb0atged6h",
+   "text": "The example of a real life conversation. It helped me understand better on how to apply what I learnt.",
+   "cadre": "Nursing Student",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tkbp7w11i1thn8",
+   "text": "First it shows a wrong methods, then show me a right method. So help me very well.",
+   "cadre": "Nurse",
+   "country": "Finland",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tzmcswyubdoqj",
+   "text": "The most interesting part for me was the point about not being able to see the patient during a telephone consultation. It made me think about how important it is to ask the right questions because we cannot see the patient's facial expressions, body language, or how they are moving. I also found the idea of repeating the advice at the end useful.",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1xj0n35mcpbq",
+   "text": "The images used, help me to understand more the conversation, especially how they were created in a way that they can express their emotions.",
+   "cadre": "Nurse",
+   "country": "Finland",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t102uiue131279x",
+   "text": "The various case scenarios were helpful in providing context and visualization of the content in action.",
+   "cadre": "Medical Technician",
+   "country": "Trinidad and Tobago",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1y0zzgu9p6eb",
+   "text": "Managing patients who cannot accept the bad news, how to deal such patients was very helpful.",
+   "cadre": "Gynaecologist",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}
