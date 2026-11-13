@@ -1,0 +1,36 @@
+{
+ "course": "pen-program-spanish",
+ "testimonials": [
+  {
+   "id": "tkqxlercj4swo",
+   "text": "Está super bien la forma de enseñar.",
+   "cadre": "Estudiante de medicina",
+   "country": "México",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "ttkitiy1xounwz",
+   "text": "Todo muy bien interesante, muy bien explicado.",
+   "cadre": "Anestesiólogo(a)",
+   "country": "Argelia",
+   "stars": 5,
+   "lang": "es"
+  },
+  {
+   "id": "t1hgakdw64elgf",
+   "text": "El curso es muy completo y aporta conocimientos prácticos que se pueden aplicar en el trabajo diario. Se valora el enfoque en ética, autonomía y consentimiento informado, ya que son temas fundamentales. Las evaluaciones ayudan a reforzar los contenidos, aunque algunas podrían ser más variadas para fomentar el pensamiento crítico.",
+   "country": "México",
+   "stars": 4,
+   "lang": "es"
+  },
+  {
+   "id": "t1ojt2tu1li0db5",
+   "text": "Abarca muchísimos ámbitos y no solo la esfera del paciente y su cuidado, abarcan temas administrativos que son geniales.",
+   "cadre": "Enfermero(a)",
+   "country": "México",
+   "stars": 5,
+   "lang": "es"
+  }
+ ]
+}

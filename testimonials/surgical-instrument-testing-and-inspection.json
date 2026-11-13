@@ -1,0 +1,50 @@
+{
+ "course": "surgical-instrument-testing-and-inspection",
+ "testimonials": [
+  {
+   "id": "t6294mnso9nxe",
+   "text": "I found the sections on visual inspection and functional testing of surgical instruments the most interesting, especially learning how to identify defects, check alignment, tension, and movement. These practical, real-world examples helped me better understand how proper inspection improves patient safety and the reliability of surgical procedures.",
+   "cadre": "Medical Student",
+   "country": "Tunisia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tsmab86v7aoef",
+   "text": "I found the most interesting aspects of this course to be the practical approach to inspecting and testing surgical instruments. The detailed explanation of visual inspection and functional testing, especially sharpness, alignment, and tension testing, was very valuable. I also found it interesting how proper inspection can directly impact patient safety and improve surgical outcomes.",
+   "cadre": "Anaesthesiologist",
+   "country": "Saudi Arabia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tbpsbyw1651mxn",
+   "text": "One of the most engaging parts is learning inspection criteria and defect recognition. This includes identifying issues like micro-cracks, corrosion, misalignment, dull cutting edges, and surface pitting. These details matter because even tiny defects can affect surgical outcomes or cause instrument failure in the operating room.",
+   "cadre": "Nurse",
+   "country": "Qatar",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tkbqronqhhhs6",
+   "text": "Thanks for the module, as surgical intern, these are the tutorials for me to teach the theater assistants at our facility.",
+   "country": "Uganda",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t8xe26a1vkvxxd",
+   "text": "Learn more about the handling of surgical instruments from a perspective that we as physicians sometimes take for granted but that is very important for the proper recovery of our patients.",
+   "cadre": "Physician",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t6iss8qkjmgvb",
+   "text": "I found the practical, hands-on guidelines for surgical instrument inspection and sharpness testing the most valuable. Learning the specific testing protocols for different specialty instruments (like using index cards for Kerrison rongeurs versus plastic dowels for osteotomes) provided clear, real-world context for sterile processing standards.",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

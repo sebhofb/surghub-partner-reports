@@ -1,0 +1,35 @@
+{
+ "course": "epidemiology-fundamentals-patient-safety",
+ "testimonials": [
+  {
+   "id": "t1gd7unp1tohgtc",
+   "text": "What a great refresher course for me. I found all aspects of this course interesting. I particularly took notes while going through root cause analysis (RCA), and failure mode and effect analysis (FMEA). I absolutely love how they were both explained.",
+   "cadre": "Anaesthesiologist",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1khboq8xmdz1l",
+   "text": "What I found most interesting in this epidemiology course is how it connects directly to real patient care and safety. Learning about things like near misses, adverse events, and the Swiss cheese model helped me understand that errors in healthcare are usually not just one person's mistake, but part of a bigger system issue. I also found it interesting how small breakdowns in the system line up and lead to serious outcomes.",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t5yf3yu1ev9jq9",
+   "text": "I found the sections on patient safety, identifying medical errors, root-cause analysis, effective communication, and strategies for preventing errors most interesting. The real-life scenarios were particularly useful because they showed how system factors can contribute to errors and how they can be prevented.",
+   "cadre": "Medical Technician",
+   "country": "Somalia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1d0x7b21ry599l",
+   "text": "The most interesting aspect of this course was learning how data and evidence can be used to understand real healthcare problems and improve patient care. I particularly enjoyed the parts about epidemiological data and patient safety because they showed me that even simple patterns in patient outcomes can reveal important issues that may otherwise be overlooked.",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

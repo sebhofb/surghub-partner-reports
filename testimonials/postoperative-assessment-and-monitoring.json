@@ -1,0 +1,41 @@
+{
+ "course": "postoperative-assessment-and-monitoring",
+ "testimonials": [
+  {
+   "id": "tcfsz1c1ezvnwl",
+   "text": "The things that I found the most interesting were the way words were conveyed. Everything was explained in such a professional manner that also still helped you to understand exactly what was going on.",
+   "cadre": "Nurse",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1mtlpto1b9fgql",
+   "text": "Undergoing training to be a PACU nurse, I found the whole course very interesting.",
+   "country": "Saint Helena",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1lv7xrz1xkqhng",
+   "text": "Learning about how to take proper care of patients postoperatively depending on their conditions.",
+   "cadre": "Nurse",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "thsnr1tgsvmde",
+   "text": "I found the postoperative assessment and monitoring of patients most interesting, especially learning how to recognize early signs of complications and changes in the patient's condition. It helped me better understand the importance of timely assessment, proper monitoring, and prompt intervention to ensure patient safety and recovery.",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t12gszp51ajtgmk",
+   "text": "I found the ABCDE part most interesting because nursing school emphasizes ABC and I forget about the DE part often.",
+   "cadre": "Nursing Student",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "course": "soins-fondamentaux-brulologie",
+ "testimonials": [
+  {
+   "id": "te42rb8s245vh",
+   "text": "Personnellement, j'ai grave été instruit par tous les chapitres, étant un tout nouveau médecin sorti de la fac, ce cours m'a encore aidé à renforcer mes connaissances, certains aspects sont intéressants notamment la prise en charge des brûlures, l'évaluation primaire.",
+   "cadre": "Médecin-chef",
+   "country": "RD Congo",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "txdhwcr101y7iq",
+   "text": "Les aspects les plus intéressants étaient l'apprentissage des différents types de brûlures, les premiers soins à administrer aux patients brûlés et les méthodes de prévention des infections. J'ai aussi trouvé très utile la partie sur l'évaluation de la gravité des brûlures.",
+   "cadre": "Aide-soignant(e)",
+   "country": "Côte d'Ivoire",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "t1ej6gagfo986x",
+   "text": "C'est le cours en général, mais les aspects les plus intéressants, c'est sa pertinence dans le monde et plus particulièrement en Afrique, par exemple le cas de la RCA.",
+   "cadre": "Infirmier(ère)",
+   "country": "République centrafricaine",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "t13smh55h14i06",
+   "text": "Le cours a bien fait le tour sur l'essentiel de la prise en charge dès la prévention primaire jusqu'à la réadaptation du patient.",
+   "cadre": "Anesthésiste",
+   "country": "Tunisie",
+   "stars": 5,
+   "lang": "fr"
+  }
+ ]
+}

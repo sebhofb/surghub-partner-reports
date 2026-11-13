@@ -1,0 +1,53 @@
+{
+ "course": "patient-centred-care",
+ "testimonials": [
+  {
+   "id": "t18otnf0gfdhv3",
+   "text": "The clear presentation of real-world case studies was the most engaging aspect, as it made understanding the practical application of concepts much easier, along with the well-structured organization of the content.",
+   "cadre": "Nurse",
+   "country": "Thailand",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1axwol8xjgmj1",
+   "text": "The comparison between fee-for-service and value-based funding was most interesting. I liked learning how surgical safety checklists and better communication directly improve patient outcomes and reduce costs.",
+   "cadre": "Nurse",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "twcyq5g1udci5b",
+   "text": "This course aligns well with the current global initiatives of improving access to quality healthcare. I am happy to have taken it at this early stage in my career. I will recommend all colleagues to pursue it.",
+   "cadre": "General Medical Officer",
+   "country": "Uganda",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1mz7p711lh2ea2",
+   "text": "Thank you for this excellent course. The content was clear, evidence-based, and highly relevant to clinical practice. I will continue to apply these principles and share them with healthcare staff through our person-centred care education activities.",
+   "cadre": "Nurse",
+   "country": "Türkiye",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tylhi507tv1af",
+   "text": "I found the sections on PROMs, patient-centred care, shared decision-making, and value-based healthcare particularly interesting. The practical application of patient-reported outcomes to improve quality of care and support better clinical decisions was especially relevant to my work.",
+   "cadre": "Nurse",
+   "country": "Brazil",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1efqrvl1xg8npu",
+   "text": "I found the discussion on how different payment and reimbursement models (such as fee-for-service, bundled payments, and value-based funding) influence clinical decision-making and patient-centred care particularly interesting. It gave me a clearer understanding of how financial incentives can shape provider behaviour, sometimes in ways that don't align with quality of care.",
+   "cadre": "Nurse",
+   "country": "Thailand",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

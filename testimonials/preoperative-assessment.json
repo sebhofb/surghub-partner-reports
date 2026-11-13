@@ -1,0 +1,27 @@
+{
+ "course": "preoperative-assessment",
+ "testimonials": [
+  {
+   "id": "t8dg6hg1nz2xt5",
+   "text": "Video tutorials very interesting and engaging.",
+   "cadre": "Nurse",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t8w4djh5y5jnq",
+   "text": "Everything was informative, organised and explained thoroughly. Loved how concise the details were.",
+   "cadre": "Nurse",
+   "country": "New Zealand",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t12i8gv7goqa52",
+   "text": "I found the preoperative assessment particularly interesting because it helped me better understand the importance of thoroughly assessing a patient's condition before surgery. I learned how proper assessment, identification of potential risks, and effective communication with the surgical team can help promote patient safety and prevent complications during and after the procedure.",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

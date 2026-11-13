@@ -1,0 +1,52 @@
+{
+ "course": "anaesthesia-in-war",
+ "testimonials": [
+  {
+   "id": "tzrm92g72uq5j",
+   "text": "For anyone preparing for ICRC deployment or similar humanitarian missions, this course does not just teach what to do, it reshapes how you think about what anaesthesia is for.",
+   "cadre": "Anaesthesiologist",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1cbfk011tuog0",
+   "text": "I found particularly interesting the practical approach to anaesthesia in low-resource and conflict settings, especially the use of drawover systems and ketamine. The course clearly explains how to adapt anaesthetic techniques, airway management and pain control to environments with limited equipment, while maintaining patient safety.",
+   "cadre": "Anaesthesiologist",
+   "country": "Italy",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "ttys7d81cdkyu1",
+   "text": "The concept that stood out to me the most was the importance of adapting trauma care to the realities of armed conflict and resource-limited settings. I learned that conflict-related injuries differ significantly from civilian trauma, with a higher prevalence of open, contaminated wounds and a greater risk of infection. This highlighted the need for context-specific approaches to trauma management.",
+   "country": "Ethiopia",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tp4ks2t8phz0e",
+   "text": "The 5 pillars approach and damage control surgery. The content was very practical for conflict zones and helped me understand how to manage complex trauma with limited resources.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Yemen",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tns4l4w1y20mtt",
+   "text": "An excellent course, well presented, incredibly useful, lots of new info and ideas, from someone who's completed 16 ICRC field missions in surgery hospitals over decades. Thanks.",
+   "cadre": "Anaesthesiologist",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1ago1eqa3hxa3",
+   "text": "The most interesting part was the practical, field-adapted approach, especially anaesthesia specific activities, oxygen cylinder calculation, drawover systems, and Exercise 4/4 on tropical diseases (Typhoid, Malaria, Tetanus, TB, Dengue) and how they affect anaesthetic planning. The focus on doing safe anaesthesia with limited resources was very relevant.",
+   "cadre": "Nurse",
+   "country": "Egypt",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

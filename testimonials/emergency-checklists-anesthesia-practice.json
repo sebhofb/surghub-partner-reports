@@ -1,0 +1,61 @@
+{
+ "course": "emergency-checklists-anesthesia-practice",
+ "testimonials": [
+  {
+   "id": "t1230m8srzcm1p",
+   "text": "I found the sections on cognitive aids in crisis management most interesting. Learning how symptom- versus diagnosis-based aids can guide clinical decisions during high-stress situations really highlighted the importance of structured support in patient safety. I also appreciated the practical strategies for implementing and customizing cognitive aids in the OR, including adapting them to local protocols and ensuring team-wide buy-in.",
+   "cadre": "Medical Student",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1lj18ki3tm26n",
+   "text": "I found the discussion on simulation studies most interesting, especially how consistently cognitive aids improved team performance. I also really appreciated learning the difference between symptom-based and diagnosis-based aids, since that’s directly relevant to real-world crisis management.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Pakistan",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1r65rv8d662d7",
+   "text": "I found the discussion on cognitive aids most interesting. Learning how symptom- versus diagnosis-based aids are used, and seeing how they improve performance in high-stress scenarios, was eye-opening. I also appreciated the practical examples from the operating room and emergency situations, which made it clear how these tools can directly impact patient safety.",
+   "cadre": "Medical Student",
+   "country": "Kazakhstan",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tbxs0i41gguqez",
+   "text": "The case studies were quite interesting due to the fact that it gives a realistic approach and response to the implementation of the cognitive aid.",
+   "cadre": "Physician",
+   "country": "Ghana",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1usrsl8hqgcsl",
+   "text": "The most interesting aspect of this course was learning how cognitive aids can effectively minimize human error and cognitive load during high-stress surgical crises. I also found the evidence-based strategies for improving team communication and the practical steps for implementing safety checklists in the operating room to be highly insightful.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Iraq",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tgn3hg5c8osrs",
+   "text": "The course was well organized, informative, and practical. It effectively highlighted the importance of cognitive aids in improving patient safety and team performance during critical events.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1u0ejvr980ny",
+   "text": "Thank you for providing this valuable course. The content was practical, clear, and highly relevant to anesthesia practice. I particularly appreciated the focus on patient safety and the use of cognitive aids during critical events.",
+   "cadre": "Anaesthesia Technician",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

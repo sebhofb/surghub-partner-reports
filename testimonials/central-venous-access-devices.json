@@ -1,0 +1,29 @@
+{
+ "course": "central-venous-access-devices",
+ "testimonials": [
+  {
+   "id": "tg4z15uana07",
+   "text": "The course was informative and improved my understanding of CVAD care and patient safety.",
+   "cadre": "Anaesthesiologist",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t3cdmd3be5c3s",
+   "text": "I like the visuals and easy way the information was presented.",
+   "cadre": "Nurse",
+   "country": "Canada",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1jr7421s5aleq",
+   "text": "The course was in a simple way, and the content was easy to understand. Then I liked that after each question, the correct answer with reference was there.",
+   "cadre": "Anaesthesiologist",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

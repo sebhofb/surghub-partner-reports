@@ -1,0 +1,52 @@
+{
+ "course": "handover",
+ "testimonials": [
+  {
+   "id": "t13v196r1dgpwdw",
+   "text": "The real life examples shown in the video helped me a lot in realising the ISBAR3 method clearly.",
+   "cadre": "General Medical Officer",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tjpvn941ge2bnb",
+   "text": "The ISBAR use in most of our hospitals in South Sudan isn't being applied. Therefore, I have an advantage to have acquired more knowledge in effective communication.",
+   "cadre": "Nurse",
+   "country": "South Sudan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "ttvu1we6ult5",
+   "text": "I really loved the scenarios part, I understand why they put ISBAR3.",
+   "cadre": "Physician",
+   "country": "Iraq",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "trd3hgx46nasm",
+   "text": "The scenario was the most interesting part for me because it was realistic, simple, and clear. It helped me better understand the situation, clarify the information, and organize my knowledge.",
+   "country": "Tunisia",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tjopnolb3whyy",
+   "text": "The way you guys showed the ISBAR3 through real-life clinical situation was truly interesting.",
+   "cadre": "Anaesthesiologist",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t10t4t5f1ldivr6",
+   "text": "The most interesting aspect of this course was learning how structured communication tools can actively override human error during high-stress transitions. It was fascinating to see how easily critical data evaporates due to environmental distractions, exhaustion, and fragmented systems. Exploring the psychological and systemic vulnerabilities of clinical handovers highlighted that safety isn't just about individual diligence.",
+   "cadre": "Nurse",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}
