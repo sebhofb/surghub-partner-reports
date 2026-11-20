@@ -1,0 +1,28 @@
+{
+ "course": "implementing-reliable-systems-fundamentals-patient-safety",
+ "testimonials": [
+  {
+   "id": "t1mvr5tv1g1c0ni",
+   "text": "I learned a lot and enjoyed a lot too.",
+   "cadre": "Nursing Student",
+   "country": "Philippines",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "ts5hs55xujbq8",
+   "text": "This course was really good.",
+   "country": "Bangladesh",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tebn5l3xwty9g",
+   "text": "I found the sections on patient safety, identifying root causes of errors, and the influence of artificial intelligence in healthcare most interesting. I especially liked learning how system design, communication, and safety strategies can help prevent errors rather than simply blaming individuals.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

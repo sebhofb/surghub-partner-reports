@@ -1,0 +1,37 @@
+{
+ "course": "video-consultations",
+ "testimonials": [
+  {
+   "id": "t1lbu9ri1chzq3j",
+   "text": "I enjoyed how clear the narrator's voice was, it made it easy to follow along. I also loved the illustrations which helped break the monotony. I am also a fan of the research papers and other additional content provided.",
+   "cadre": "General Medical Officer",
+   "country": "Kenya",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1jilz8xo8qmgs",
+   "text": "Scenarios were fantastic in demonstrating positive and negative aspects of video consultations.",
+   "cadre": "Physician",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1q2tnlp1wg0e9i",
+   "text": "More courses like this would be great.",
+   "cadre": "General Medical Officer",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "txuc2s31sta3r4",
+   "text": "The references for telehealth communication are very useful.",
+   "cadre": "Physician",
+   "country": "United Arab Emirates",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

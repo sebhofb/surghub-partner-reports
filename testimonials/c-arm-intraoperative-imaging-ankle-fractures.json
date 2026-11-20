@@ -1,0 +1,44 @@
+{
+ "course": "c-arm-intraoperative-imaging-ankle-fractures",
+ "testimonials": [
+  {
+   "id": "t1y8miaq1o0vh0z",
+   "text": "What I found most interesting in this course was learning how intraoperative imaging directly affects surgical outcomes, especially in procedures like ankle fracture fixation. The use of the Mortise View to assess joint alignment and implant positioning was fascinating because I now understand how even a few millimeters of misalignment can lead to long-term complications. I also appreciated the practical knowledge on positioning the patient and the C-Arm, which are vital skills in the theatre setting.",
+   "cadre": "Medical Technician",
+   "country": "Kenya",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tqz6gtb8tmbau",
+   "text": "The most interesting aspect of this course was learning how to use the C-Arm for real-time imaging during ankle fracture surgeries. I found it fascinating to see how intraoperative imaging improves the accuracy of fracture reduction and implant placement. Understanding the step-by-step positioning of the C-Arm and safety measures for both the patient and surgical team was particularly engaging.",
+   "cadre": "Gynaecologist",
+   "country": "Rwanda",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1tchgcy190g06x",
+   "text": "Thank you very much for the opportunity to systematize the procedure for obtaining x-rays in ankle injuries.",
+   "cadre": "Specialist Surgeon",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1xiq8z8ry9lel",
+   "text": "The imaging showing the radiographs and the labelling, made it clear and easy to understand why certain views are used and what proper alignment should look like.",
+   "cadre": "Physician",
+   "country": "Ireland",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t9xb9ru1bydhrf",
+   "text": "It was an interesting knowledge for me as I work in theater and I was not informed about radiation prevention apart from wearing lead apron.",
+   "country": "Rwanda",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

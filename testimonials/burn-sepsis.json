@@ -1,0 +1,52 @@
+{
+ "course": "burn-sepsis",
+ "testimonials": [
+  {
+   "id": "te5o2ys1ihma29",
+   "text": "The most valuable takeaway for me was the course's focus on clinical judgment. In a high-stress environment, it is easy to rely on labs or cultures, but this course reinforced that the most critical tools we have are daily, diligent wound assessment and aggressive surgical debridement. The perspective on empowering the entire clinical team, especially nurses, to identify and remove devitalized tissue is a strategy I intend to prioritize in my practice.",
+   "cadre": "Physician",
+   "country": "Ecuador",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t536nnb121sf1u",
+   "text": "I most enjoyed the real clinical case examples and learning the stepwise approach to diagnose and treatment. The section on graft infection recognition, sepsis workup and return to work planning were especially interesting and relevant to my clinical work.",
+   "cadre": "Medical Student",
+   "country": "China",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tx1odc1ajwdv6",
+   "text": "The clinical approach to early recognition and management of sepsis in burn patients was most interesting. The case-based examples and guidelines on fluid resuscitation, antibiotic use, and wound care made complex concepts easy to understand and directly applicable in practice.",
+   "cadre": "Medical Student",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1rdirm512o4w7g",
+   "text": "I found the practical aspects of burn care most interesting, especially learning how to assess burn wounds, manage skin grafts, recognize complications, and identify signs of infection or sepsis. The clinical case-based questions were particularly helpful because they showed how these concepts are applied in real patient care.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t32ihq1166vgda",
+   "text": "I liked how the surgeon explained what people commonly do as a mistake and he guided us to what we actually can do.",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1dc00a418d9hd3",
+   "text": "I found the clinical case scenarios and the sepsis recognition part most interesting. As a nurse, learning how to differentiate between wound colonization and true sepsis using lab trends like platelet count was very practical and will help me in daily practice.",
+   "cadre": "Nurse",
+   "country": "Egypt",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

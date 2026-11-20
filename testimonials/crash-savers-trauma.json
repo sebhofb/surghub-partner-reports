@@ -1,0 +1,44 @@
+{
+ "course": "crash-savers-trauma",
+ "testimonials": [
+  {
+   "id": "t1qqnt9g1ma8oa9",
+   "text": "The visual illustrations using YouTube videos and images to make every step clear was very helpful for me.",
+   "cadre": "Anaesthesiologist",
+   "country": "Iraq",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1u8b89h1emctx8",
+   "text": "Foley catheter concept: it was new to me.",
+   "cadre": "Nurse",
+   "country": "Uganda",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t4771ekdioyuh",
+   "text": "The aspect of this course that I find most interesting is the videos because they give a detailed illustration of how a procedure should be carried out.",
+   "cadre": "Medical Student",
+   "country": "Nigeria",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1rbdeswscavdh",
+   "text": "All are good but especially I like the videos and it contains both amazing explanatory animations with real-life scenarios.",
+   "cadre": "Anaesthesiologist",
+   "country": "Sri Lanka",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t28iiazwa85xg",
+   "text": "As a student midwife I have learned in my studies to manage PPH, postpartum hemorrhage, but during this I gained more information regarding different ways to stop bleeding in critical condition, all aspects were interesting but the most one was using Foley catheter.",
+   "country": "Rwanda",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

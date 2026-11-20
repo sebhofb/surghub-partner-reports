@@ -1,0 +1,51 @@
+{
+ "course": "breast-cancer-surgery-course",
+ "testimonials": [
+  {
+   "id": "t1y2xixn1xwijy2",
+   "text": "Overall the course was highly educational and helped me gain a better understanding of the surgical aspects of patient care intraoperatively, which is particularly valuable in my role as a theatre practitioner.",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "ttk3x9kz21apl",
+   "text": "The proper and clear guidelines for every investigation apart from triple assessment, which has been explained in a very nice way. Question scenarios was the best part.",
+   "cadre": "General Medical Officer",
+   "country": "Ireland",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tfro76d191dnok",
+   "text": "The schematics made learning fun.",
+   "cadre": "Resident",
+   "country": "Guyana",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tysdgc812pw2x9",
+   "text": "The breast reconstruction module was very detailed.",
+   "cadre": "Resident",
+   "country": "Guyana",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tkd6sja1reu7hh",
+   "text": "I like how interactive is the course and the examples and staged cases with images.",
+   "cadre": "Specialist Surgeon",
+   "country": "Jordan",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1d177yh10ei4wy",
+   "text": "The set up and system of presentations of the modules. These helped me to appreciate the indications and factors to consider for primary surgery in breast cancer. Also, understanding the various surgical options for breast itself.",
+   "country": "Sierra Leone",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

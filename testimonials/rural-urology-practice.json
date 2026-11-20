@@ -1,0 +1,28 @@
+{
+ "course": "rural-urology-practice",
+ "testimonials": [
+  {
+   "id": "tk49c4e1xf968v",
+   "text": "The course was informative and well-structured. I appreciate the effort put into delivering relevant clinical content, especially topics like urosepsis, urethral trauma, and emergency urology care. It would be even more beneficial if future sessions included more hands-on demonstrations or virtual simulations to enhance understanding. Thank you for a valuable learning experience.",
+   "cadre": "Specialist Surgeon",
+   "country": "Nigeria",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tglf8001fbtov5",
+   "text": "Even though I'm working in a tertiary hospital in my country, I can still find many similarities in the approach of patients, treatment plan etc.",
+   "country": "Greece",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1orz4kx1p34h1e",
+   "text": "This has really upskilled my surgical career. Thank you so much to Dr Jesudian.",
+   "cadre": "General Medical Officer",
+   "country": "Lesotho",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

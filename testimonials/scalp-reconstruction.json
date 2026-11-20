@@ -1,0 +1,45 @@
+{
+ "course": "scalp-reconstruction",
+ "testimonials": [
+  {
+   "id": "t13cq4gh6fwk3s",
+   "text": "Great course on scalp reconstruction, the MCQs and explanation were very helpful.",
+   "cadre": "Nurse",
+   "country": "Pakistan",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t11153jc1wxpb7x",
+   "text": "I found the quiz aspect fun and engaging and thought it useful to do the questions prior to the lectures to stimulate engagement.",
+   "cadre": "Specialist Surgeon",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1eaxdxkv2ad6p",
+   "text": "Will be very grateful to have more of these similar free online courses for reconstruction of other regions of the body. This really highlighted the important principles to always apply in my practice.",
+   "cadre": "Anaesthesiologist",
+   "country": "Zimbabwe",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1s6m0km43go5j",
+   "text": "I found the reconstructive algorithm for scalp defects most interesting, particularly how defect size, pericranium status, and tissue quality guide the choice between primary closure, local flaps, skin grafts, and free tissue transfer. The case based discussions and anatomy review were especially practical.",
+   "cadre": "General Medical Officer",
+   "country": "Nigeria",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t17jaekl8iomuu",
+   "text": "The course perfectly covered the issues about scalp reconstruction. It was useful to see real patient photos to understand the procedures.",
+   "cadre": "General Medical Officer",
+   "country": "Türkiye",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

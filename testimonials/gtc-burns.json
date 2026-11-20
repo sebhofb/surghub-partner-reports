@@ -1,0 +1,51 @@
+{
+ "course": "gtc-burns",
+ "testimonials": [
+  {
+   "id": "twajxqg1cq2fp9",
+   "text": "What I found most interesting was the integration of acute management, surgical decision-making, and long-term rehabilitation. It really highlighted how multidisciplinary burn care has to be.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1xxl6si18kxrqh",
+   "text": "I found the management of burn patients most interesting, especially the initial assessment, fluid resuscitation, surgical treatment, and early rehabilitation. I also found it useful to learn how early interventions can help prevent complications and improve patient outcomes.",
+   "cadre": "Anaesthesiologist",
+   "country": "El Salvador",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tl2uuwb1pezgxk",
+   "text": "Thanks for the lecture, I enjoyed everything. I must say that I learned a lot especially at the level of surgical management of burns.",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1yof9qx13sza8k",
+   "text": "I found the practical aspects of burn management most interesting, especially burn assessment, fluid resuscitation, surgical excision, infection recognition, and rehabilitation. The clinical scenarios were particularly useful for understanding how these principles are applied in patient care.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1gp85ecmbi1tp",
+   "text": "Great course for doctors encountering heavy loads of burns patients on a daily basis.",
+   "cadre": "Physician",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1vdt1un1tt2yjy",
+   "text": "I found the sections on initial burn assessment and early management the most interesting. In particular, learning how to recognize burn depth, identify signs of vascular compromise that may require an escharotomy, and understand the importance of early fluid resuscitation stood out to me.",
+   "cadre": "Physician",
+   "country": "Guatemala",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

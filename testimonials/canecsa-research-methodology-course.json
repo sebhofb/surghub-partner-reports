@@ -1,0 +1,51 @@
+{
+ "course": "canecsa-research-methodology-course",
+ "testimonials": [
+  {
+   "id": "te41i11sk4ule",
+   "text": "For me, the most interesting aspects of this course were the parts that showed how research connects directly to patient care. I found it eye-opening that the main purpose of clinical research is not just to publish papers but to actually improve outcomes for patients. Another highlight was learning about planning and structuring research questions.",
+   "cadre": "Clinical Officer",
+   "country": "Uganda",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1fnb4jqyuya99",
+   "text": "Overall, the course was informative, well structured, and valuable for my anaesthesiology training. It has improved my understanding of clinical research and will be helpful in planning future research projects.",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tbdjc4ab5uhw3",
+   "text": "I found the modules on study design, data collection, and how to critically read research papers the most interesting. They are very practical and directly useful for quality improvement projects in the operating room.",
+   "cadre": "Nurse",
+   "country": "Morocco",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t131666u8yaj13",
+   "text": "I found the real-world examples most interesting, especially the CRASH-2 trial, which showed how a large randomised trial can change international guidelines. I also enjoyed learning how simple clinical audits, like the iron deficiency anaemia and bedside television studies, can answer practical questions without needing complex resources.",
+   "cadre": "Non-Clinical Professional",
+   "country": "Indonesia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tuiqv90kceqr7",
+   "text": "I found the sections on critical appraisal of papers and the practical sessions on literature searching the most interesting. Learning how to turn a research idea into a clear research question, and then choose a suitable study design, made the whole research process feel much more manageable.",
+   "cadre": "Nurse Anaesthetist",
+   "country": "Indonesia",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tj4bb3rgc0y80",
+   "text": "The most interesting aspects of this course were learning about research methodology and understanding how to design meaningful research studies. I especially found the guidance on developing research proposals and approaching funding institutions valuable, as it provided insight into how research ideas can be transformed into practical projects. This knowledge will help me in planning future research and seeking opportunities to support evidence-based healthcare initiatives.",
+   "country": "Pakistan",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

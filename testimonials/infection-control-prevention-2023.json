@@ -1,0 +1,82 @@
+{
+ "course": "infection-control-prevention-2023",
+ "testimonials": [
+  {
+   "id": "t1vzjlp3ccqhe6",
+   "text": "The pre course quiz gave me a valuable insight over my knowledge of infection control and made me realise how much I had to learn. The course gave me a lot of information about HAI, their prevention and what mistakes we must never do as a doctor. The post course quiz helped me recall and answer.",
+   "cadre": "Physician",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1pvl9do1or9mkj",
+   "text": "I found the strict protocols regarding Propofol management and the emphasis on maximal sterile barrier precautions for central lines most interesting, as they highlight how critical anesthesia-specific timing and technique are in preventing hospital-acquired infections.",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1qd7dwlgwsrl0",
+   "text": "The prevention of hospital acquired infection, the importance of hand hygiene, the WHO surgical safety checklist and practical measures to prevent surgical site infection. The course was clear and practical for daily theater practice.",
+   "cadre": "Nurse Anaesthetist",
+   "country": "South Africa",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t15nky09180pbym",
+   "text": "Made me realize that sometimes the most basic thing to do is the most important, like hand washing.",
+   "cadre": "Nurse",
+   "country": "Qatar",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tuq2ul91gf1oaa",
+   "text": "The hidden risks of PPE doffing: it was fascinating (and sobering) to learn that the vast majority of self-contamination occurs during the removal of PPE rather than the donning process. The emphasis on utilizing the buddy system and the strict mask on first, mask off last protocol provided a very practical solution to the risks we face during rapid OR turnovers.",
+   "cadre": "Nurse",
+   "country": "Morocco",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tr1rqdky5iugv",
+   "text": "Everything, it makes me think that I have to be more professional. I'm a PGY-2 General Surgery, sometimes here in Mexico, we don't take that much importance to hand-washing. Thank for this kind of courses.",
+   "cadre": "General Surgery Resident",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t11ndx031v18zs8",
+   "text": "I also found antimicrobial stewardship and the correct use of central lines and catheters very informative, especially how small practices like 'scrub the hub' and proper handwashing can significantly reduce hospital-acquired infections and improve patient safety.",
+   "cadre": "Nurse",
+   "country": "United Arab Emirates",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t18u6lh4cvccpd",
+   "text": "I found the course very interesting because it explained practical infection control steps like hand hygiene, safe IV handling, and waste management in a simple and clear way. The short videos and real-life examples made it easy to understand and remember. I liked that it focused on safety for both patients and healthcare workers.",
+   "cadre": "Nurse",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tj7e01a83f1yj",
+   "text": "I was particularly surprised by how often self-contamination occurs during PPE removal and how critical it is to follow each step correctly.",
+   "cadre": "Nurse",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tn84oab1amwvzm",
+   "text": "Learning how healthcare-associated infections spread and how simple preventive measures can significantly reduce risks was very informative. As someone working in a medspa, I found this knowledge especially valuable for maintaining a safe environment for clients and professionals.",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

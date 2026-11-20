@@ -1,0 +1,44 @@
+{
+ "course": "perioperative-medicine",
+ "testimonials": [
+  {
+   "id": "t1r1m2gyfpl893",
+   "text": "I found the sections on perioperative risk assessment, frailty, functional status, prehabilitation, and the use of risk prediction tools such as P-POSSUM particularly interesting. I also found the discussion of identifying high-risk surgical patients and planning appropriate postoperative care very relevant to clinical practice.",
+   "cadre": "General Medical Officer",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tdog77m1wpjnu5",
+   "text": "The most interesting part was the aspect of prehabilitation and the statement to change the mindset of being on a waiting list for a surgery to preparing for a surgery.",
+   "cadre": "Anaesthesiologist",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tv0c46u1vqyjp3",
+   "text": "I found the sections on preoperative assessment, risk stratification, frailty assessment, and prehabilitation particularly interesting. I learned how identifying comorbidities, assessing functional capacity, and optimizing nutritional status before surgery can help reduce complications and improve patient outcomes. I also appreciated the emphasis on multidisciplinary teamwork and patient-centred care.",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1o5b73y12esncr",
+   "text": "The modules on perioperative assessment, risk stratification tools, and shared decision-making strategies were exceptionally structured, practical, and engaging.",
+   "cadre": "Nurse",
+   "country": "Uzbekistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1ngi05luqpgm8",
+   "text": "I found the ERAS protocols and perioperative care guidelines most interesting. The practical examples and case studies were very helpful for improving patient outcomes.",
+   "cadre": "Non-Clinical Professional",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

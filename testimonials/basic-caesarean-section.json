@@ -1,0 +1,51 @@
+{
+ "course": "basic-caesarean-section",
+ "testimonials": [
+  {
+   "id": "t1e49qy41jgtbgf",
+   "text": "It was a very useful and well-organized course. I especially appreciated the practical approach and the opportunity to strengthen my knowledge and skills in cesarean section procedures.",
+   "cadre": "Gynaecologist",
+   "country": "Ecuador",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tx1osvf7xqhau",
+   "text": "The interactive identification of surgical instruments was very helpful for clinical preparation.",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1fz5lb61wtaa9j",
+   "text": "This course was very interesting for me, because it's what I deal with almost every single day, it was wonderful.",
+   "cadre": "General Medical Officer",
+   "country": "Zambia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tq2h6jiliqje9",
+   "text": "The simplicity of teaching such complex surgery in a stressful situation is unmatched.",
+   "cadre": "General Medical Officer",
+   "country": "Kenya",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "tn88od815q5j71",
+   "text": "The instruments. I always wanted to know which one is for what. I am a medical school student myself. And it was my first time seeing them.",
+   "cadre": "Medical Student",
+   "country": "Azerbaijan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1i1uam917ki62o",
+   "text": "I love that it is an actual C-section video presentation.",
+   "cadre": "Nurse",
+   "country": "Philippines",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

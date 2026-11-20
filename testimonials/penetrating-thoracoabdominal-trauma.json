@@ -1,0 +1,29 @@
+{
+ "course": "penetrating-thoracoabdominal-trauma",
+ "testimonials": [
+  {
+   "id": "ti1m2g010e5xjb",
+   "text": "The course is very nice. I can say this is very good food for the health practitioner.",
+   "cadre": "General Medical Officer",
+   "country": "Zambia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tulsv1a12y8oev",
+   "text": "The simulation building is fascinating and possible even to construct at home and take to the residents or fellows at the hospital.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ethiopia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t36sb8hlwh4fo",
+   "text": "The videos were clear, and the material was beginner-learner friendly, I mean I am new to laparoscopy but things were flowing.",
+   "cadre": "General Medical Officer",
+   "country": "Uganda",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "course": "trocar-placement",
+ "testimonials": [
+  {
+   "id": "tvfvdijgpjlm4",
+   "text": "Very good.",
+   "cadre": "Specialist Surgeon",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t134bpk41221irf",
+   "text": "It's very helpful.",
+   "cadre": "Resident",
+   "country": "Egypt",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t90t1vxrnfn8i",
+   "text": "Port placement techniques, and I really like the open technique.",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}
