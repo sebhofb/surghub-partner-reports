@@ -1,0 +1,37 @@
+{
+ "course": "interprofessional-communication-fundamentals-patient-safety",
+ "testimonials": [
+  {
+   "id": "tkpy8lgt92spb",
+   "text": "The sections on communication, teamwork, and speaking up. The real-life scenarios showed how small communication gaps can affect patient safety and how simple tools like briefs, handoffs and time-outs can help prevent errors.",
+   "cadre": "Medical Technician",
+   "country": "India",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1rc40v61mi0p1h",
+   "text": "I found learning about authority gradients and communication interesting.",
+   "cadre": "Non-Clinical Professional",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1s726i6x12se1",
+   "text": "Very informative and helpful as it is concise.",
+   "cadre": "Anaesthesiologist",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t4mnjnn158rxn8",
+   "text": "I found the sections on communication, teamwork, authority gradients, and patient safety most interesting. I especially appreciated learning how tools like briefs, handoffs, time-outs, and debriefs can prevent miscommunication and reduce the risk of medical errors.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

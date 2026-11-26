@@ -1,0 +1,51 @@
+{
+ "course": "introduction-intraoperative-imaging",
+ "testimonials": [
+  {
+   "id": "t1wdecoat2rct9",
+   "text": "What I learn from this course to how to operate a C-arm machine with all safety protocol and most interesting part was how we can reduce dose.",
+   "country": "Afghanistan",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t199a711i1gku6",
+   "text": "I found the C-arm course very interesting because it gave me the opportunity to learn how to operate the machine correctly and safely. I was especially interested in learning about the proper positioning techniques and how to reduce radiation exposure. This knowledge is very important and useful for my future clinical practice.",
+   "cadre": "Nurse",
+   "country": "Somalia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1ie6e8zr4cqc8",
+   "text": "I am confident to properly use our C-arm in the operating room.",
+   "cadre": "Resident",
+   "country": "Ethiopia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tfi6hmf1ez5lf4",
+   "text": "Great general course to familiarize oneself with radiology safety. Does not focus on any specific system but rather can be applied to various settings and situations. Great course!",
+   "cadre": "Nurse",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tlo6wgh1tmlqpo",
+   "text": "I found the radiation safety aspects of the course most interesting, especially learning about C-Arm positioning, dose reduction techniques, shielding, safe distance, and the importance of minimizing radiation exposure to both patients and staff.",
+   "cadre": "Medical Technician",
+   "country": "Canada",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tbgb0w897ywib",
+   "text": "I think it was well organized and easy to understand. I liked the photos included, especially the visual of the tape on the ground where the C-arm should be lined up if you have to pull it out and then go back in again.",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

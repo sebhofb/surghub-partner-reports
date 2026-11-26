@@ -1,0 +1,61 @@
+{
+ "course": "wound-care",
+ "testimonials": [
+  {
+   "id": "t1k1oy21mrdygq",
+   "text": "Currently I am working as a nurse in a rehabilitative center in Thailand, we have to provide rehabilitative and intermediate nursing care for severely burn patients (60%) after discharge. Calories calculation in this course is the most interesting part for me. The topic, content and objective are closely aligned with my current job.",
+   "cadre": "Nurse",
+   "country": "Thailand",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t6ct9pl1dx87fs",
+   "text": "The most interesting aspects of the course were learning about pain management in burn patients, particularly the different sources and mechanisms of pain, including neuropathic pain and opioid-induced hyperalgesia. I also found the sections on skin graft donor-site care, wound healing, and the hypermetabolic response to burns very valuable.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t10dglqy1a3ppbf",
+   "text": "The most interesting part of it is pain management being considered in various aspects of the patient beyond the wound/burn site. Most of the health care providers in LMIC focus on the wound than the patient as a whole which greatly delays wound healing, an emotional damage and other psychological challenges.",
+   "cadre": "General Medical Officer",
+   "country": "Uganda",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t145ib81128e508",
+   "text": "I found the management of burn patients, pain assessment and treatment, skin grafting, wound care, and nutritional requirements most interesting. I especially liked the practical information about managing pain and supporting recovery and rehabilitation in burn patients.",
+   "cadre": "Nurse",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1yxg2rg1ngdc9x",
+   "text": "Multimodal approach to a burnt patient. I am an advanced life support Paramedic from Zambia and we never learnt burns to this depth, this has been very helpful.",
+   "cadre": "Paramedic",
+   "country": "Zambia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1u5dl9s152685v",
+   "text": "The discussions on the hypermetabolic response and the importance of nutrition were particularly valuable, as they highlighted the systemic impact of burns beyond the skin.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1dr6fcc1s5tnv5",
+   "text": "I found the sections on burn pain management, wound care, skin grafts, and nutritional requirements in burn patients most interesting. They provided practical knowledge that can be applied to improve patient care and recovery.",
+   "cadre": "Medical Technician",
+   "country": "Somalia",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

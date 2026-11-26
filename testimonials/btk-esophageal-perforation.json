@@ -1,0 +1,37 @@
+{
+ "course": "btk-esophageal-perforation",
+ "testimonials": [
+  {
+   "id": "tlfgnmalw8dwp",
+   "text": "The lecture discussion was very useful and mimics a real scenario.",
+   "cadre": "Physician",
+   "country": "Egypt",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tle4mjf1pmr9m6",
+   "text": "Thank you for the well conducted case based learning.",
+   "cadre": "Specialist Surgeon",
+   "country": "Kenya",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t110lwoab5bvfx",
+   "text": "The flow of the scenario was seamless and clinically applicable across all settings. The major points were highlighted in Part B.",
+   "cadre": "Specialist Surgeon",
+   "country": "Kenya",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1x6g3ja1qpv867",
+   "text": "Discussion of real life scenarios is very useful.",
+   "cadre": "Physician",
+   "country": "Somalia",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "course": "trauma-disaster-team-response-mcgill",
+ "testimonials": [
+  {
+   "id": "t1x5ihg01b699xn",
+   "text": "I found the trauma assessment, triage, and emergency management topics most interesting. I especially liked learning how the ABCDE approach helps nurses quickly identify life-threatening problems and how START and JumpSTART are used during disasters. I also found the different roles within the trauma team interesting because it showed me how important communication and teamwork are for providing safe and effective patient care.",
+   "cadre": "Nurse",
+   "country": "Iraq",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tubmp76qet4nz",
+   "text": "Thank you for providing a well-structured and informative course. The practical trauma scenarios and case-based learning were particularly valuable. The content was relevant, easy to follow, and applicable to real clinical situations. I appreciate the effort of the instructors and course developers and look forward to participating in future training programs.",
+   "cadre": "Anaesthesiologist",
+   "country": "Bulgaria",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tdu6kt2ao6b6d",
+   "text": "The most interesting aspects were the practical trauma approach, especially the primary survey, airway management, shock recognition, chest trauma, pediatric trauma, pregnancy trauma, burns, and START/JumpSTART triage. I found the case-based questions helpful because they connected the lectures to real emergency decision-making.",
+   "cadre": "Physician",
+   "country": "Palestine",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1qw2xnn2ftdcm",
+   "text": "What I found most interesting was how the course combined clinical reasoning, rapid decision-making, and team coordination. The simulation scenarios really highlighted how small changes in communication or prioritization can dramatically affect patient outcomes.",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1gm9yi1b5p364",
+   "text": "I found the topics about trauma assessment, burn management, pain control, and START triage the most interesting. I especially liked learning how to quickly assess patients, identify life-threatening problems, and decide which patients need urgent treatment.",
+   "cadre": "Nurse",
+   "country": "Iraq",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t8a45dzjlprzw",
+   "text": "The most interesting part of this course was learning how to manage chaos through teamwork rather than just surgical skills. It completely changed my perspective by showing how communication failures can cause more damage during a crisis than a shortage of medical supplies.",
+   "cadre": "Nurse",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

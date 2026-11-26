@@ -1,0 +1,31 @@
+{
+ "course": "liste-controle-oms-chirurgie-sure",
+ "testimonials": [
+  {
+   "id": "t1fsub1m95u685",
+   "text": "En tant qu'infirmière en chirurgie, l'entièreté du cours a été bénéfique pour mon apprentissage et l'évolution dans mes compétences professionnelles.",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "tfp9dj6neahcn",
+   "text": "La vérification de l'accord du patient, la vérification de la disponibilité des médicaments et matériels anesthésiques, la préparation pour traiter toute complication. Tout cela préserve la sécurité du patient et m'intéresse beaucoup.",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "t5pv3q2kzsqu5",
+   "text": "La vidéo de simulation en RDC sur la liste de contrôle de l'OMS. Très enrichissante.",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "t1qkaer3zwpohy",
+   "text": "Utilisation de la liste de contrôle OMS (vidéo), c'est vraiment la pratique réflexive sur la chirurgie sûre.",
+   "cadre": "Infirmier(ère)",
+   "country": "RD Congo",
+   "stars": 5,
+   "lang": "fr"
+  }
+ ]
+}

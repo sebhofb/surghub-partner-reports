@@ -1,0 +1,29 @@
+{
+ "course": "acute-appendicitis",
+ "testimonials": [
+  {
+   "id": "tqx240f14aa6oo",
+   "text": "The most interesting aspects were the practical, step-by-step approach to laparoscopic appendectomy and the emphasis on intraoperative decision-making. The case-based scenarios involving trocar placement, management of bleeding, and comparison of laparoscopic versus open approaches were particularly useful and relevant to clinical practice.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "trwom081srkzxr",
+   "text": "Everything was ok, I loved the case scenario and the videos explaining from the most basic of laparoscopic.",
+   "cadre": "Medical Student",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t73x4ao161pn67",
+   "text": "The most interesting aspects of this surgical course were the hands-on practice in the operating theater and the chance to connect theory with real patient cases. These experiences made learning practical and engaging, while also building confidence in surgical decision-making.",
+   "cadre": "Nurse",
+   "country": "Bangladesh",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

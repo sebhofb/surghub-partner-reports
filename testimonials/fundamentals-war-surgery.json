@@ -1,0 +1,52 @@
+{
+ "course": "fundamentals-war-surgery",
+ "testimonials": [
+  {
+   "id": "t1srdkfsh4kz41",
+   "text": "The focus on trauma management, triage, and damage control surgery in combat settings, especially how surgical care is adapted to resource-limited and high-pressure environments.",
+   "cadre": "Nurse",
+   "country": "Tanzania",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t3vrkvq1wac23v",
+   "text": "Having completed the David Nott Foundation HEST-UK course, this course was a very useful add on, including more general background knowledge and an overview of humanitarian surgery principles beyond the operating theatre.",
+   "cadre": "Specialist Surgeon",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1r4yaaazg2mm1",
+   "text": "The practical application of concepts in real clinical scenarios, especially the structured approach to patient management and rehabilitation. The interactive case-based questions were also very helpful.",
+   "cadre": "General Medical Officer",
+   "country": "Colombia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tngvc14jsc6ed",
+   "text": "It was useful to understand the surgical aspects to war-injuries outside my own speciality of Neurosurgery, e.g., leaving wounds open and coming back in an iterative manner to carry out debridement. I also found the information around the legal background and ballistics interesting.",
+   "country": "United States",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1u8fvwc3vx3jx",
+   "text": "I found the systematic approach to trauma assessment, particularly the ABCDE approach, and the principles of emergency management in conflict settings most interesting. I also appreciated learning about wound management, bleeding control, infection prevention, and the importance of teamwork and clinical decision-making. These concepts are practical and relevant to my work as a nurse in the Democratic Republic of the Congo.",
+   "cadre": "Nurse",
+   "country": "DR Congo",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1uqyc9clf0d85",
+   "text": "This was an excellent and incredibly valuable course. I found all aspects highly interesting, especially the practical approach to burn management in low-resource settings, the assessment of inhalation injury, TBSA calculation, and the clear guidance on fluid resuscitation and surgical indications. Thank you for this wonderful course.",
+   "cadre": "Nurse",
+   "country": "Netherlands",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

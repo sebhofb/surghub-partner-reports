@@ -1,0 +1,29 @@
+{
+ "course": "perioperative-blood-management-pediatric-patient",
+ "testimonials": [
+  {
+   "id": "tlvoej3bu1eqk",
+   "text": "Straightforward, easy-to-complete course.",
+   "cadre": "Educator",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t8npnxk1jp6opz",
+   "text": "It was short and precise, and there is a post test to check our understanding.",
+   "cadre": "Gynaecologist",
+   "country": "Nepal",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1wrtfv42zx4h9",
+   "text": "Everything was well explained.",
+   "cadre": "Medical Student",
+   "country": "Senegal",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

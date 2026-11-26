@@ -1,0 +1,27 @@
+{
+ "course": "fascia-iliaca-compartment-block",
+ "testimonials": [
+  {
+   "id": "t18fn4foxsmq3",
+   "text": "Applied anatomy, relevant to my clinical practice with rationale and clearly explained. I always find learning broad anatomy without clinical context very challenging.",
+   "cadre": "Emergency Medicine Doctor",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tor7sivbdxjoe",
+   "text": "Very helpful resources, I am doing the FIB under supervision. This online learning would really help me improve my knowledge and skills.",
+   "cadre": "Nurse",
+   "country": "Australia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tpcj1yy1m6583n",
+   "text": "Information concise and organised in a way which makes it easy to understand.",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

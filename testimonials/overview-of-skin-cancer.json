@@ -1,0 +1,20 @@
+{
+ "course": "overview-of-skin-cancer",
+ "testimonials": [
+  {
+   "id": "t23isoyftrcjb",
+   "text": "One of the most interesting aspects of this course was understanding the different types of skin cancer, and how their behavior, risk factors, and management differ. I found it especially valuable to learn how clinical features such as lesion size, borders, and location influence treatment decisions, including when to use standard excision versus Mohs micrographic surgery.",
+   "cadre": "Anaesthesiologist",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1bdmlb1myqiqg",
+   "text": "I found the clinical features most interesting. Learning how to spot different skin cancers by their appearance made it feel practical. The link between UV exposure and DNA damage also made the topic clear and logical. I also liked how each type behaves differently, which helps in real diagnosis.",
+   "country": "Pakistan",
+   "stars": 4,
+   "lang": "en"
+  }
+ ]
+}

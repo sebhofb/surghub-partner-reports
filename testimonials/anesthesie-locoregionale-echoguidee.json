@@ -1,0 +1,51 @@
+{
+ "course": "anesthesie-locoregionale-echoguidee",
+ "testimonials": [
+  {
+   "id": "t1cyvur5l94rio",
+   "text": "Merci pour ce merveilleux travail qui m'a beaucoup aidé à mieux prendre en main l'ALR. J'avais lu beaucoup de documents mais ça restait difficile. Cette méthode est vraiment pratique.",
+   "cadre": "Anesthésiste",
+   "country": "Burkina Faso",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "ty28ztz169c0lk",
+   "text": "J'ai beaucoup apprécié ces cours. EVOLU BLOC permet un apprentissage facile des ALR, très rassurant pour le débutant et permet surtout d'assurer la sécurité du patient.",
+   "cadre": "Anesthésiste",
+   "country": "Burkina Faso",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "t1p8y7zjvxco94",
+   "text": "Les étapes à suivre qui sont bien énumérées dans leur succession, très nécessaires pour un débutant. Le fait d'avoir des ateliers pratiques pour une toute petite démonstration afin de fixer notre lecture, vraiment ça m'a facilité l'apprentissage. Côté aspect technique : les modules des 1ères étapes de sono-anatomie, obtenir une bonne image, point de ponction, etc., c'était très instructif.",
+   "cadre": "Infirmier(ère) anesthésiste",
+   "country": "Burundi",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "tcx3yh8sslst5",
+   "text": "Merci de nous avoir disposé ce cours car il nous a permis de savoir faire différents blocs des membres inférieurs ainsi que supérieurs, je suis capable de réaliser une ALR sous une échographie.",
+   "stars": 4,
+   "lang": "fr"
+  },
+  {
+   "id": "t1gbfvsw13z6n47",
+   "text": "La présentation du cours était très simple et compréhensible avec les cas pratiques et les images.",
+   "cadre": "Anesthésiste",
+   "country": "Burkina Faso",
+   "stars": 5,
+   "lang": "fr"
+  },
+  {
+   "id": "tezbsej1bdn3e",
+   "text": "J'ai trouvé le plus intéressant la partie sur la sécurité et la prévention des complications lors des ALR, notamment la toxicité systémique des anesthésiques locaux (LAST) et les règles d'injection sous échographie. C'est à la fois très concret et directement applicable en pratique clinique.",
+   "cadre": "Technicien(ne) en anesthésie",
+   "country": "RD Congo",
+   "stars": 4,
+   "lang": "fr"
+  }
+ ]
+}

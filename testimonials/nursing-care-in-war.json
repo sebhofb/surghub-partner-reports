@@ -1,0 +1,51 @@
+{
+ "course": "nursing-care-in-war",
+ "testimonials": [
+  {
+   "id": "tox6d3mb1q7tr",
+   "text": "The interactive case studies and the real-world applications of the theoretical concepts were the most captivating parts of the course. They made the material feel relevant and sparked my curiosity to explore the topics further.",
+   "cadre": "Nurse",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tm5242lgfb5l4",
+   "text": "Thank you for providing this course. The content was helpful and clinically relevant, especially for understanding wound assessment and management principles.",
+   "country": "India",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1yl87xyjkhkhd",
+   "text": "The most interesting aspects of the course were the practical approaches to patient safety, surgical teamwork, burn management, ballistic injuries, and radiation safety. I particularly found the focus on non-technical skills, communication, situational awareness, and decision-making useful because these factors can have a major impact on patient outcomes.",
+   "cadre": "Nurse",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1vsbr4tldwtiu",
+   "text": "The communication tools module, especially ISBAR, TALK, and Closed-loop communication. Learning how to apply structured communication during handovers and emergencies was very practical and will directly improve patient safety in my daily work. The clinical nurse leadership part was also very inspiring.",
+   "cadre": "Nurse",
+   "country": "Egypt",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1ggab301w51mol",
+   "text": "The most interesting aspects of this course were the focus on nursing care in resource-limited and conflict-affected settings, as well as the emphasis on patient dignity, safety and adaptability. The modules related to wound care, patient assessment, CBRN/HAZMAT preparedness and nursing leadership were especially valuable because they combined practical clinical knowledge with humanitarian principles.",
+   "country": "Chile",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1qnzvpknytenx",
+   "text": "Found the practical, bedside-focused parts of the course the most interesting, especially: Systematic wound assessment (TIME model, tissue identification, exudate and edges), because it turns observation into a clear clinical decision. Linking theory to daily practice, such as choosing and applying dressings correctly rather than just knowing their names. Collaborative practice and communication tools (ISBAR, closed-loop, call-out), which show how patient safety depends as much on how we talk as what we do.",
+   "cadre": "Non-Clinical Professional",
+   "country": "Türkiye",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

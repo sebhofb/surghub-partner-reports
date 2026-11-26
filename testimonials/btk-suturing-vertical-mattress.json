@@ -1,0 +1,40 @@
+{
+ "course": "btk-suturing-vertical-mattress",
+ "testimonials": [
+  {
+   "id": "t1bli1861ot1z8h",
+   "text": "I really enjoyed the video most because it was very hands on. I felt like I could do it myself.",
+   "cadre": "Non-Clinical Professional",
+   "country": "United States",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1ob29y71v50pju",
+   "text": "The course was productive and really interesting, have learnt a lot.",
+   "stars": 4,
+   "lang": "en"
+  },
+  {
+   "id": "t1o4b182kgin5v",
+   "text": "The video demonstration, it put such a complex process to an understandable lesson.",
+   "cadre": "Anaesthesiologist",
+   "country": "Malaysia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1n6o8e61ui1yd5",
+   "text": "The explanation was clear and loved the change of view with the camera for a better understanding of the technique.",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t10vng35abz8lo",
+   "text": "I found the vertical mattress suturing technique most interesting, particularly how the far-far, near-near method helps close wounds under tension and properly evert the wound edges.",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

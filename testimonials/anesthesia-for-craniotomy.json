@@ -1,0 +1,59 @@
+{
+ "course": "anesthesia-for-craniotomy",
+ "testimonials": [
+  {
+   "id": "t1t2wb2q1ekv0or",
+   "text": "Short, precise, informative, specially the assessment part was amazing.",
+   "cadre": "Specialist Surgeon",
+   "country": "Ethiopia",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1jdx2yw4j58pf",
+   "text": "This course covers a really interesting intersection of physiology, pharmacology, and surgical technique, all critical to optimizing neurosurgical patient care.",
+   "cadre": "Medical Technician",
+   "country": "Belize",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t185i7gu1yd0dgr",
+   "text": "Amazing course indeed. Very relevant for all surgeons interested in neurosurgery and surgeons in deprived settings.",
+   "country": "Sierra Leone",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tsq5dsz1jprovs",
+   "text": "I particularly appreciated the emphasis on neurophysiological stability, airway management strategies, and the importance of multidisciplinary coordination.",
+   "cadre": "Non-Clinical Professional",
+   "country": "Antigua and Barbuda",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tmm15ejy4rd86",
+   "text": "The anaesthesia considerations for craniotomy, especially the monitoring techniques like SSEPs and MEPs, were very useful and clinically relevant.",
+   "country": "China",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tyfr3qh7fqa5u",
+   "text": "The balance between providing deep anesthesia and preserving accurate neurological monitoring, and how to maintain cerebral perfusion and oxygenation while allowing rapid recovery for early postoperative neurological assessment.",
+   "cadre": "Anaesthesiologist",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t11xa4om12e0jpf",
+   "text": "It provided a solid foundation in the principles and practical considerations of anesthesia for craniotomy. I appreciate the focus on safety, hemodynamic control, and cerebral protection.",
+   "cadre": "Anaesthesiologist",
+   "country": "Somalia",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

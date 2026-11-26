@@ -1,0 +1,52 @@
+{
+ "course": "facial-trauma",
+ "testimonials": [
+  {
+   "id": "t194vaik35eiqz",
+   "text": "I found the clinical cases and practical aspects of panfacial trauma management most interesting, especially the diagnosis, fracture classification, and treatment approaches.",
+   "cadre": "Nurse",
+   "country": "Thailand",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1hy927i1jljacr",
+   "text": "The multi-planar CT evaluation and mapping of complex midface structures. Learning how to systematically organize facial fractures into structural units (upper, midface, and lower third) rather than just memorizing bones completely changed how I analyze trauma cases.",
+   "cadre": "Anaesthesiologist",
+   "country": "Pakistan",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1i2140ytept13",
+   "text": "I found the various ways of assessing trauma the most relevant to my job, but enjoyed looking at the various cases, and outcomes.",
+   "cadre": "Specialist Surgeon",
+   "country": "United Kingdom",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "txdyf1w23jx7t",
+   "text": "Thank you for this excellent, clinically relevant course. It reinforced key principles in panfacial trauma management, particularly airway priorities and the sequencing of reconstruction. As a maxillofacial surgeon working in a conflict-affected setting, I found it highly valuable and would welcome further modules on trauma care in resource-limited environments.",
+   "country": "Yemen",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tvnhjan1axu950",
+   "text": "The systematic approach to classifying and managing complex fractures, particularly the Le Fort fracture patterns and their clinical implications. The way the course linked anatomical knowledge to real-life trauma scenarios helped solidify my understanding of facial architecture and how it influences both injury patterns and surgical repair strategies.",
+   "cadre": "Nurse",
+   "country": "Kenya",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "tosd4v3187k3b6",
+   "text": "The surgical pearls, for example: in malar complex fractures, entering directly on the temporalis muscle rather than the fascial layers to avoid being blocked by the zygomatic arch. These little details are gold, because they’re the difference between fighting the anatomy and working with it.",
+   "cadre": "Resident",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}

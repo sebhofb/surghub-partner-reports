@@ -1,0 +1,26 @@
+{
+ "course": "facial-paralysis",
+ "testimonials": [
+  {
+   "id": "tipmqnn8nrkio",
+   "text": "I found the integration of anatomy, timing, and surgical decision-making in facial reanimation to be the most interesting part of the course. Understanding how lesion location and duration of denervation directly influence the choice between nerve repair, nerve transfer, or free muscle transfer gave me a clear, algorithmic framework for approaching patients with facial paralysis.",
+   "cadre": "Specialist Surgeon",
+   "country": "Mexico",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1ox23xs1gxyt8n",
+   "text": "What I found most engaging was the interactive teaching style, which made complex concepts easy to understand with practical examples. Additionally, the content was well-structured, aligning perfectly with my skill development.",
+   "stars": 5,
+   "lang": "en"
+  },
+  {
+   "id": "t1nhefyolrefv1",
+   "text": "The most interesting aspects of this course were the practical clinical cases, facial nerve reconstruction techniques, and facial reanimation procedures. The explanations helped improve my understanding of treatment options and surgical decision-making.",
+   "country": "Saudi Arabia",
+   "stars": 5,
+   "lang": "en"
+  }
+ ]
+}
